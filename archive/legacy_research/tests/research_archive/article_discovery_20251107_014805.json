@@ -1,0 +1,3847 @@
+{
+  "discovery_date": "2025-11-07T01:47:19.938927",
+  "total_sites": 5,
+  "sites": {
+    "Hurriyet": {
+      "base_url": "https://www.hurriyet.com.tr",
+      "total_discovered": 12,
+      "articles": [
+        {
+          "index": 1,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/haberler/gunluk-piyasa-takvimi/7_kasim_2025/",
+          "discovered_at": "2025-11-07T01:47:48.183254"
+        },
+        {
+          "index": 2,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/sporarena/viktoria-plzen-fenerbahce-macinda-sok-karar-90-7de-var-inceledi-penalti-verilmedi-43010660",
+          "discovered_at": "2025-11-07T01:47:48.183265"
+        },
+        {
+          "index": 3,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/sporarena/live-viktoria-plzen-0-0-fenerbahce-uefa-avrupa-ligi-maci-ozeti-43009478",
+          "discovered_at": "2025-11-07T01:47:48.183267"
+        },
+        {
+          "index": 4,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/sporarena/ederson-kalesinde-devlesti-viktoria-plzen-karsisinda-duvar-ordu-43010654",
+          "discovered_at": "2025-11-07T01:47:48.183269"
+        },
+        {
+          "index": 5,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/dunya/son-dakika-bmgk-saraya-yonelik-yaptirimlari-kaldirdi-43010617",
+          "discovered_at": "2025-11-07T01:47:48.183271"
+        },
+        {
+          "index": 6,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiye-cop31e-ev-sahipligi-adayligini-ifade-etmistir-43010650",
+          "discovered_at": "2025-11-07T01:47:48.183272"
+        },
+        {
+          "index": 7,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/bilgi/galeri-saglik-bakanligi-isci-alimi-kura-tarihi-2025-iskur-saglik-bakanligi-2-bin-764-isci-alimi-kurasi-ne-zaman-hangi-tarihte-saglik-43010671",
+          "discovered_at": "2025-11-07T01:47:48.183274"
+        },
+        {
+          "index": 8,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/bilgi/galeri-resmi-gazete-kararlari-7-kasim-2025-bugunku-resmi-gazete-kararlari-neler-hakimler-ve-savcilar-kurulu-uyeligine-yapilan-secime-dair-43010668",
+          "discovered_at": "2025-11-07T01:47:48.183281"
+        },
+        {
+          "index": 9,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/haberleri/resmi-gazete-kararlari-7-kasim-2025",
+          "discovered_at": "2025-11-07T01:47:48.183283"
+        },
+        {
+          "index": 10,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/bilgi/galeri-kyk-bursu-ne-zaman-yatacak-2026-2026-gsb-kyk-ilk-odeme-tarihi-belli-oldu-mu-toplu-odeme-ayin-kacinda-verilecek-gsb-3-aylik-toplu-kyk-43010659",
+          "discovered_at": "2025-11-07T01:47:48.183285"
+        },
+        {
+          "index": 11,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/bilgi/galeri-kis-lastigi-uygulamasi-tarihi-2025-2026-zorunlu-kis-lastigi-ne-zaman-basliyor-hususi-araclarda-kis-lastigi-zorunlu-mu-hangi-araclarda-43010646",
+          "discovered_at": "2025-11-07T01:47:48.183287"
+        },
+        {
+          "index": 12,
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/sporarena/domenico-tedesco-avrupa-liginde-hedefimiz-ilk-8-43010681",
+          "discovered_at": "2025-11-07T01:47:48.183288"
+        }
+      ]
+    },
+    "OdaTV": {
+      "base_url": "https://www.odatv.com",
+      "total_discovered": 6,
+      "articles": [
+        {
+          "index": 1,
+          "source": "OdaTV",
+          "url": "https://www.odatv.com/guncel/ogrencisi-tarafindan-vurulan-ogretmen-davayi-kazandi-120122371",
+          "discovered_at": "2025-11-07T01:47:55.665641"
+        },
+        {
+          "index": 2,
+          "source": "OdaTV",
+          "url": "https://www.odatv.com/guncel/istanbul-havalimaninda-bomba-panigi-120122372",
+          "discovered_at": "2025-11-07T01:47:55.665679"
+        },
+        {
+          "index": 3,
+          "source": "OdaTV",
+          "url": "https://www.odatv.com/guncel/gtayi-bekleyenlere-kotu-haber-120122374",
+          "discovered_at": "2025-11-07T01:47:55.665684"
+        },
+        {
+          "index": 4,
+          "source": "OdaTV",
+          "url": "https://www.odatv.com/guncel/bmden-saraya-iyi-haber-120122373",
+          "discovered_at": "2025-11-07T01:47:55.665688"
+        },
+        {
+          "index": 5,
+          "source": "OdaTV",
+          "url": "https://www.odatv.com/spor/arda-turan-guven-tazeledi-120122375",
+          "discovered_at": "2025-11-07T01:47:55.665697"
+        },
+        {
+          "index": 6,
+          "source": "OdaTV",
+          "url": "https://www.odatv.com/spor/fenerbahce-cekyadan-bir-puanla-ayrildi-120122327",
+          "discovered_at": "2025-11-07T01:47:55.665701"
+        }
+      ]
+    },
+    "Bianet": {
+      "base_url": "https://bianet.org",
+      "total_discovered": 1,
+      "articles": [
+        {
+          "index": 1,
+          "source": "Bianet",
+          "url": "https://bianet.org/haber/bm-genel-sekreteri-uyardi-dunya-kuresel-isinmayi-1-5-c-altinda-tutmayi-basaramadi-313284",
+          "discovered_at": "2025-11-07T01:47:56.222805"
+        }
+      ]
+    },
+    "Sozcu": {
+      "base_url": "https://www.sozcu.com.tr",
+      "total_discovered": 200,
+      "articles": [
+        {
+          "index": 1,
+          "source": "Sozcu",
+          "url": "https://appgallery.huawei.com/app/C112215613",
+          "discovered_at": "2025-11-07T01:47:57.976774"
+        },
+        {
+          "index": 2,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/hukuk/kisisel-verileri-saklama-ve-imha-politikasi",
+          "discovered_at": "2025-11-07T01:47:57.976789"
+        },
+        {
+          "index": 3,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/hukuk/kisisel-verilerin-korunmasi-kanunu-kapsaminda-basvuru-formu",
+          "discovered_at": "2025-11-07T01:47:57.976793"
+        },
+        {
+          "index": 4,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/sevisilecek-insan-kalmadi-diyen-okan-bayulgen-e-eski-esinden-cevap-ben-olmedim-p256384",
+          "discovered_at": "2025-11-07T01:47:57.976796"
+        },
+        {
+          "index": 5,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/irem-derici-hollanda-da-saldiriya-ugradi-p256373",
+          "discovered_at": "2025-11-07T01:47:57.976799"
+        },
+        {
+          "index": 6,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/pelin-akil-ile-eski-esi-anil-altan-bir-arada-p256332",
+          "discovered_at": "2025-11-07T01:47:57.976802"
+        },
+        {
+          "index": 7,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/performansi-elestirilen-futbolcu-cengiz-under-den-sevgilisine-8-milyonluk-jest-p256279",
+          "discovered_at": "2025-11-07T01:47:57.976805"
+        },
+        {
+          "index": 8,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/iste-en-akilli-burc-beyinleri-saatte-100-km-hizla-calisir-kimse-onlari-kandiramaz-p256223",
+          "discovered_at": "2025-11-07T01:47:57.976807"
+        },
+        {
+          "index": 9,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/karabugday-veya-cavdar-degil-uzmanlara-gore-en-saglikli-ekmek-bu-eksi-mayaliyi-bile-solladi-p256260",
+          "discovered_at": "2025-11-07T01:47:57.976810"
+        },
+        {
+          "index": 10,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/filmden-cikarilan-faruk-peker-isyan-etti-tecavuzcu-coskun-dan-asagi-dusmusum-p256211",
+          "discovered_at": "2025-11-07T01:47:57.976813"
+        },
+        {
+          "index": 11,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/unlu-sarkiciyi-gorenler-tanimakta-zorlandi-48-kiloya-dustum-kimseye-tavsiye-etmiyorum-p256240",
+          "discovered_at": "2025-11-07T01:47:57.976816"
+        },
+        {
+          "index": 12,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/bu-3-icecek-omru-omru-uzatiyor-turkleri-sevindiren-dev-arastirma-tamamlandi-p256220",
+          "discovered_at": "2025-11-07T01:47:57.976818"
+        },
+        {
+          "index": 13,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/apar-topar-diziden-cikarildi-carpinti-dan-ayrilan-oyuncu-isyan-etti-p256192",
+          "discovered_at": "2025-11-07T01:47:57.976821"
+        },
+        {
+          "index": 14,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/vuslat-dogan-bosandi-ama-sabanci-soyadini-birakmadi-p256182",
+          "discovered_at": "2025-11-07T01:47:57.976824"
+        },
+        {
+          "index": 15,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/sadece-bu-ellerle-gunde-126-bin-tl-kazaniyor-p256267",
+          "discovered_at": "2025-11-07T01:47:57.976826"
+        },
+        {
+          "index": 16,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kim-der-ki-yasi-62-p255879",
+          "discovered_at": "2025-11-07T01:47:57.976829"
+        },
+        {
+          "index": 17,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/elinde-25-kurus-olan-turnayi-gozunden-vurdu-degeri-34-bin-871-tl-p256202",
+          "discovered_at": "2025-11-07T01:47:57.976832"
+        },
+        {
+          "index": 18,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kediniz-bu-yuzden-sizi-tuvalete-kadar-takip-ediyormus-p256229",
+          "discovered_at": "2025-11-07T01:47:57.976835"
+        },
+        {
+          "index": 19,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/nijerya-da-lassa-atesinde-can-kaybi-artti-p256452",
+          "discovered_at": "2025-11-07T01:47:57.976837"
+        },
+        {
+          "index": 20,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/izmir-deki-hastanede-turuncu-alarm-ameliyatlar-iptal-etti-p256393",
+          "discovered_at": "2025-11-07T01:47:57.976840"
+        },
+        {
+          "index": 21,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/bu-hastaliga-sokak-yakalaniyorsunuz-1-saat-maruz-kalmaniz-yeterli-p256084",
+          "discovered_at": "2025-11-07T01:47:57.976843"
+        },
+        {
+          "index": 22,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/40-yasindan-sonra-herkesin-yaptirmasi-gereken-3-kan-testi-p256079",
+          "discovered_at": "2025-11-07T01:47:57.976846"
+        },
+        {
+          "index": 23,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/dis-tedavisinde-yeni-donem-artik-dis-curumeden-engellenecek-p255996",
+          "discovered_at": "2025-11-07T01:47:57.976848"
+        },
+        {
+          "index": 24,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/varis-vucutta-pihti-riskini-artirabilir-p255841",
+          "discovered_at": "2025-11-07T01:47:57.976851"
+        },
+        {
+          "index": 25,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/ata-nin-evi-yeniden-aciliyor-p255897",
+          "discovered_at": "2025-11-07T01:47:57.976854"
+        },
+        {
+          "index": 26,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/osman-gazi-turbesi-kurulus-osman-li-gibi-p255653",
+          "discovered_at": "2025-11-07T01:47:57.976857"
+        },
+        {
+          "index": 27,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/erkeklerin-kalbinin-korunmasinin-kadinlardan-daha-zor-oldugu-ortaya-cikti-p255444",
+          "discovered_at": "2025-11-07T01:47:57.976859"
+        },
+        {
+          "index": 28,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/gorillaz-istanbul-da-iki-konser-verecek-p256201",
+          "discovered_at": "2025-11-07T01:47:57.976862"
+        },
+        {
+          "index": 29,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/hocalarin-hocasi-suheyla-altmisdort-son-yolculuguna-ugurlandi-p255747",
+          "discovered_at": "2025-11-07T01:47:57.976865"
+        },
+        {
+          "index": 30,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/enka-sanat-tan-muzikal-yolculuk-p255315",
+          "discovered_at": "2025-11-07T01:47:57.976867"
+        },
+        {
+          "index": 31,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/ortayli-ey-millet-camine-sahip-cik-p255135",
+          "discovered_at": "2025-11-07T01:47:57.976870"
+        },
+        {
+          "index": 32,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/unlu-oyuncunun-sitesinde-timsah-yakalandi-p256127",
+          "discovered_at": "2025-11-07T01:47:57.976873"
+        },
+        {
+          "index": 33,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kanserle-savasan-irmak-unal-dan-duygulandiran-paylasim-p256035",
+          "discovered_at": "2025-11-07T01:47:57.976875"
+        },
+        {
+          "index": 34,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/nurgul-yesilcay-in-kasim-ayinda-deniz-keyfi-p256025",
+          "discovered_at": "2025-11-07T01:47:57.976878"
+        },
+        {
+          "index": 35,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/gulben-ergen-abd-de-bornozla-hamburgerciye-gitti-p255972",
+          "discovered_at": "2025-11-07T01:47:57.976881"
+        },
+        {
+          "index": 36,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/basak-gumulcinelioglu-anne-oldu-dogum-sonrasi-ilk-aile-pozu-p255948",
+          "discovered_at": "2025-11-07T01:47:57.976883"
+        },
+        {
+          "index": 37,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kalp-krizi-gecirmisti-muazzez-abaci-dan-uzen-haber-p255868",
+          "discovered_at": "2025-11-07T01:47:57.976886"
+        },
+        {
+          "index": 38,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/82-yasindaki-sevket-altug-uzun-zaman-sonra-cenazede-ortaya-cikti-p255863",
+          "discovered_at": "2025-11-07T01:47:57.976888"
+        },
+        {
+          "index": 39,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/sevistiklerim-olmeye-basladi-demisti-okan-byulgen-e-bir-tepki-de-unlu-sarkicidan-p255856",
+          "discovered_at": "2025-11-07T01:47:57.976891"
+        },
+        {
+          "index": 40,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/unlu-rus-model-turkiye-de-kendisini-en-cok-sasirtan-seyi-acikladi-p255851",
+          "discovered_at": "2025-11-07T01:47:57.976893"
+        },
+        {
+          "index": 41,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/rus-model-turk-erkeklerinde-kendisini-en-cok-sasirtan-seyi-acikladi-p255818",
+          "discovered_at": "2025-11-07T01:47:57.976896"
+        },
+        {
+          "index": 42,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/oldugu-bile-soylenmisti-cayci-huseyin-boyle-goruntulendi-p255814",
+          "discovered_at": "2025-11-07T01:47:57.976898"
+        },
+        {
+          "index": 43,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/aldatildigini-anlayinca-dunyaca-unlu-futbolcuyu-terk-etti-p255809",
+          "discovered_at": "2025-11-07T01:47:57.976901"
+        },
+        {
+          "index": 44,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/konserdeki-diyalog-gundem-oldu-kedi-degilim-p255794",
+          "discovered_at": "2025-11-07T01:47:57.976904"
+        },
+        {
+          "index": 45,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kenan-sofuoglu-kamera-karsisina-gecti-p256502",
+          "discovered_at": "2025-11-07T01:47:57.976906"
+        },
+        {
+          "index": 46,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/viktoria-plzen-fenerbahce-macina-damga-vuran-pozisyon-p256501",
+          "discovered_at": "2025-11-07T01:47:57.976909"
+        },
+        {
+          "index": 47,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/saray-dan-dikkat-ceken-imrali-cikisi-p256500",
+          "discovered_at": "2025-11-07T01:47:57.976911"
+        },
+        {
+          "index": 48,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/tunceli-de-otomobil-dereye-uctu-uzman-cavus-hayatini-kaybetti-p256499",
+          "discovered_at": "2025-11-07T01:47:57.976914"
+        },
+        {
+          "index": 49,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/thomas-reis-bu-basarinin-baskahramani-oyuncular-p256496",
+          "discovered_at": "2025-11-07T01:47:57.976916"
+        },
+        {
+          "index": 50,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/yatirimcilar-dikkat-dev-bankanin-ceo-su-uyardi-p256433",
+          "discovered_at": "2025-11-07T01:47:57.976919"
+        },
+        {
+          "index": 51,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/akaryakitta-bir-ilk-60-liraya-dayandi-p256205",
+          "discovered_at": "2025-11-07T01:47:57.976925"
+        },
+        {
+          "index": 52,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/siber-saldirilar-giyim-markasini-vurdu-karinda-sert-dusus-p256256",
+          "discovered_at": "2025-11-07T01:47:57.976927"
+        },
+        {
+          "index": 53,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/abd-nin-ticari-ham-petrol-stoklari-5-2-milyon-varil-artti-p256232",
+          "discovered_at": "2025-11-07T01:47:57.976930"
+        },
+        {
+          "index": 54,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-yukseldi-6-kasim-2025-p256348",
+          "discovered_at": "2025-11-07T01:47:57.976933"
+        },
+        {
+          "index": 55,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/merkez-bankasi-acikladi-doviz-mevduati-neden-artiyor-p256245",
+          "discovered_at": "2025-11-07T01:47:57.976935"
+        },
+        {
+          "index": 56,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/2026-daha-zor-gececek-maaslara-vergi-dilimi-darbesi-vergi-ve-harclara-yuksek-zamlar-p256389",
+          "discovered_at": "2025-11-07T01:47:57.976938"
+        },
+        {
+          "index": 57,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kuresel-piyasalar-abd-verileriyle-yukseliste-istihdam-beklentileri-asti-iyimserlik-artti-p256225",
+          "discovered_at": "2025-11-07T01:47:57.976940"
+        },
+        {
+          "index": 58,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/gumus-fiyatlari-yonunu-yukari-cevirdi-p256266",
+          "discovered_at": "2025-11-07T01:47:57.976943"
+        },
+        {
+          "index": 59,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/altin-fiyatlarinda-belirsizlik-suruyor-yeniden-yukselise-gecti-p256241",
+          "discovered_at": "2025-11-07T01:47:57.976945"
+        },
+        {
+          "index": 60,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kripto-para-yatirimcisi-panikte-bitcoin-100-bin-dolarin-altina-sert-dustu-p255864",
+          "discovered_at": "2025-11-07T01:47:57.976948"
+        },
+        {
+          "index": 61,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/cin-den-hollanda-ya-nexperia-tepkisi-kuresel-tedarik-krizinin-sorumlusu-sizsiniz-p256425",
+          "discovered_at": "2025-11-07T01:47:57.976950"
+        },
+        {
+          "index": 62,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/japonya-merkez-bankasi-ucret-baskisi-altinda-enflasyon-mu-resesyon-mu-p256423",
+          "discovered_at": "2025-11-07T01:47:57.976953"
+        },
+        {
+          "index": 63,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/rusya-nin-petrol-ve-dogalgaz-gelirleri-yuzde-26-6-azaldi-p256421",
+          "discovered_at": "2025-11-07T01:47:57.976955"
+        },
+        {
+          "index": 64,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/turkiye-den-nutella-icin-yeni-karar-findik-alim-miktarini-revize-etti-p256420",
+          "discovered_at": "2025-11-07T01:47:57.976958"
+        },
+        {
+          "index": 65,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/ingiltere-merkez-bankasi-faizi-yuzde-4-te-sabit-tuttu-p256418",
+          "discovered_at": "2025-11-07T01:47:57.976960"
+        },
+        {
+          "index": 66,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/yabanci-yatirimcilar-242-8-milyon-dolarlik-hisse-senedi-aldi-p256409",
+          "discovered_at": "2025-11-07T01:47:57.976964"
+        },
+        {
+          "index": 67,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/merkez-bankasi-rezervlerinde-1-9-milyar-dolarlik-dusus-p256402",
+          "discovered_at": "2025-11-07T01:47:57.976966"
+        },
+        {
+          "index": 68,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/basvuru-icin-ocak-ayini-bekleyenler-binlerce-lira-kaybedecek-p256394",
+          "discovered_at": "2025-11-07T01:47:57.976969"
+        },
+        {
+          "index": 69,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/tusiad-baskani-turan-fiyat-istikrari-icin-para-politikasina-bel-baglayamayiz-p256386",
+          "discovered_at": "2025-11-07T01:47:57.976971"
+        },
+        {
+          "index": 70,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-yeniden-11-puanin-uzerinde-gune-basladi-p256251",
+          "discovered_at": "2025-11-07T01:47:57.976974"
+        },
+        {
+          "index": 71,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/viop-ta-endeks-kontrati-gune-yatay-basladi-6-kasim-2025-p256231",
+          "discovered_at": "2025-11-07T01:47:57.976976"
+        },
+        {
+          "index": 72,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-yukseldi-5-kasim-2025-p256018",
+          "discovered_at": "2025-11-07T01:47:57.976979"
+        },
+        {
+          "index": 73,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-gune-yukselisle-basladi-5-kasim-2025-p255922",
+          "discovered_at": "2025-11-07T01:47:57.976981"
+        },
+        {
+          "index": 74,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/viop-ta-endeks-kontrati-gune-dususle-basladi-5-kasim-2025-p255910",
+          "discovered_at": "2025-11-07T01:47:57.976984"
+        },
+        {
+          "index": 75,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/chp-nin-davasi-ertelendi-borsa-gune-dususle-basladi-p255584",
+          "discovered_at": "2025-11-07T01:47:57.976987"
+        },
+        {
+          "index": 76,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsada-enflasyon-etkisi-10-gun-sonra-bir-ilk-p255313",
+          "discovered_at": "2025-11-07T01:47:57.976989"
+        },
+        {
+          "index": 77,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-yeniden-11-puanin-uzerinde-p255221",
+          "discovered_at": "2025-11-07T01:47:57.976992"
+        },
+        {
+          "index": 78,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/viop-ta-endeks-kontrati-haftaya-yukselisle-basladi-3-kasim-2025-p255205",
+          "discovered_at": "2025-11-07T01:47:57.976996"
+        },
+        {
+          "index": 79,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-yukseldi-31-ekim-2025-p254354",
+          "discovered_at": "2025-11-07T01:47:57.976998"
+        },
+        {
+          "index": 80,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-gune-yukselisle-basladi-31-ekim-2025-p254257",
+          "discovered_at": "2025-11-07T01:47:57.977001"
+        },
+        {
+          "index": 81,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-gune-yukselisle-basladi-30-ekim-2025-p253933",
+          "discovered_at": "2025-11-07T01:47:57.977004"
+        },
+        {
+          "index": 82,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-gunu-yukselisle-tamamladi-28-ekim-2025-p253346",
+          "discovered_at": "2025-11-07T01:47:57.977006"
+        },
+        {
+          "index": 83,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/borsa-gune-yukselisle-basladi-28-ekim-2025-p253265",
+          "discovered_at": "2025-11-07T01:47:57.977009"
+        },
+        {
+          "index": 84,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/devlet-apo-nun-huzuruna-cikar-mi-p256148",
+          "discovered_at": "2025-11-07T01:47:57.977011"
+        },
+        {
+          "index": 85,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/turkiye-de-ilk-bobrek-naklinin-50-yili-uluslararasi-mesot-kongresi-ile-kutlaniyor-p256146",
+          "discovered_at": "2025-11-07T01:47:57.977014"
+        },
+        {
+          "index": 86,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/demirtas-ve-kavala-surecinde-neler-olacak-p256140",
+          "discovered_at": "2025-11-07T01:47:57.977017"
+        },
+        {
+          "index": 87,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/yilin-en-super-dolunayina-hazir-misiniz-p254800",
+          "discovered_at": "2025-11-07T01:47:57.977019"
+        },
+        {
+          "index": 88,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/23-yilda-3y-den-1y-ye-p255491",
+          "discovered_at": "2025-11-07T01:47:57.977022"
+        },
+        {
+          "index": 89,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/surecin-sonunda-turkler-kadar-yine-kurtler-zarar-gorecek-p248607",
+          "discovered_at": "2025-11-07T01:47:57.977025"
+        },
+        {
+          "index": 90,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/cumhur-un-krizini-okuma-kilavuzu-p255493",
+          "discovered_at": "2025-11-07T01:47:57.977027"
+        },
+        {
+          "index": 91,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/san-donemi-gerceklerle-hayalin-arasinda-bir-cumhuriyet-p254264",
+          "discovered_at": "2025-11-07T01:47:57.977030"
+        },
+        {
+          "index": 92,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/buyuyen-tehlike-cocuk-cinayetleri-ve-devletin-sessizligi-p213050",
+          "discovered_at": "2025-11-07T01:47:57.977032"
+        },
+        {
+          "index": 93,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/santim-santim-emek-bu-olsa-gerek-p254896",
+          "discovered_at": "2025-11-07T01:47:57.977035"
+        },
+        {
+          "index": 94,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/orkun-dun-gece-takimini-satti-p255122",
+          "discovered_at": "2025-11-07T01:47:57.977038"
+        },
+        {
+          "index": 95,
+          "source": "Sozcu",
+          "url": "https://www.korkusuz.com.tr/demirtas-tahliye-olunca-kavala-ve-can-atalay-da-olacak-mi-p46548",
+          "discovered_at": "2025-11-07T01:47:57.977041"
+        },
+        {
+          "index": 96,
+          "source": "Sozcu",
+          "url": "https://www.korkusuz.com.tr/selanik-duserken-tek-kursun-atilamadi-p46575",
+          "discovered_at": "2025-11-07T01:47:57.977043"
+        },
+        {
+          "index": 97,
+          "source": "Sozcu",
+          "url": "https://www.korkusuz.com.tr/cinsel-hayatiniz-cok-mu-monoton-p46574",
+          "discovered_at": "2025-11-07T01:47:57.977046"
+        },
+        {
+          "index": 98,
+          "source": "Sozcu",
+          "url": "https://www.korkusuz.com.tr/her-seye-zam-yagarken-enflasyon-duser-mi-p46570",
+          "discovered_at": "2025-11-07T01:47:57.977048"
+        },
+        {
+          "index": 99,
+          "source": "Sozcu",
+          "url": "https://www.korkusuz.com.tr/insan-neden-banyoda-sarkici-kesilir-p46547",
+          "discovered_at": "2025-11-07T01:47:57.977051"
+        },
+        {
+          "index": 100,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/feeds-rss-category-2024-paris-olimpiyatlari",
+          "discovered_at": "2025-11-07T01:47:57.977054"
+        },
+        {
+          "index": 101,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/secim2024mart31/adalet-ve-kalkinma-partisi-secim-sonuclari",
+          "discovered_at": "2025-11-07T01:47:57.977058"
+        },
+        {
+          "index": 102,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/secim2024mart31/halkarin-esitlik-ve-demokrasi-partisi-secim-sonuclari",
+          "discovered_at": "2025-11-07T01:47:57.977060"
+        },
+        {
+          "index": 103,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/secim2024mart31/demokrasi-ve-atilim-partisi-secim-sonuclari",
+          "discovered_at": "2025-11-07T01:47:57.977063"
+        },
+        {
+          "index": 104,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/secim2024mart31/hak-ve-ozgurlukler-partisi-secim-sonuclari",
+          "discovered_at": "2025-11-07T01:47:57.977066"
+        },
+        {
+          "index": 105,
+          "source": "Sozcu",
+          "url": "https://secim.sozcu.com.tr/secim2024mart31/adalet-ve-kalkinma-partisi-secim-sonuclari",
+          "discovered_at": "2025-11-07T01:47:57.977068"
+        },
+        {
+          "index": 106,
+          "source": "Sozcu",
+          "url": "https://secim.sozcu.com.tr/secim2024mart31/halkarin-esitlik-ve-demokrasi-partisi-secim-sonuclari",
+          "discovered_at": "2025-11-07T01:47:57.977071"
+        },
+        {
+          "index": 107,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/viktoria-plzen-fenerbahce-maci-canli-yayin-uefa-avrupa-ligi-4-hafta-p256481",
+          "discovered_at": "2025-11-07T01:47:57.977074"
+        },
+        {
+          "index": 108,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/manifest-grubunun-teshircilik-davasinda-imza-sarti-kaldirildi-p256434",
+          "discovered_at": "2025-11-07T01:47:57.977077"
+        },
+        {
+          "index": 109,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/erdogan-dan-ozgur-ozel-e-500-bin-liralik-dava-p256427",
+          "discovered_at": "2025-11-07T01:47:57.977079"
+        },
+        {
+          "index": 110,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/beton-dokerken-elektrik-akimina-kapilan-isci-oldu-p256391",
+          "discovered_at": "2025-11-07T01:47:57.977082"
+        },
+        {
+          "index": 111,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/erdogan-dan-ozel-e-turkiye-nin-ikinci-buyuk-partisinin-genel-baskani-p256387",
+          "discovered_at": "2025-11-07T01:47:57.977084"
+        },
+        {
+          "index": 112,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/yavuz-oghan-serbest-birakildi-emniyet-ten-cikmasina-izin-verilmiyor-p256363",
+          "discovered_at": "2025-11-07T01:47:57.977087"
+        },
+        {
+          "index": 113,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/sehrin-orta-yerinde-dus-almaya-basladi-saskinlik-yaratan-goruntulere-aciklama-geldi-p256323",
+          "discovered_at": "2025-11-07T01:47:57.977090"
+        },
+        {
+          "index": 114,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/akdeniz-de-4-1-depremle-sallandi-p256318",
+          "discovered_at": "2025-11-07T01:47:57.977093"
+        },
+        {
+          "index": 115,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/unlu-armator-mezarlikta-olu-bulundu-p256294",
+          "discovered_at": "2025-11-07T01:47:57.977095"
+        },
+        {
+          "index": 116,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/son-dakika-chp-bilgi-islem-sorumlusu-gozaltina-alindi-p256282",
+          "discovered_at": "2025-11-07T01:47:57.977098"
+        },
+        {
+          "index": 117,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/gaziosmanpasa-da-is-yerine-el-yapimi-patlayici-ile-saldiri-p256261",
+          "discovered_at": "2025-11-07T01:47:57.977100"
+        },
+        {
+          "index": 118,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/akp-li-belediyede-skandal-ataturk-bustunu-copun-kenarina-attilar-p256206",
+          "discovered_at": "2025-11-07T01:47:57.977103"
+        },
+        {
+          "index": 119,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/cevizlibag-da-is-makinesi-alev-alev-yaniyor-ekipler-alevlere-mudahale-ediyor-p256193",
+          "discovered_at": "2025-11-07T01:47:57.977105"
+        },
+        {
+          "index": 120,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/son-dakika-gazeteci-saban-sevinc-ve-yavuz-oghan-mali-subeye-goturuluyor-p256171",
+          "discovered_at": "2025-11-07T01:47:57.977108"
+        },
+        {
+          "index": 121,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/istanbul-havalimani-nda-bomba-panigi-yolcunun-sozleri-polisini-alarma-gecirdi-p256495",
+          "discovered_at": "2025-11-07T01:47:57.977111"
+        },
+        {
+          "index": 122,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/hazine-ve-maliye-bakanligi-nin-2026-butcesi-artirildi-p256494",
+          "discovered_at": "2025-11-07T01:47:57.977113"
+        },
+        {
+          "index": 123,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/akp-li-belediye-ozel-kalem-kadrosundan-yandaslara-memuriyet-dagitti-cogu-bakanliga-kapak-atti-p256493",
+          "discovered_at": "2025-11-07T01:47:57.977116"
+        },
+        {
+          "index": 124,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/akin-gurlek-ve-esinin-fotografini-paylasan-kisiye-gozalti-p256491",
+          "discovered_at": "2025-11-07T01:47:57.977118"
+        },
+        {
+          "index": 125,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/suleyman-soylu-dan-ozgur-ozel-e-tepki-p256489",
+          "discovered_at": "2025-11-07T01:47:57.977121"
+        },
+        {
+          "index": 126,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/istanbul-da-cukura-dusen-motosikletli-yaralandi-p256484",
+          "discovered_at": "2025-11-07T01:47:57.977123"
+        },
+        {
+          "index": 127,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/bakan-yardimcisi-omer-bulut-binanin-zarar-gormesinde-zemin-onemli-bir-etken-olmus-p256480",
+          "discovered_at": "2025-11-07T01:47:57.977126"
+        },
+        {
+          "index": 128,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/ozel-e-bir-tazminat-davasi-daha-p256478",
+          "discovered_at": "2025-11-07T01:47:57.977128"
+        },
+        {
+          "index": 129,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/akp-li-samil-tayyar-dan-tayfun-kahraman-isyani-p256472",
+          "discovered_at": "2025-11-07T01:47:57.977131"
+        },
+        {
+          "index": 130,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/izmir-unlu-boyozcu-ceza-aldi-p256471",
+          "discovered_at": "2025-11-07T01:47:57.977134"
+        },
+        {
+          "index": 131,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/bassavciliktan-ibb-davasi-iddianamesi-aciklamasi-p256465",
+          "discovered_at": "2025-11-07T01:47:57.977137"
+        },
+        {
+          "index": 132,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/bir-kenti-karistiran-intikam-kadin-gardiyana-yapay-zeka-tuzagi-p256464",
+          "discovered_at": "2025-11-07T01:47:57.977139"
+        },
+        {
+          "index": 133,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/balikesir-sindirgi-deprem-6-kasim-2025-son-depremler-p256463",
+          "discovered_at": "2025-11-07T01:47:57.977142"
+        },
+        {
+          "index": 134,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/imamoglu-ndan-demirtas-ve-yuksekdag-mesaji-p256460",
+          "discovered_at": "2025-11-07T01:47:57.977145"
+        },
+        {
+          "index": 135,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/istanbul-kar-ne-zaman-yagacak-kis-yagis-meteoroloji-p256458",
+          "discovered_at": "2025-11-07T01:47:57.977148"
+        },
+        {
+          "index": 136,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/diyarbakir-da-insaattan-dusen-isci-hayatini-kaybetti-p256453",
+          "discovered_at": "2025-11-07T01:47:57.977150"
+        },
+        {
+          "index": 137,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/okuldaki-sucuk-festivali-faciaya-donustu-80-kisi-hastanelik-oldu-p256448",
+          "discovered_at": "2025-11-07T01:47:57.977153"
+        },
+        {
+          "index": 138,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/gazetecilere-yurt-disina-cikis-yasagi-p256447",
+          "discovered_at": "2025-11-07T01:47:57.977155"
+        },
+        {
+          "index": 139,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/mehmet-boynukalin-tepki-ceken-paylasimi-6-kasim-2025-p256444",
+          "discovered_at": "2025-11-07T01:47:57.977158"
+        },
+        {
+          "index": 140,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/adana-da-feci-kaza-kamerada-otomobil-defalarca-takla-atti-p256443",
+          "discovered_at": "2025-11-07T01:47:57.977161"
+        },
+        {
+          "index": 141,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/samsun-da-silah-kacakciligi-operasyonu-2-kisi-tutuklandi-p256441",
+          "discovered_at": "2025-11-07T01:47:57.977163"
+        },
+        {
+          "index": 142,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/gorevinden-alinan-mudur-intihar-etmisti-akp-ye-yakin-egitimciler-ayaga-kalkti-p256431",
+          "discovered_at": "2025-11-07T01:47:57.977166"
+        },
+        {
+          "index": 143,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/viktoria-plzen-fenerbahce-maci-canli-yayin-uefa-avrupa-ligi-4-hafta-p256481?utm_source=anasayfa&utm_medium=son_dakika",
+          "discovered_at": "2025-11-07T01:47:57.977168"
+        },
+        {
+          "index": 144,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/altin-uzmani-islam-memis-in-agabeyi-bakin-kim-cikti-p255605",
+          "discovered_at": "2025-11-07T01:47:57.977171"
+        },
+        {
+          "index": 145,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/derbide-kirmizi-kart-goren-orkun-kokcu-den-ilk-aciklama-p256477",
+          "discovered_at": "2025-11-07T01:47:57.977174"
+        },
+        {
+          "index": 146,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/50-gun-tutuklu-kalan-unlu-oyuncu-itirafci-oldu-p256367",
+          "discovered_at": "2025-11-07T01:47:57.977176"
+        },
+        {
+          "index": 147,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/son-dakika-galatasaray-da-yunus-akgun-icin-ameliyat-karari-p256437",
+          "discovered_at": "2025-11-07T01:47:57.977178"
+        },
+        {
+          "index": 148,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/yeni-petrol-dunya-kuresel-satranc-tahtasinda-basrole-yerlesti-artik-enerji-cagi-bitti-maden-cagi-p256456",
+          "discovered_at": "2025-11-07T01:47:57.977181"
+        },
+        {
+          "index": 149,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/sizin-de-sofranizda-olabilir-unlu-peynir-zeytin-ve-yaglar-hileli-cikti-p256430",
+          "discovered_at": "2025-11-07T01:47:57.977183"
+        },
+        {
+          "index": 150,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kandilli-rasathanesi-nin-kurdugu-sistem-depremi-37-saniye-once-bildirdi-p256349",
+          "discovered_at": "2025-11-07T01:47:57.977186"
+        },
+        {
+          "index": 151,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/galatasaray-yenilgisi-sonu-oldu-yollar-ayrildi-p256454",
+          "discovered_at": "2025-11-07T01:47:57.977190"
+        },
+        {
+          "index": 152,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/avm-lerin-babasi-hayatini-kaybetti-p256404",
+          "discovered_at": "2025-11-07T01:47:57.977193"
+        },
+        {
+          "index": 153,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/13-anketin-ortalamasi-belli-oldu-hangi-partinin-yuzde-oyu-yuzde-kac-p256361",
+          "discovered_at": "2025-11-07T01:47:57.977195"
+        },
+        {
+          "index": 154,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/turk-hava-yolu-sirketi-resmen-iflas-etti-90-milyonun-uzerinde-yolcu-tasimisti-p256330",
+          "discovered_at": "2025-11-07T01:47:57.977198"
+        },
+        {
+          "index": 155,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kemal-kilicdaroglu-nun-chp-lileri-kizdiran-mesaji-p256368",
+          "discovered_at": "2025-11-07T01:47:57.977200"
+        },
+        {
+          "index": 156,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/altina-yatirim-yapanlarin-yuzunu-guldurecek-haber-p256370",
+          "discovered_at": "2025-11-07T01:47:57.977203"
+        },
+        {
+          "index": 157,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/akaryakit-fiyatlarina-dev-zam-geliyor-p255725",
+          "discovered_at": "2025-11-07T01:47:57.977206"
+        },
+        {
+          "index": 158,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/tff-de-bahis-depremi-45-kisi-istifa-etti-p256366",
+          "discovered_at": "2025-11-07T01:47:57.977208"
+        },
+        {
+          "index": 159,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/devlet-apo-nun-huzuruna-cikar-mi-p256148?utm_source=haberdetay_1&utm_medium=free&utm_campaign=anasayfaYazarlar",
+          "discovered_at": "2025-11-07T01:47:57.977211"
+        },
+        {
+          "index": 160,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/turkiye-de-ilk-bobrek-naklinin-50-yili-uluslararasi-mesot-kongresi-ile-kutlaniyor-p256146?utm_source=haberdetay_1&utm_medium=free&utm_campaign=anasayfaYazarlar",
+          "discovered_at": "2025-11-07T01:47:57.977214"
+        },
+        {
+          "index": 161,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/demirtas-ve-kavala-surecinde-neler-olacak-p256140?utm_source=haberdetay_1&utm_medium=free&utm_campaign=anasayfaYazarlar",
+          "discovered_at": "2025-11-07T01:47:57.977216"
+        },
+        {
+          "index": 162,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/yilin-en-super-dolunayina-hazir-misiniz-p254800?utm_source=haberdetay_1&utm_medium=free&utm_campaign=anasayfaYazarlar",
+          "discovered_at": "2025-11-07T01:47:57.977219"
+        },
+        {
+          "index": 163,
+          "source": "Sozcu",
+          "url": "https://appgallery.huawei.com/app/C101448787?sharePrepath=ag&locale=tr_TR",
+          "discovered_at": "2025-11-07T01:47:57.977222"
+        },
+        {
+          "index": 164,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/sergen-yalcin-ve-orkun-kokcu-nun-cezalari-aciklandi-p256479",
+          "discovered_at": "2025-11-07T01:47:57.977224"
+        },
+        {
+          "index": 165,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/istanbul-un-en-unlu-avm-sinde-futbolcuya-silah-cektiler-p256284",
+          "discovered_at": "2025-11-07T01:47:57.977227"
+        },
+        {
+          "index": 166,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/samsunspor-taraftarindan-filistin-e-destek-koreografisi-p256474",
+          "discovered_at": "2025-11-07T01:47:57.977230"
+        },
+        {
+          "index": 167,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/israil-lubnan-saldiri-6-kasim-2025-p256445",
+          "discovered_at": "2025-11-07T01:47:57.977232"
+        },
+        {
+          "index": 168,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/gursel-tekin-chp-nin-hesaplarina-erismek-icin-bankaya-basvurdu-p256392",
+          "discovered_at": "2025-11-07T01:47:57.977235"
+        },
+        {
+          "index": 169,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/valilik-acikladi-bu-sehirde-sokak-kopeklerinin-tamami-toplatildi-p256407",
+          "discovered_at": "2025-11-07T01:47:57.977238"
+        },
+        {
+          "index": 170,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/asgari-ucret-zammini-yanlis-hesapladilar-maaslari-dusuk-yatabilir-p256429",
+          "discovered_at": "2025-11-07T01:47:57.977240"
+        },
+        {
+          "index": 171,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kuyumculardan-altin-sahiplerine-soguk-dus-turkiye-nin-81-ilinde-yasaklanacak-p256385",
+          "discovered_at": "2025-11-07T01:47:57.977243"
+        },
+        {
+          "index": 172,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/leroy-sane-istedigini-aldi-geri-dondu-p256396",
+          "discovered_at": "2025-11-07T01:47:57.977246"
+        },
+        {
+          "index": 173,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/fenerbahce-beko-ldlc-asvel-i-maglup-etti-p256486",
+          "discovered_at": "2025-11-07T01:47:57.977248"
+        },
+        {
+          "index": 174,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/fifa-en-iyiler-odulleri-nin-adaylari-aciklandi-p256475",
+          "discovered_at": "2025-11-07T01:47:57.977251"
+        },
+        {
+          "index": 175,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/baskan-5-ay-sonra-gorevi-birakti-p256459",
+          "discovered_at": "2025-11-07T01:47:57.977254"
+        },
+        {
+          "index": 176,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/a-milli-kadin-futbol-takimi-nin-mac-programi-belli-oldu-p256451",
+          "discovered_at": "2025-11-07T01:47:57.977256"
+        },
+        {
+          "index": 177,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/58-milyon-sterlin-odenen-yildiz-yine-sakatlandi-p256353",
+          "discovered_at": "2025-11-07T01:47:57.977259"
+        },
+        {
+          "index": 178,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/alperen-sengun-parladi-rockets-seriye-bagladi-p256290",
+          "discovered_at": "2025-11-07T01:47:57.977261"
+        },
+        {
+          "index": 179,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/akrabasina-kursun-yagdirdi-sebebi-agizlari-acik-birakti-p256487",
+          "discovered_at": "2025-11-07T01:47:57.977264"
+        },
+        {
+          "index": 180,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kahramanmaras-ta-feci-kaza-8-yasindaki-cocuk-hayatini-kaybetti-p256476",
+          "discovered_at": "2025-11-07T01:47:57.977266"
+        },
+        {
+          "index": 181,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/agri-da-gocmen-kacakciligi-operasyonu-4-organizator-tutuklandi-p256467",
+          "discovered_at": "2025-11-07T01:47:57.977269"
+        },
+        {
+          "index": 182,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/iki-kisiyi-yaralayip-kacti-ormanlik-alanda-yakayi-ele-verdi-p256466",
+          "discovered_at": "2025-11-07T01:47:57.977272"
+        },
+        {
+          "index": 183,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/trafigi-tehlikeye-dusuren-drifte-ceza-p256461",
+          "discovered_at": "2025-11-07T01:47:57.977274"
+        },
+        {
+          "index": 184,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/makarnayi-yillardir-yanlis-pisiriyormusuz-iste-yapilmasi-gereken-p256457",
+          "discovered_at": "2025-11-07T01:47:57.977277"
+        },
+        {
+          "index": 185,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/pamuk-yuklu-tir-alev-alev-yandi-p256442",
+          "discovered_at": "2025-11-07T01:47:57.977279"
+        },
+        {
+          "index": 186,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/arabasi-bozulan-aylarca-sira-bekliyor-ulkede-tamirci-kalmadi-kriz-cikti-p256468",
+          "discovered_at": "2025-11-07T01:47:57.977282"
+        },
+        {
+          "index": 187,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/ulkede-alarm-otobusler-uzaktan-kapatilabiliyor-p256455",
+          "discovered_at": "2025-11-07T01:47:57.977285"
+        },
+        {
+          "index": 188,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/youtube-dan-israil-hamlesi-filistin-de-islenen-suclari-anlatan-hesap-ve-videolari-kaldirdi-p256439",
+          "discovered_at": "2025-11-07T01:47:57.977287"
+        },
+        {
+          "index": 189,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/google-okyanusun-ortasina-us-kuruyor-p256473",
+          "discovered_at": "2025-11-07T01:47:57.977290"
+        },
+        {
+          "index": 190,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/abd-de-yapay-zeka-krizi-cocuklar-icin-yeni-yasa-yolda-p256450",
+          "discovered_at": "2025-11-07T01:47:57.977293"
+        },
+        {
+          "index": 191,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/google-maps-artik-sadece-yol-gostermeyecek-p256446",
+          "discovered_at": "2025-11-07T01:47:57.977295"
+        },
+        {
+          "index": 192,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/kargoyu-artik-elden-degil-uzaydan-1-saatte-teslim-alabileceksiniz-p256440",
+          "discovered_at": "2025-11-07T01:47:57.977298"
+        },
+        {
+          "index": 193,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/bu-telefonlarin-hacklenme-ihtimali-digerlerinden-50-kat-fazla-p256369",
+          "discovered_at": "2025-11-07T01:47:57.977300"
+        },
+        {
+          "index": 194,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/yillardir-cozulemeyen-sorunu-cozduler-bin-kat-daha-hizli-p255085",
+          "discovered_at": "2025-11-07T01:47:57.977303"
+        },
+        {
+          "index": 195,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/google-raporu-yayimladi-400-milyar-dolarlik-tuzak-p255072",
+          "discovered_at": "2025-11-07T01:47:57.977306"
+        },
+        {
+          "index": 196,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/unlu-fizikciden-uzayli-iddialarina-sert-tepki-p255070",
+          "discovered_at": "2025-11-07T01:47:57.977309"
+        },
+        {
+          "index": 197,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/bu-gidalar-beynin-sessiz-dusmani-p255050",
+          "discovered_at": "2025-11-07T01:47:57.977311"
+        },
+        {
+          "index": 198,
+          "source": "Sozcu",
+          "url": "https://www.sozcu.com.tr/pasifik-te-sessiz-felaket-dunya-kabugu-parcalaniyor-p255046",
+          "discovered_at": "2025-11-07T01:47:57.977314"
+        },
+        {
+          "index": 199,
+          "source": "Sozcu",
+          "url": "https://secim.sozcu.com.tr/secim2023mayis14/adalet-ve-kalkinma-partisi-secim-sonuclari",
+          "discovered_at": "2025-11-07T01:47:57.977317"
+        },
+        {
+          "index": 200,
+          "source": "Sozcu",
+          "url": "https://secim.sozcu.com.tr/secim2023mayis14/yesiller-sol-gelecek-partisi-secim-sonuclari",
+          "discovered_at": "2025-11-07T01:47:57.977319"
+        }
+      ]
+    },
+    "Cumhuriyet": {
+      "base_url": "https://www.cumhuriyet.com.tr",
+      "total_discovered": 416,
+      "articles": [
+        {
+          "index": 1,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-te-eleme-adayi-kim-oldu-masterchef-turkiye-de-kim-kazandi-2450550",
+          "discovered_at": "2025-11-07T01:48:05.362038"
+        },
+        {
+          "index": 2,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/gozleri-karadeniz-dizisinin-yeni-bolumu-ne-zaman-gozleri-karadeniz-dizisinin-son-bolumunde-ne-oldu-2450485",
+          "discovered_at": "2025-11-07T01:48:05.363383"
+        },
+        {
+          "index": 3,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/esref-ruya-dizisinin-yeni-bolumu-ne-zaman-esref-ruya-dizisinin-son-bolumunde-ne-oldu-2450476",
+          "discovered_at": "2025-11-07T01:48:05.363389"
+        },
+        {
+          "index": 4,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-afad-duyurdu-sindirgi-da-korkutan-deprem-2450472",
+          "discovered_at": "2025-11-07T01:48:05.363393"
+        },
+        {
+          "index": 5,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/bahar-dizisinin-yeni-bolumu-ne-zaman-bahar-dizisinin-son-bolumunde-ne-oldu-2450467",
+          "discovered_at": "2025-11-07T01:48:05.363398"
+        },
+        {
+          "index": 6,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/yapay-zekayla-gardiyana-rusvet-tuzagi-2-tutuklama-2450468",
+          "discovered_at": "2025-11-07T01:48:05.363405"
+        },
+        {
+          "index": 7,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/sahipsizler-dizisinin-yeni-bolumu-ne-zaman-sahipsizler-dizisinin-son-bolumunde-ne-oldu-2450466",
+          "discovered_at": "2025-11-07T01:48:05.363409"
+        },
+        {
+          "index": 8,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/ibb-davasi-iddianamesi-iddiasi-bassavciliktan-aciklama-geldi-2450464",
+          "discovered_at": "2025-11-07T01:48:05.363421"
+        },
+        {
+          "index": 9,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/kiskanmak-dizisinin-yeni-bolumu-ne-zaman-kiskanmak-dizisinin-son-bolumunde-ne-oldu-2450463",
+          "discovered_at": "2025-11-07T01:48:05.363425"
+        },
+        {
+          "index": 10,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/turkiye-nin-ilk-avm-sini-acmisti-huseyin-bayraktar-hayatini-kaybetti-2450460",
+          "discovered_at": "2025-11-07T01:48:05.363430"
+        },
+        {
+          "index": 11,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/saglik/hastanede-dahi-guvenlikten-suphe-duyuluyorsa-kendimizi-nerede-guvende-hissedecegiz-2450458",
+          "discovered_at": "2025-11-07T01:48:05.363443"
+        },
+        {
+          "index": 12,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/edirne-belediye-baskani-gencan-vergi-borclarini-kapatmis-bir-edirne-belediyesi-var-artik-2450455",
+          "discovered_at": "2025-11-07T01:48:05.363447"
+        },
+        {
+          "index": 13,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/halef-dizisinin-yeni-bolumu-ne-zaman-halef-dizisinin-son-bolumunde-ne-oldu-2450453",
+          "discovered_at": "2025-11-07T01:48:05.363451"
+        },
+        {
+          "index": 14,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/sakarya-da-anadolu-mirasi-operasyonu-589-parca-tarihi-eser-ele-gecirildi-2450448",
+          "discovered_at": "2025-11-07T01:48:05.363455"
+        },
+        {
+          "index": 15,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/23-numara-filminin-konusu-ne-23-numara-filminin-oyunculari-kim-2450445",
+          "discovered_at": "2025-11-07T01:48:05.363459"
+        },
+        {
+          "index": 16,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/sucuk-festivali-sonrasi-zehirlendiler-ogrenci-ve-ogretmen-80-kisi-hastaneye-basvurdu-2450444",
+          "discovered_at": "2025-11-07T01:48:05.363463"
+        },
+        {
+          "index": 17,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/iliskilerde-sinir-koymayi-bilmeyen-5-burc-bu-burclar-adeta-ask-ugrana-kendilerini-yok-sayiyor-2450443",
+          "discovered_at": "2025-11-07T01:48:05.363467"
+        },
+        {
+          "index": 18,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/antalya-da-dehset-anlari-rus-uyruklu-sahis-sokak-ortasinda-esini-bicakladi-2450442",
+          "discovered_at": "2025-11-07T01:48:05.363504"
+        },
+        {
+          "index": 19,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/tgc-iktidara-gazetecilik-meslegine-gozalti-uygulamasindan-vazgecmesi-icin-cagri-yapiyoruz-2450439",
+          "discovered_at": "2025-11-07T01:48:05.363980"
+        },
+        {
+          "index": 20,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/veliaht-dizisinin-yeni-bolumu-ne-zaman-veliaht-dizisinin-son-bolumunde-ne-oldu-2450437",
+          "discovered_at": "2025-11-07T01:48:05.363986"
+        },
+        {
+          "index": 21,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/buca-sosyal-konutlar-sakinleri-curuk-binalardan-kurtuluyor-2450435",
+          "discovered_at": "2025-11-07T01:48:05.363989"
+        },
+        {
+          "index": 22,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/chp-li-kilic-tan-icisleri-bakanligi-na-fight-clup-tepkisi-2450432",
+          "discovered_at": "2025-11-07T01:48:05.363993"
+        },
+        {
+          "index": 23,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/helil-kinay-tum-mahallelerimiz-bizim-icin-cok-degerli-2450431",
+          "discovered_at": "2025-11-07T01:48:05.363996"
+        },
+        {
+          "index": 24,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/calisma-yasami/universite-idari-personel-sendikasi-ndan-memur-maaslarina-zam-talebi-sefalet-zammi-istemiyoruz-2450427",
+          "discovered_at": "2025-11-07T01:48:05.364009"
+        },
+        {
+          "index": 25,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/konaklilar-ata-sini-her-gun-aniyor-2450428",
+          "discovered_at": "2025-11-07T01:48:05.364013"
+        },
+        {
+          "index": 26,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/dionysos-siir-ve-sanata-emek-odulleri-52-kez-sahiplerini-buluyor-2450425",
+          "discovered_at": "2025-11-07T01:48:05.364017"
+        },
+        {
+          "index": 27,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/akp-li-cumhurbaskani-erdogan-dan-chp-genel-baskani-ozgur-ozel-e-tazminat-davasi-2450424",
+          "discovered_at": "2025-11-07T01:48:05.364020"
+        },
+        {
+          "index": 28,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/asiklar-denizli-de-bulustu-2450423",
+          "discovered_at": "2025-11-07T01:48:05.364023"
+        },
+        {
+          "index": 29,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/izmir-cumhuriyet-bassavciligi-ganali-michael-adufu-nun-vefatina-iliskin-sorusturma-baslatti-2450422",
+          "discovered_at": "2025-11-07T01:48:05.364026"
+        },
+        {
+          "index": 30,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/bosna-hersek-teki-huzurevinde-cikan-yanginda-olu-sayisi-12-ye-yukseldi-2450461",
+          "discovered_at": "2025-11-07T01:48:05.364032"
+        },
+        {
+          "index": 31,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/sinir-hattinda-gerilim-tirmaniyor-israil-lubnan-in-guneyini-vurdu-2450440",
+          "discovered_at": "2025-11-07T01:48:05.364036"
+        },
+        {
+          "index": 32,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/almanya-yi-sarsan-olay-gamali-haclar-insan-kaniyla-cizildi-2450418",
+          "discovered_at": "2025-11-07T01:48:05.364039"
+        },
+        {
+          "index": 33,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/altinin-golgesinde-aclik-2450413",
+          "discovered_at": "2025-11-07T01:48:05.364042"
+        },
+        {
+          "index": 34,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/new-york-belediye-baskani-mamdani-den-50-cent-e-sert-yanit-2450383",
+          "discovered_at": "2025-11-07T01:48:05.364049"
+        },
+        {
+          "index": 35,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-zaporijya-uyarisi-bati-sabotaj-planliyor-2450375",
+          "discovered_at": "2025-11-07T01:48:05.364052"
+        },
+        {
+          "index": 36,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/tel-aviv-kahire-hattinda-kriz-buyuyor-israil-dogalgaz-kozunu-masaya-surdu-2450346",
+          "discovered_at": "2025-11-07T01:48:05.364056"
+        },
+        {
+          "index": 37,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/oldurulen-belediye-baskaninin-yerine-esi-getirildi-2450316",
+          "discovered_at": "2025-11-07T01:48:05.364059"
+        },
+        {
+          "index": 38,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/insan-barbie-olarak-taninan-sosyal-medya-fenomeni-olu-bulundu-2450310",
+          "discovered_at": "2025-11-07T01:48:05.364062"
+        },
+        {
+          "index": 39,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/bilim-insanlarindan-carpici-bulgular-erkek-ve-kadin-beyinleri-farkli-calisiyor-2450309",
+          "discovered_at": "2025-11-07T01:48:05.364065"
+        },
+        {
+          "index": 40,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/angelina-jolie-kursun-gecirmez-yelekle-ukrayna-ya-gitti-2450301",
+          "discovered_at": "2025-11-07T01:48:05.364067"
+        },
+        {
+          "index": 41,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/almanya-da-turk-insaat-patronuna-insan-kacakciligi-suclamasi-2450290",
+          "discovered_at": "2025-11-07T01:48:05.364071"
+        },
+        {
+          "index": 42,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/louvre-soyguncusu-youtuber-cikti-2450276",
+          "discovered_at": "2025-11-07T01:48:05.364075"
+        },
+        {
+          "index": 43,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/miss-universe-de-kriz-taylandli-yetkili-meksika-guzeline-hakaret-etti-2450248",
+          "discovered_at": "2025-11-07T01:48:05.364078"
+        },
+        {
+          "index": 44,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/meksika-devlet-baskani-sheinbaum-a-sokakta-cinsel-saldiri-2450238",
+          "discovered_at": "2025-11-07T01:48:05.364081"
+        },
+        {
+          "index": 45,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/abd-cin-ve-rusya-arasinda-nukleer-plan-trafigi-2450233",
+          "discovered_at": "2025-11-07T01:48:05.364084"
+        },
+        {
+          "index": 46,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/filipinler-de-kalmaegi-felaketi-114-olu-127-kisi-kayip-2450232",
+          "discovered_at": "2025-11-07T01:48:05.364086"
+        },
+        {
+          "index": 47,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/trump-tan-mamdani-ye-cagri-bana-iyi-davranmali-2450231",
+          "discovered_at": "2025-11-07T01:48:05.364089"
+        },
+        {
+          "index": 48,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/ab-2040-iklim-hedefini-acikladi-emisyonlar-yuzde-90-azalacak-2450119",
+          "discovered_at": "2025-11-07T01:48:05.364092"
+        },
+        {
+          "index": 49,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/astronotlar-tarihte-ilk-kez-uzayda-izgara-yaptilar-2450099",
+          "discovered_at": "2025-11-07T01:48:05.364095"
+        },
+        {
+          "index": 50,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/fransa-da-surucu-kalabaligin-uzerine-arabayla-daldi-2450098",
+          "discovered_at": "2025-11-07T01:48:05.364098"
+        },
+        {
+          "index": 51,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/10-hastayi-olduren-hasta-bakiciya-muebbet-hapis-2450092",
+          "discovered_at": "2025-11-07T01:48:05.364116"
+        },
+        {
+          "index": 52,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/bir-hafta-boyunca-duzenli-olarak-sicak-su-ictiginizde-vucutta-yasanan-mucizevi-degisim-2450064",
+          "discovered_at": "2025-11-07T01:48:05.364119"
+        },
+        {
+          "index": 53,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/ab-toplantisinda-gazze-sorusu-soran-gazeteci-isinden-oldu-2450059",
+          "discovered_at": "2025-11-07T01:48:05.364122"
+        },
+        {
+          "index": 54,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/ayi-saldirilari-kontrolden-cikti-askerler-sahaya-iniyor-2450024",
+          "discovered_at": "2025-11-07T01:48:05.364125"
+        },
+        {
+          "index": 55,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/rusya-putin-trump-zirvesi-icin-sartlar-olusmadi-2450021",
+          "discovered_at": "2025-11-07T01:48:05.364129"
+        },
+        {
+          "index": 56,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/onlyfans-modeli-otel-kuvetinde-olu-bulundu-2450013",
+          "discovered_at": "2025-11-07T01:48:05.364132"
+        },
+        {
+          "index": 57,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/kus-gribi-almanya-yi-sardi-175-bin-hayvan-itlaf-edilecek-2450006",
+          "discovered_at": "2025-11-07T01:48:05.364135"
+        },
+        {
+          "index": 58,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/trump-in-yeni-dusmani-zahran-mamdani-kimdir-2449991",
+          "discovered_at": "2025-11-07T01:48:05.364138"
+        },
+        {
+          "index": 59,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/13-yil-kacti-sahte-kimlikle-universiteye-girdi-firari-pedofil-yakalandi-2449985",
+          "discovered_at": "2025-11-07T01:48:05.364142"
+        },
+        {
+          "index": 60,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/bassavci-akin-gurlek-ve-esinin-fotografini-paylasan-kisi-gozaltina-alindi-2450517",
+          "discovered_at": "2025-11-07T01:48:05.364145"
+        },
+        {
+          "index": 61,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/chp-nin-yeni-miting-adresi-belli-oldu-yesilin-ve-mavinin-baskenti-2450497",
+          "discovered_at": "2025-11-07T01:48:05.364148"
+        },
+        {
+          "index": 62,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/chp-li-yavuzyilmaz-dan-akin-gurlek-e-cagri-madem-ki-akp-ye-gore-olan-biten-her-sey-normal-2450505",
+          "discovered_at": "2025-11-07T01:48:05.364150"
+        },
+        {
+          "index": 63,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/kocaeli-muftulugu-nun-10-kasim-duyurusunun-ardindan-boynukalin-dan-tartisma-yaratan-paylasim-2450469",
+          "discovered_at": "2025-11-07T01:48:05.364171"
+        },
+        {
+          "index": 64,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/7-bin-tl-lik-boyoza-47-bin-lira-ceza-2450530",
+          "discovered_at": "2025-11-07T01:48:05.364181"
+        },
+        {
+          "index": 65,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-hsk-nin-yeni-uyesi-belli-oldu-2450547",
+          "discovered_at": "2025-11-07T01:48:05.364185"
+        },
+        {
+          "index": 66,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-cekya-deplasmanindan-bir-puanla-donuyor-viktoria-plzen-0-0-fenerbahce-2450495",
+          "discovered_at": "2025-11-07T01:48:05.364202"
+        },
+        {
+          "index": 67,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-korkunc-kaza-olu-ve-yaralilar-var-2450339",
+          "discovered_at": "2025-11-07T01:48:05.364205"
+        },
+        {
+          "index": 68,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/cok-ince-yapili-huawei-mate-70-air-tanitildi-2450487",
+          "discovered_at": "2025-11-07T01:48:05.364208"
+        },
+        {
+          "index": 69,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-zeka-destekli-akilli-yuzuk-tanitildi-2450482",
+          "discovered_at": "2025-11-07T01:48:05.364211"
+        },
+        {
+          "index": 70,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/playstation-portal-icin-beklenen-bulut-oyun-destegi-sunuldu-2450481",
+          "discovered_at": "2025-11-07T01:48:05.364214"
+        },
+        {
+          "index": 71,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/cok-tutulmayan-iphone-air-modelinin-yenisinin-nasil-olacagi-sizdirildi-2450479",
+          "discovered_at": "2025-11-07T01:48:05.364218"
+        },
+        {
+          "index": 72,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/android-cihazlardaki-tehlike-disaridan-yuklenen-uygulamalarda-guvenlik-riski-artiyor-2450477",
+          "discovered_at": "2025-11-07T01:48:05.364220"
+        },
+        {
+          "index": 73,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/cin-in-tienvin-1-uydusu-kuyruklu-yildizi-kayda-aldi-2450474",
+          "discovered_at": "2025-11-07T01:48:05.364224"
+        },
+        {
+          "index": 74,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/google-uzaya-yapay-zeka-veri-merkezleri-kurmak-istiyor-2450471",
+          "discovered_at": "2025-11-07T01:48:05.364227"
+        },
+        {
+          "index": 75,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/openai-in-sora-uygulamasi-android-icin-sunuldu-2450168",
+          "discovered_at": "2025-11-07T01:48:05.364230"
+        },
+        {
+          "index": 76,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/xbox-game-pass-e-eklenecek-yeni-oyunlar-2450167",
+          "discovered_at": "2025-11-07T01:48:05.364233"
+        },
+        {
+          "index": 77,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/hyperos-3-1-guncellemesi-alamayacak-xiaomi-telefonlar-2450166",
+          "discovered_at": "2025-11-07T01:48:05.364236"
+        },
+        {
+          "index": 78,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/epic-games-ve-google-arasindaki-play-store-davasinda-anlasma-2450165",
+          "discovered_at": "2025-11-07T01:48:05.364279"
+        },
+        {
+          "index": 79,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yiyecekleri-mikrodalgada-pisirmek-besin-degerlerini-kaybetmesine-neden-olur-mu-2450160",
+          "discovered_at": "2025-11-07T01:48:05.364408"
+        },
+        {
+          "index": 80,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/kuantum-bilgisayarlarin-ticarilesmesi-2030-lu-yillarda-gerceklesebilir-2450145",
+          "discovered_at": "2025-11-07T01:48:05.364419"
+        },
+        {
+          "index": 81,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/gokbilimciler-evrenin-ilk-donemlerinde-olusan-bir-karadeligi-kesfetti-2450142",
+          "discovered_at": "2025-11-07T01:48:05.364431"
+        },
+        {
+          "index": 82,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/covid-asisinin-olumlu-yan-etkisi-tespit-edildi-2450012",
+          "discovered_at": "2025-11-07T01:48:05.364436"
+        },
+        {
+          "index": 83,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/whatsapp-web-de-erisim-sorunu-2449934",
+          "discovered_at": "2025-11-07T01:48:05.364440"
+        },
+        {
+          "index": 84,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/ispatlandi-karanlik-madde-klasik-fizik-kurallarina-uyuyor-2449845",
+          "discovered_at": "2025-11-07T01:48:05.364444"
+        },
+        {
+          "index": 85,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-watch-icin-whatsapp-uygulamasi-yayinlandi-2449844",
+          "discovered_at": "2025-11-07T01:48:05.364521"
+        },
+        {
+          "index": 86,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/nintendo-switch-2-nin-satislari-10-milyonu-gecti-2449840",
+          "discovered_at": "2025-11-07T01:48:05.364531"
+        },
+        {
+          "index": 87,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/iphone-air-ardindan-huawei-den-ince-govdeli-mate-70-air-2449838",
+          "discovered_at": "2025-11-07T01:48:05.364536"
+        },
+        {
+          "index": 88,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/amazon-ve-openai-38-milyar-dolarlik-bir-anlasma-imzaladi-2449823",
+          "discovered_at": "2025-11-07T01:48:05.364541"
+        },
+        {
+          "index": 89,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/iphone-lar-icin-ios-26-1-yayinlandi-yeni-ozellikler-ve-degisiklikler-neler-2449819",
+          "discovered_at": "2025-11-07T01:48:05.364545"
+        },
+        {
+          "index": 90,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-zekanin-en-cok-hangi-verilerden-ogrendigi-ortaya-cikti-2449816",
+          "discovered_at": "2025-11-07T01:48:05.364549"
+        },
+        {
+          "index": 91,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/bilim-insanlari-yapay-zekayi-denetleyen-testlerde-kusur-buldu-2449813",
+          "discovered_at": "2025-11-07T01:48:05.364553"
+        },
+        {
+          "index": 92,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/nasa-dan-ay-gorevi-icin-alternatif-plan-aciklamasi-2449644",
+          "discovered_at": "2025-11-07T01:48:05.364557"
+        },
+        {
+          "index": 93,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/ekim-ayinda-hangi-android-telefonlar-en-guclu-oldular-2449511",
+          "discovered_at": "2025-11-07T01:48:05.364562"
+        },
+        {
+          "index": 94,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-in-siri-sine-google-gemini-destegi-sunulabilir-2449510",
+          "discovered_at": "2025-11-07T01:48:05.364573"
+        },
+        {
+          "index": 95,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/steam-de-kisa-sureligine-bir-oyun-ucretsiz-olacak-2449506",
+          "discovered_at": "2025-11-07T01:48:05.364577"
+        },
+        {
+          "index": 96,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/game-pass-ten-15-kasim-da-kaldirilacak-oyunlar-belli-oldu-2449503",
+          "discovered_at": "2025-11-07T01:48:05.364581"
+        },
+        {
+          "index": 97,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/microsoft-un-tum-yapay-zeka-ciplerini-calistirmak-icin-yeterli-elektrigi-yokmus-2449502",
+          "discovered_at": "2025-11-07T01:48:05.364586"
+        },
+        {
+          "index": 98,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/direnisteki-sik-makas-iscileri-ilk-kazanimi-sagladi-alacaklarin-bir-kismi-yatirildi-2450490",
+          "discovered_at": "2025-11-07T01:48:05.364590"
+        },
+        {
+          "index": 99,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/park-yeri-kavgasinda-kan-akti-komsusunu-silahla-vurarak-agir-yaraladi-2450525",
+          "discovered_at": "2025-11-07T01:48:05.364594"
+        },
+        {
+          "index": 100,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/agbaba-isyan-etti-en-buyuk-para-birimimizle-bir-pul-bile-alamiyoruz-2450450",
+          "discovered_at": "2025-11-07T01:48:05.364598"
+        },
+        {
+          "index": 101,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/chp-li-barut-gazetemizin-dayanisma-kampanyasini-meclis-gundemine-tasidi-cumhuriyet-gazetesi-sadece-bir-gazete-degil-ulkemizin-vicdanidir-2449801",
+          "discovered_at": "2025-11-07T01:48:05.364614"
+        },
+        {
+          "index": 102,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/zeki-yavru-dan-milli-takim-aciklamasi-ben-veya-bir-baskasi-2450546",
+          "discovered_at": "2025-11-07T01:48:05.364618"
+        },
+        {
+          "index": 103,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/bassavci-gurlek-ten-chp-lideri-ozel-e-500-bin-liralik-tazminat-davasi-2450506",
+          "discovered_at": "2025-11-07T01:48:05.364834"
+        },
+        {
+          "index": 104,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/vakiflar-kanunu-nda-degisiklik-ongoren-kanun-teklifinin-birinci-bolumu-tbmm-genel-kurulu-nda-kabul-edildi-2450515",
+          "discovered_at": "2025-11-07T01:48:05.364848"
+        },
+        {
+          "index": 105,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/ekrem-imamoglu-ndan-demirtas-ve-yuksekdag-cagrisi-tahliyeleri-bir-an-evvel-gerceklesmelidir-2450465",
+          "discovered_at": "2025-11-07T01:48:05.364932"
+        },
+        {
+          "index": 106,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-sabah-saatlerinde-operasyon-duzenlendi-ibb-sorusturmasi-kapsaminda-ifadesi-alinan-gazeteciler-serbest-2450228",
+          "discovered_at": "2025-11-07T01:48:05.364943"
+        },
+        {
+          "index": 107,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/samsunspor-namaglup-zirveye-yerlesti-samsunspor-3-0-hamrun-spartans-2450462",
+          "discovered_at": "2025-11-07T01:48:05.364947"
+        },
+        {
+          "index": 108,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/akp-li-isim-tayfun-kahraman-kararina-isyan-etti-bu-basit-ve-siradan-bir-hadise-degildir-2450480",
+          "discovered_at": "2025-11-07T01:48:05.364951"
+        },
+        {
+          "index": 109,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/thomas-reis-tan-galibiyet-aciklamasi-turkiye-nin-tamamini-temsil-ediyoruz-2450527",
+          "discovered_at": "2025-11-07T01:48:05.365104"
+        },
+        {
+          "index": 110,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/tayfun-kahraman-in-esi-meric-demir-masum-oldugumuz-halde-ailemize-cile-cektiriliyor-2450484",
+          "discovered_at": "2025-11-07T01:48:05.365111"
+        },
+        {
+          "index": 111,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/derbide-kirmizi-kart-gormuslerdi-orkun-kokcu-ve-sergen-yalcin-in-cezalari-belli-oldu-2450512",
+          "discovered_at": "2025-11-07T01:48:05.365114"
+        },
+        {
+          "index": 112,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/emep-li-bayhan-dan-simsek-e-ters-donmus-robin-hood-benzetmesi-2450478",
+          "discovered_at": "2025-11-07T01:48:05.365117"
+        },
+        {
+          "index": 113,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/derbide-kirmizi-kart-gormustu-orkun-kokcu-sessizligini-bozdu-2450492",
+          "discovered_at": "2025-11-07T01:48:05.365120"
+        },
+        {
+          "index": 114,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/bakanlik-ifsa-etmeye-devam-ediyor-peynir-zeytinyagi-ve-aycicek-yaglarinda-hile-cikti-2450493",
+          "discovered_at": "2025-11-07T01:48:05.365122"
+        },
+        {
+          "index": 115,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/depremde-72-kisiye-mezar-olan-isias-otel-davasinda-kamu-gorevlisi-saniklarin-tutuklanmasi-talebi-reddedildi-2450449",
+          "discovered_at": "2025-11-07T01:48:05.365126"
+        },
+        {
+          "index": 116,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/kayyum-gursel-tekin-den-yeni-hamle-banka-hesaplarina-erisim-icin-izin-istedi-2450378",
+          "discovered_at": "2025-11-07T01:48:05.365129"
+        },
+        {
+          "index": 117,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/gazetecilere-yoneltilen-gizli-tanik-beyanlari-karisti-ibb-sorusturmasinda-yer-alan-gizli-tanik-mese-nin-beyanlari-gizli-tanik-ilke-ye-yazildi-2450408",
+          "discovered_at": "2025-11-07T01:48:05.365132"
+        },
+        {
+          "index": 118,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-yenilgisi-sonrasi-ajax-tan-flas-john-heitinga-karari-2450475",
+          "discovered_at": "2025-11-07T01:48:05.365135"
+        },
+        {
+          "index": 119,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-manifest-uyelerinin-imza-zorunlulugu-kaldirildi-yurtdisi-cikis-yasagi-devam-edecek-2450429",
+          "discovered_at": "2025-11-07T01:48:05.365167"
+        },
+        {
+          "index": 120,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-akin-gurlek-aciklamasi-10-ay-boyunca-maas-almis-sucustu-yakalandi-2450366",
+          "discovered_at": "2025-11-07T01:48:05.365175"
+        },
+        {
+          "index": 121,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/aym-nin-tayfun-kahraman-kararina-uyulmadi-avukati-cansu-ciftci-den-cumhuriyet-tv-de-aciklama-2450384",
+          "discovered_at": "2025-11-07T01:48:05.365179"
+        },
+        {
+          "index": 122,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/anketler/sizce-erken-secimin-onundeki-engel-nedir-2416342",
+          "discovered_at": "2025-11-07T01:48:05.365183"
+        },
+        {
+          "index": 123,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/sinemalarda-bu-hafta-bi-umut-sahibinden-rahmet-olum-oyunu-ve-daha-fazlasi-2450489",
+          "discovered_at": "2025-11-07T01:48:05.365187"
+        },
+        {
+          "index": 124,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/misir-tarihine-yolculuk-1-milyar-dolarlik-dev-muze-kapilarini-acti-2450441",
+          "discovered_at": "2025-11-07T01:48:05.365191"
+        },
+        {
+          "index": 125,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/uzmanindan-uyari-sosyal-medya-yetersizlik-hissi-yaratiyor-2450420",
+          "discovered_at": "2025-11-07T01:48:05.365303"
+        },
+        {
+          "index": 126,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/kadikoy-de-siir-gunleri-basliyor-2449724",
+          "discovered_at": "2025-11-07T01:48:05.365306"
+        },
+        {
+          "index": 127,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/arastirma-baba-sorunlari-erkeklerin-duygusal-kaderini-sekillendiriyor-2450410",
+          "discovered_at": "2025-11-07T01:48:05.365309"
+        },
+        {
+          "index": 128,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/meghan-markle-sekiz-yil-aradan-sonra-setlere-geri-donuyor-2450411",
+          "discovered_at": "2025-11-07T01:48:05.365312"
+        },
+        {
+          "index": 129,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/kisin-safra-kesesi-sorunlari-ile-ilgili-uyari-gecmeyen-karin-agrisina-dikkat-2450433",
+          "discovered_at": "2025-11-07T01:48:05.365315"
+        },
+        {
+          "index": 130,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/akrabasini-surekli-harclik-istedigi-icin-av-tufegiyle-vurmus-2450522",
+          "discovered_at": "2025-11-07T01:48:05.365321"
+        },
+        {
+          "index": 131,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-beko-2-maclik-kotu-seriye-son-verdi-2450516",
+          "discovered_at": "2025-11-07T01:48:05.365323"
+        },
+        {
+          "index": 132,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/x-ten-gazeteci-alican-uludag-in-gebze-de-coken-bina-paylasimi-erisim-engeli-2450507",
+          "discovered_at": "2025-11-07T01:48:05.365327"
+        },
+        {
+          "index": 133,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/gurcistan-bassavciligi-tutuklu-olarak-yargilanan-saakasvili-ye-yonelik-yeni-sorusturma-karari-aldi-2450473",
+          "discovered_at": "2025-11-07T01:48:05.365361"
+        },
+        {
+          "index": 134,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/casusluk-tartismasi-tirmaniyor-2450210",
+          "discovered_at": "2025-11-07T01:48:05.365368"
+        },
+        {
+          "index": 135,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/baris-terkoglu/aman-cocuklar-duymasin-2450211",
+          "discovered_at": "2025-11-07T01:48:05.365372"
+        },
+        {
+          "index": 136,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/mesele-salt-imamoglu-degil-yenilikcilik-ve-yerellik-2450213",
+          "discovered_at": "2025-11-07T01:48:05.365376"
+        },
+        {
+          "index": 137,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/ergin-yildizoglu/mamdani-panik-ve-umut-2450217",
+          "discovered_at": "2025-11-07T01:48:05.365380"
+        },
+        {
+          "index": 138,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/emekliler-olsun-mu-cetin-duzce-2450208",
+          "discovered_at": "2025-11-07T01:48:05.365383"
+        },
+        {
+          "index": 139,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/cocuk-isciliginin-post-fordist-gorunumleri-ozgur-huseyin-akis-2450209",
+          "discovered_at": "2025-11-07T01:48:05.365387"
+        },
+        {
+          "index": 140,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/new-york-ta-sosyalizm-2450212",
+          "discovered_at": "2025-11-07T01:48:05.365391"
+        },
+        {
+          "index": 141,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/ahmet-saltik/turkiye-siyasetinde-yeni-paradigma-terorsuz-turkiye-mavi-boncugu-ve-mhp-nin-kokten-donusum-kumari-2450216",
+          "discovered_at": "2025-11-07T01:48:05.365395"
+        },
+        {
+          "index": 142,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-ali-guller/bahceli-barrack-i-eksik-hedef-aldi-2450214",
+          "discovered_at": "2025-11-07T01:48:05.365398"
+        },
+        {
+          "index": 143,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/her-daim-muhalif-2450219",
+          "discovered_at": "2025-11-07T01:48:05.365402"
+        },
+        {
+          "index": 144,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/bedri-baykam/sahte-dunyalar-kusatmasi-2450215",
+          "discovered_at": "2025-11-07T01:48:05.365406"
+        },
+        {
+          "index": 145,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/gulengul-altinsay/besiktas-a-yakismayanlar-2450218",
+          "discovered_at": "2025-11-07T01:48:05.365410"
+        },
+        {
+          "index": 146,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yazarlar/sadik-celik/bir-tapinagin-hikayesi-mekanlar-degisiyor-insan-hep-ayni-savasin-icinde-2450227",
+          "discovered_at": "2025-11-07T01:48:05.365414"
+        },
+        {
+          "index": 147,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/otomobil-direge-saplandi-2-agir-yarali-2450551",
+          "discovered_at": "2025-11-07T01:48:05.365418"
+        },
+        {
+          "index": 148,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/14-kisinin-oldugu-mcg-tower-davasi-depremde-anne-babasini-kaybeden-mustekiye-durusma-yasagi-2450548",
+          "discovered_at": "2025-11-07T01:48:05.365422"
+        },
+        {
+          "index": 149,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/bm-guvenlik-konseyi-abd-nin-suriye-yaptirimlarinin-kaldirilmasini-kabul-etti-2450541",
+          "discovered_at": "2025-11-07T01:48:05.365426"
+        },
+        {
+          "index": 150,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-havalimani-nda-hareketli-dakikalar-ucakta-bomba-var-panigi-2450537",
+          "discovered_at": "2025-11-07T01:48:05.365431"
+        },
+        {
+          "index": 151,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/ziyarete-gelen-enistesi-evde-cansiz-bedenini-buldu-2450483",
+          "discovered_at": "2025-11-07T01:48:05.365443"
+        },
+        {
+          "index": 152,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/sac-ve-tiras-makineleri-ithalatinda-yeni-donem-2450374",
+          "discovered_at": "2025-11-07T01:48:05.365545"
+        },
+        {
+          "index": 153,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/uskudar-da-dehset-esine-kizgin-yag-doken-kadin-tutuklandi-2450331",
+          "discovered_at": "2025-11-07T01:48:05.365548"
+        },
+        {
+          "index": 154,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-akdeniz-de-4-1-buyuklugunde-deprem-2450330",
+          "discovered_at": "2025-11-07T01:48:05.365552"
+        },
+        {
+          "index": 155,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/gayrimenkul-satislarinda-rekor-artis-konut-ve-arsa-piyasasi-canlandi-2450315",
+          "discovered_at": "2025-11-07T01:48:05.365556"
+        },
+        {
+          "index": 156,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/kocaeli-de-ataturk-un-olum-yildonumu-icin-dua-okutulacak-2450274",
+          "discovered_at": "2025-11-07T01:48:05.365560"
+        },
+        {
+          "index": 157,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/isias-otel-davasi-magdur-ailelerden-mahkeme-heyetine-kartalkaya-daki-cesareti-gostermeliler-2450306",
+          "discovered_at": "2025-11-07T01:48:05.365564"
+        },
+        {
+          "index": 158,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/resmi-ilanlar/tasfiye-halinde-s-s-yesil-altinkent-konut-yapi-kooperatifi-2450454",
+          "discovered_at": "2025-11-07T01:48:05.365568"
+        },
+        {
+          "index": 159,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-torbali-6-asliye-ceza-mahkemesi-hakimligi-2450456",
+          "discovered_at": "2025-11-07T01:48:05.365571"
+        },
+        {
+          "index": 160,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/karabuk-te-mucize-bitki-hasadi-basladi-2448499",
+          "discovered_at": "2025-11-07T01:48:05.365575"
+        },
+        {
+          "index": 161,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/kutahya-da-hasat-basladi-1200-ailenin-gecim-kaynagi-2447959",
+          "discovered_at": "2025-11-07T01:48:05.365578"
+        },
+        {
+          "index": 162,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/bakan-simsek-ben-bahane-pesinde-degilim-ama-enflasyon-hedeflerindeki-sapmada-kurakligin-etkisi-var-2450549",
+          "discovered_at": "2025-11-07T01:48:05.365582"
+        },
+        {
+          "index": 163,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/kasim-ayi-emekli-promosyonlari-guncellendi-en-yuksek-odemeyi-hangi-banka-yapiyor-2450284",
+          "discovered_at": "2025-11-07T01:48:05.365586"
+        },
+        {
+          "index": 164,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/alman-basini-turkiye-deki-et-krizini-yazdi-aileler-artik-ayda-bir-kez-et-yiyebiliyor-2450266",
+          "discovered_at": "2025-11-07T01:48:05.365590"
+        },
+        {
+          "index": 165,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/suruculer-dikkat-motorine-dev-zam-yolda-yeni-fiyatlar-ne-kadar-olacak-2450252",
+          "discovered_at": "2025-11-07T01:48:05.365593"
+        },
+        {
+          "index": 166,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/altin-yeniden-yukseliste-fiyatlar-o-rakama-yaklasti-gram-ceyrek-cumhuriyet-altini-bugun-ne-kadar-oldu-6-kasim-2025-persembe-altin-fiyatlari-2450245",
+          "discovered_at": "2025-11-07T01:48:05.365597"
+        },
+        {
+          "index": 167,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-den-ve-dunyadan-cevre-gundemi-2448431",
+          "discovered_at": "2025-11-07T01:48:05.365601"
+        },
+        {
+          "index": 168,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iklim-sozlugu-ppm-parts-per-million-2448424",
+          "discovered_at": "2025-11-07T01:48:05.365604"
+        },
+        {
+          "index": 169,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/doganlar-mobilya-grubu-ndan-surdurulebilirlikte-bir-ilk-2448432",
+          "discovered_at": "2025-11-07T01:48:05.365608"
+        },
+        {
+          "index": 170,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/sdg-sam-la-gorusmelerin-tikandigini-catisma-riskinin-hala-gundemde-oldugunu-soyledi-2450344",
+          "discovered_at": "2025-11-07T01:48:05.365613"
+        },
+        {
+          "index": 171,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/berke-ozer-penalti-yaptirdi-kizilyildiz-lille-i-tek-golle-gecti-2450533",
+          "discovered_at": "2025-11-07T01:48:05.365616"
+        },
+        {
+          "index": 172,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/pfdk-den-6-super-lig-ekibine-ceza-2450532",
+          "discovered_at": "2025-11-07T01:48:05.365620"
+        },
+        {
+          "index": 173,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/arda-turan-in-ekibi-shakhtar-donetsk-3-puani-iki-golle-aldi-2450519",
+          "discovered_at": "2025-11-07T01:48:05.365624"
+        },
+        {
+          "index": 174,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/panathinaikos-ta-kostas-sloukas-gelismesi-2450488",
+          "discovered_at": "2025-11-07T01:48:05.365631"
+        },
+        {
+          "index": 175,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/uzmandan-uyari-yanlis-masaj-sakatlikla-sonuclanabilir-2450426",
+          "discovered_at": "2025-11-07T01:48:05.365635"
+        },
+        {
+          "index": 176,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/saglik/cocuklarda-gribin-neden-oldugu-4-saglik-sorununa-dikkat-2450436",
+          "discovered_at": "2025-11-07T01:48:05.365638"
+        },
+        {
+          "index": 177,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/kablosuz-kulakliklar-ne-kadar-guvenli-2450304",
+          "discovered_at": "2025-11-07T01:48:05.365643"
+        },
+        {
+          "index": 178,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/gunde-iki-kez-dis-fircalamak-neden-her-zaman-yeterli-degil-2450298",
+          "discovered_at": "2025-11-07T01:48:05.365646"
+        },
+        {
+          "index": 179,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/enerji-icecegiyle-alkol-karisimi-olum-getirdi-gecer-demeyin-ilk-belirti-carpinti-ve-tansiyon-2450318",
+          "discovered_at": "2025-11-07T01:48:05.365650"
+        },
+        {
+          "index": 180,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/diyaliz-hastalarinda-her-sene-3-bin-civarinda-artis-oluyor-2450311",
+          "discovered_at": "2025-11-07T01:48:05.365654"
+        },
+        {
+          "index": 181,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/kadinlarin-sessiz-cigligi-lipodem-2450281",
+          "discovered_at": "2025-11-07T01:48:05.365657"
+        },
+        {
+          "index": 182,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/cocuk-psikologlari-acikladi-mutlu-bir-evde-buyumenin-cocuklarda-6-belirtisi-2450033",
+          "discovered_at": "2025-11-07T01:48:05.365661"
+        },
+        {
+          "index": 183,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/tv-yayin-akisi-6-kasim-persembe-hangi-kanalda-ne-var-gunun-filmleri-ve-dizileri-neler-2450239",
+          "discovered_at": "2025-11-07T01:48:05.365664"
+        },
+        {
+          "index": 184,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/sinemalarda-bu-hafta-bugonia-baglanti-hatasi-catida-biri-var-ve-fazlasi-2448372",
+          "discovered_at": "2025-11-07T01:48:05.365668"
+        },
+        {
+          "index": 185,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/koc-burcu/gunluk-burc-yorumlari-7-kasim-cuma-koc-burcu-yorumu-2450385",
+          "discovered_at": "2025-11-07T01:48:05.365672"
+        },
+        {
+          "index": 186,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/boga-burcu/gunluk-burc-yorumlari-7-kasim-cuma-boga-burcu-yorumu-2450386",
+          "discovered_at": "2025-11-07T01:48:05.365675"
+        },
+        {
+          "index": 187,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/ikizler-burcu/gunluk-burc-yorumlari-7-kasim-cuma-ikizler-burcu-yorumu-2450388",
+          "discovered_at": "2025-11-07T01:48:05.365679"
+        },
+        {
+          "index": 188,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/yengec-burcu/gunluk-burc-yorumlari-7-kasim-cuma-yengec-burcu-yorumu-2450390",
+          "discovered_at": "2025-11-07T01:48:05.365682"
+        },
+        {
+          "index": 189,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/aslan-burcu/gunluk-burc-yorumlari-7-kasim-cuma-aslan-burcu-yorumu-2450391",
+          "discovered_at": "2025-11-07T01:48:05.365686"
+        },
+        {
+          "index": 190,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/basak-burcu/gunluk-burc-yorumlari-7-kasim-cuma-basak-burcu-yorumu-2450393",
+          "discovered_at": "2025-11-07T01:48:05.365690"
+        },
+        {
+          "index": 191,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/terazi-burcu/gunluk-burc-yorumlari-7-kasim-cuma-terazi-burcu-yorumu-2450392",
+          "discovered_at": "2025-11-07T01:48:05.365693"
+        },
+        {
+          "index": 192,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/akrep-burcu/gunluk-burc-yorumlari-7-kasim-cuma-akrep-burcu-yorumu-2450394",
+          "discovered_at": "2025-11-07T01:48:05.365697"
+        },
+        {
+          "index": 193,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/yay-burcu/gunluk-burc-yorumlari-7-kasim-cuma-yay-burcu-yorumu-2450396",
+          "discovered_at": "2025-11-07T01:48:05.365700"
+        },
+        {
+          "index": 194,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/oglak-burcu/gunluk-burc-yorumlari-7-kasim-cuma-oglak-burcu-yorumu-2450397",
+          "discovered_at": "2025-11-07T01:48:05.365704"
+        },
+        {
+          "index": 195,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/kova-burcu/gunluk-burc-yorumlari-7-kasim-cuma-kova-burcu-yorumu-2450399",
+          "discovered_at": "2025-11-07T01:48:05.365707"
+        },
+        {
+          "index": 196,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/astroloji/balik-burcu/gunluk-burc-yorumlari-7-kasim-cuma-balik-burcu-yorumu-2450400",
+          "discovered_at": "2025-11-07T01:48:05.365711"
+        },
+        {
+          "index": 197,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/sofralarin-vazgecilmez-yemegi-pratik-biber-dolmasi-tarifi-2450446",
+          "discovered_at": "2025-11-07T01:48:05.365714"
+        },
+        {
+          "index": 198,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/hastaliklarin-sifa-lezzeti-zencefilli-mercimek-corbasi-tarifi-2450322",
+          "discovered_at": "2025-11-07T01:48:05.365718"
+        },
+        {
+          "index": 199,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/kahvaltiya-pratik-lezzet-peynirli-tava-boregi-tarifi-2450285",
+          "discovered_at": "2025-11-07T01:48:05.365721"
+        },
+        {
+          "index": 200,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/serbetiyle-tam-kivaminda-pratik-revani-tarifi-2450129",
+          "discovered_at": "2025-11-07T01:48:05.365724"
+        },
+        {
+          "index": 201,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/dunya/apple-tarihe-gecti-piyasa-degeri-4-trilyon-dolari-gordu-2447800",
+          "discovered_at": "2025-11-07T01:48:05.365732"
+        },
+        {
+          "index": 202,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/hideo-kojima-nin-yeni-xbox-oyunu-od-nin-fragmani-yayinlandi-2437745",
+          "discovered_at": "2025-11-07T01:48:05.365736"
+        },
+        {
+          "index": 203,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/okyanuslarda-gizlenen-seffaf-basli-balik-2437737",
+          "discovered_at": "2025-11-07T01:48:05.365740"
+        },
+        {
+          "index": 204,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/turkiye-de-youtube-izleme-suresi-ilk-kez-uydu-yayinlarini-gecti-2437378",
+          "discovered_at": "2025-11-07T01:48:05.365744"
+        },
+        {
+          "index": 205,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/byd-sealion-7-ve-atto-2-gorucuye-cikti-iste-fiyatlari-ve-teknik-ozellikleri-2450072",
+          "discovered_at": "2025-11-07T01:48:05.365747"
+        },
+        {
+          "index": 206,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/cinli-model-togg-un-4-te-1-fiyatina-satisa-sunuldu-iste-1700-km-menzilli-yeni-sedan-2449800",
+          "discovered_at": "2025-11-07T01:48:05.365751"
+        },
+        {
+          "index": 207,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/byd-den-bir-ilk-daha-saunali-modeli-tanitti-iste-byd-t35-2448646",
+          "discovered_at": "2025-11-07T01:48:05.365755"
+        },
+        {
+          "index": 208,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/avrupa-otomotiv-pazari-eylulde-yuzde-10-7-artti-hibrit-ve-elektrikliler-rekor-kirdi-2448018",
+          "discovered_at": "2025-11-07T01:48:05.365758"
+        },
+        {
+          "index": 209,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyetkitap.com.tr/turkiyede-ogretmen-yetistirme-dunu-bugunu-gelecegi",
+          "discovered_at": "2025-11-07T01:48:05.365762"
+        },
+        {
+          "index": 210,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyetkitap.com.tr/ismet-toto-ataturk-hayrani-bir-arnavut-gencin-dunyasi",
+          "discovered_at": "2025-11-07T01:48:05.365766"
+        },
+        {
+          "index": 211,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyetkitap.com.tr/benim-adim-dunya-atesim-cikiyor-ama-neden",
+          "discovered_at": "2025-11-07T01:48:05.365770"
+        },
+        {
+          "index": 212,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/aydin-buyuksehir-belediyesi-ekim-ayi-olagan-meclis-toplantisinda-yetki-tartismasi-2443755",
+          "discovered_at": "2025-11-07T01:48:05.365773"
+        },
+        {
+          "index": 213,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/maltepe-de-cocuklar-uzay-bilimleriyle-tanisti-2443774",
+          "discovered_at": "2025-11-07T01:48:05.365777"
+        },
+        {
+          "index": 214,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/kiz-cocuklari-elmadag-renkli-koy-de-keyifli-anlar-yasadi-2443321",
+          "discovered_at": "2025-11-07T01:48:05.365780"
+        },
+        {
+          "index": 215,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/giresun-belediyesi-ne-saglikli-sehir-odulu-2443323",
+          "discovered_at": "2025-11-07T01:48:05.365784"
+        },
+        {
+          "index": 216,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ara-tatilde-cocuklar-akm-de-sanatla-bulusacak-2450491",
+          "discovered_at": "2025-11-07T01:48:05.365788"
+        },
+        {
+          "index": 217,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/fora-oyununun-promiyeri-29-istanbul-tiyatro-festivali-nde-gerceklestirildi-2450494",
+          "discovered_at": "2025-11-07T01:48:05.365791"
+        },
+        {
+          "index": 218,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/cumhuriyet-gunesi-konak-pier-de-dogacak-2450287",
+          "discovered_at": "2025-11-07T01:48:05.365794"
+        },
+        {
+          "index": 219,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/moda/tamer-yilmaz-ile-turkiye-de-moda-fotografciliginin-35-yili-tamera-2446952",
+          "discovered_at": "2025-11-07T01:48:05.365797"
+        },
+        {
+          "index": 220,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/moda/luksun-gercek-tanimi-zamansizlik-ve-onarim-2446949",
+          "discovered_at": "2025-11-07T01:48:05.365801"
+        },
+        {
+          "index": 221,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/moda/dolabinizda-olmasi-gereken-anahtar-parcalar-2436657",
+          "discovered_at": "2025-11-07T01:48:05.365804"
+        },
+        {
+          "index": 222,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/moda/kolej-ruhu-sokaklarda-2025-sonbaharinda-preppy-donusu-2436656",
+          "discovered_at": "2025-11-07T01:48:05.365808"
+        },
+        {
+          "index": 223,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/karadag-in-vize-uygulamasi-ucuslari-iptal-ettirdi-2450459",
+          "discovered_at": "2025-11-07T01:48:05.365812"
+        },
+        {
+          "index": 224,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/alapli-da-hasat-basladi-dogal-vitamin-deposu-2450457",
+          "discovered_at": "2025-11-07T01:48:05.365815"
+        },
+        {
+          "index": 225,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/bilim-dunyasi-alarmda-laboratuvarda-uretilen-embriyolar-gercege-her-gecen-gun-yaklasiyor-2450419",
+          "discovered_at": "2025-11-07T01:48:05.365819"
+        },
+        {
+          "index": 226,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/goz-yorgunlugu-ve-odak-daginikligini-bitirmenin-yontemi-ekran-suresini-azaltmanin-10-etkili-yolu-2450416",
+          "discovered_at": "2025-11-07T01:48:05.365823"
+        },
+        {
+          "index": 227,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/patnos-ovasi-nda-hasat-tamamlandi-500-donum-araziden-bin-650-ton-urun-elde-edildi-2450381",
+          "discovered_at": "2025-11-07T01:48:05.365827"
+        },
+        {
+          "index": 228,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/imza-sirkuleri-nedir-imza-sirkuleri-nasil-alinir-2450360",
+          "discovered_at": "2025-11-07T01:48:05.365831"
+        },
+        {
+          "index": 229,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/evrenin-en-gizemli-yapilarindan-biri-kesfedildi-7-5-milyar-isik-yili-uzakta-cift-halkali-radyo-dairesi-bulundu-2450358",
+          "discovered_at": "2025-11-07T01:48:05.365835"
+        },
+        {
+          "index": 230,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/herkesin-soyadinin-ayni-oldugu-koyde-lakap-kullaniliyor-2450356",
+          "discovered_at": "2025-11-07T01:48:05.365838"
+        },
+        {
+          "index": 231,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/annemi-oldurecegim-mesajlarinin-perde-arkasi-gullu-nun-kizi-ifade-verdi-2450342",
+          "discovered_at": "2025-11-07T01:48:05.365842"
+        },
+        {
+          "index": 232,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/evrenin-var-olus-sirri-bulundu-girdap-atom-modeli-kesfedildi-2450317",
+          "discovered_at": "2025-11-07T01:48:05.365846"
+        },
+        {
+          "index": 233,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/bagisikligi-guclendiriyor-sindirim-sistemini-destekliyor-vucudu-toksinlerden-arindiran-mucize-bitki-2450312",
+          "discovered_at": "2025-11-07T01:48:05.365850"
+        },
+        {
+          "index": 234,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/zihinsel-performansinizi-zirveye-tasiyin-beyni-guclendiren-nootropik-8-besin-2450181",
+          "discovered_at": "2025-11-07T01:48:05.365856"
+        },
+        {
+          "index": 235,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/bagirsak-ve-beyin-baglantisi-fermente-gidalar-ruh-sagligini-nasil-etkiliyor-2450159",
+          "discovered_at": "2025-11-07T01:48:05.365859"
+        },
+        {
+          "index": 236,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/banu-alkan-in-aci-gunu-2450157",
+          "discovered_at": "2025-11-07T01:48:05.365863"
+        },
+        {
+          "index": 237,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/yag-ve-kir-lekelerinden-hizlica-kurtulmanin-cozumu-firin-temizliginde-en-etkili-4-dogal-yontem-2450154",
+          "discovered_at": "2025-11-07T01:48:05.365867"
+        },
+        {
+          "index": 238,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/piromani-nedir-piromani-hastaligi-neden-olur-piromani-hastaligi-tedavisi-2450127",
+          "discovered_at": "2025-11-07T01:48:05.365871"
+        },
+        {
+          "index": 239,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/bilim-insanlari-uyardi-her-sarilma-sevgi-gostergesi-degil-2450093",
+          "discovered_at": "2025-11-07T01:48:05.365875"
+        },
+        {
+          "index": 240,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/arastirma-ortaya-cikardi-cinsel-hazzi-artirmanin-basit-yolu-bulundu-2450077",
+          "discovered_at": "2025-11-07T01:48:05.365878"
+        },
+        {
+          "index": 241,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/gorkem-sevindik-kadir-baba-roluyle-gonulleri-kazandi-2450041",
+          "discovered_at": "2025-11-07T01:48:05.365882"
+        },
+        {
+          "index": 242,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yasam/bulasik-makinesi-kokusu-nasil-giderilir-iste-pratik-ve-etkili-yontemler-2450034",
+          "discovered_at": "2025-11-07T01:48:05.365886"
+        },
+        {
+          "index": 243,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/gazi-mustafa-kemal-ataturk-cso-ada-ankara-da-konserlerle-anilacak-2450528",
+          "discovered_at": "2025-11-07T01:48:05.365910"
+        },
+        {
+          "index": 244,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/antalya-kultur-yolu-festivali-nde-saraydan-kiz-kacirma-operasi-sahnelenecek-2450496",
+          "discovered_at": "2025-11-07T01:48:05.365943"
+        },
+        {
+          "index": 245,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/omur-kurt-un-odullu-kitabi-100-bin-okura-ulasti-2450430",
+          "discovered_at": "2025-11-07T01:48:05.365949"
+        },
+        {
+          "index": 246,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/5-bin-yillik-kadin-figuru-izleri-yassitepe-de-ozel-kaplar-ortaya-cikti-2450263",
+          "discovered_at": "2025-11-07T01:48:05.365953"
+        },
+        {
+          "index": 247,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/bu-festival-bizim-dorduncu-kez-kadikoy-de-yeni-baglara-davet-2450226",
+          "discovered_at": "2025-11-07T01:48:05.365956"
+        },
+        {
+          "index": 248,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/is-sanat-konser-sezonunu-pablo-ferrandez-ve-tekfen-filarmoni-orkestrasi-ile-acti-2450101",
+          "discovered_at": "2025-11-07T01:48:05.365960"
+        },
+        {
+          "index": 249,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/kaliplarin-disina-cikmak-sergisi-aciliyor-2450095",
+          "discovered_at": "2025-11-07T01:48:05.365964"
+        },
+        {
+          "index": 250,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/selimiye-camii-restorasyonu-durdurulmustu-akp-tarihi-camileri-nasil-restorasyona-kurban-etti-2450073",
+          "discovered_at": "2025-11-07T01:48:05.365967"
+        },
+        {
+          "index": 251,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/gozde-kural-in-yonetmenligini-yaptigi-film-valencia-dan-odulle-dondu-cinema-jazireh-her-yerde-2449900",
+          "discovered_at": "2025-11-07T01:48:05.365973"
+        },
+        {
+          "index": 252,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/yilmaz-aslanturk-naber-den-ayrildi-tip-uyeligi-iddiasi-2449654",
+          "discovered_at": "2025-11-07T01:48:05.365977"
+        },
+        {
+          "index": 253,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/sincan-istasyonu-raylarini-topladi-veda-vakti-2449636",
+          "discovered_at": "2025-11-07T01:48:05.365980"
+        },
+        {
+          "index": 254,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ilyas-tunc-un-ne-cok-gelecek-ne-az-zaman-yirminci-yuzyil-trajedileri-kitabi-uzerine-2449629",
+          "discovered_at": "2025-11-07T01:48:05.365984"
+        },
+        {
+          "index": 255,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/satala-antik-kenti-nde-150-yil-sonra-ikinci-bust-bulundu-2449604",
+          "discovered_at": "2025-11-07T01:48:05.365987"
+        },
+        {
+          "index": 256,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/haluk-akakce-adina-bir-vakif-kurulurken-son-yillarini-gecirdigi-atolyesi-de-ziyarete-acik-siniri-gokyuzuydu-2449530",
+          "discovered_at": "2025-11-07T01:48:05.365991"
+        },
+        {
+          "index": 257,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/orta-cag-dan-kalma-kule-restorasyon-sirasinda-coktu-2449485",
+          "discovered_at": "2025-11-07T01:48:05.365994"
+        },
+        {
+          "index": 258,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/istanbul-da-bu-hafta-bircok-etkinlik-sanatseverlerle-bulusacak-2449474",
+          "discovered_at": "2025-11-07T01:48:05.365998"
+        },
+        {
+          "index": 259,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/dunyada-bu-hafta-bir-dizi-etkinlik-sanatseverlerle-bulusacak-2449467",
+          "discovered_at": "2025-11-07T01:48:05.366001"
+        },
+        {
+          "index": 260,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/dengesini-arayan-bir-sehir-ve-kediler-2449387",
+          "discovered_at": "2025-11-07T01:48:05.366005"
+        },
+        {
+          "index": 261,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/fransiz-muzisyen-yann-tiersen-istanbul-da-sahne-alacak-2449349",
+          "discovered_at": "2025-11-07T01:48:05.366010"
+        },
+        {
+          "index": 262,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/izmir-de-sanat-dolu-bir-hafta-yasanacak-2449296",
+          "discovered_at": "2025-11-07T01:48:05.366013"
+        },
+        {
+          "index": 263,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/bu-yil-62-nci-kez-sinemaseverlerle-bulusan-festivale-tokmak-in-filmi-damga-vurdu-altin-portakal-in-imparator-u-2449210",
+          "discovered_at": "2025-11-07T01:48:05.366029"
+        },
+        {
+          "index": 264,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/unlu-isimlerin-hocasi-suheyla-altmisdort-hayatini-kaybetti-2449235",
+          "discovered_at": "2025-11-07T01:48:05.366033"
+        },
+        {
+          "index": 265,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/bilge-sen-den-altin-portakal-da-duygusal-konusma-81-yasindayim-hala-yoksulluk-sinirinin-altindayim-2449190",
+          "discovered_at": "2025-11-07T01:48:05.366037"
+        },
+        {
+          "index": 266,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/bartin-kitap-fuari-devam-ediyor-yurttaslar-fuara-akin-etti-2449125",
+          "discovered_at": "2025-11-07T01:48:05.366041"
+        },
+        {
+          "index": 267,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/enfes-lezzetiyle-muceddere-masterchef-muceddere-tarifi-2450502",
+          "discovered_at": "2025-11-07T01:48:05.366044"
+        },
+        {
+          "index": 268,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/enfes-cerkez-tavugu-masterchef-cerkez-tavugu-tarifi-2450500",
+          "discovered_at": "2025-11-07T01:48:05.366048"
+        },
+        {
+          "index": 269,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/turk-mutfaginin-enfes-lezzeti-lebeniye-corbasi-tarifi-2450401",
+          "discovered_at": "2025-11-07T01:48:05.366051"
+        },
+        {
+          "index": 270,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/kis-sofralarinin-en-lezzetli-eslikcisi-patlican-tursusu-tarifi-2450380",
+          "discovered_at": "2025-11-07T01:48:05.366056"
+        },
+        {
+          "index": 271,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/anadolu-nun-klasik-tarifi-patlican-oturtma-tarifi-2450371",
+          "discovered_at": "2025-11-07T01:48:05.366059"
+        },
+        {
+          "index": 272,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/alternatif-bir-corba-lezzeti-ispanakli-yogurt-corbasi-tarifi-2450343",
+          "discovered_at": "2025-11-07T01:48:05.366062"
+        },
+        {
+          "index": 273,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/kis-mevsimine-cok-yakisan-hafif-lezzet-balkabakli-rulo-kek-tarifi-2450337",
+          "discovered_at": "2025-11-07T01:48:05.366066"
+        },
+        {
+          "index": 274,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/cayin-yanina-cok-yakisan-enfes-lezzet-susamli-simit-pogaca-tarifi-2450295",
+          "discovered_at": "2025-11-07T01:48:05.366070"
+        },
+        {
+          "index": 275,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/kahvaltilar-icin-pratik-tarif-ispanakli-peynirli-krep-tarifi-2450255",
+          "discovered_at": "2025-11-07T01:48:05.366073"
+        },
+        {
+          "index": 276,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/aromasiyla-damak-catlatan-enfes-lezzet-masterchef-sakizli-muhallebi-tarifi-2450189",
+          "discovered_at": "2025-11-07T01:48:05.366077"
+        },
+        {
+          "index": 277,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/kivami-ve-lezzetiyle-buyuleyen-enfes-tatli-masterchef-supangle-tarifi-2450162",
+          "discovered_at": "2025-11-07T01:48:05.366081"
+        },
+        {
+          "index": 278,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/osmanli-mutfagindan-sofralariniza-tasinan-enfes-lezzet-masterchef-keskul-u-fukara-tarifi-2450148",
+          "discovered_at": "2025-11-07T01:48:05.366084"
+        },
+        {
+          "index": 279,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/sekersiz-hafif-ve-lezzetli-masterchef-incir-uyutmasi-tarifi-2450104",
+          "discovered_at": "2025-11-07T01:48:05.366088"
+        },
+        {
+          "index": 280,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/cay-saatlerine-renk-katan-iki-renkli-kek-tarifi-2450090",
+          "discovered_at": "2025-11-07T01:48:05.366091"
+        },
+        {
+          "index": 281,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/hastaliklara-karsi-sifa-pratik-sehriyeli-tavuk-corbasi-tarifi-2450045",
+          "discovered_at": "2025-11-07T01:48:05.366094"
+        },
+        {
+          "index": 282,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/anadolu-nun-efsanelerinden-biri-tandir-kebabi-tarifi-2449996",
+          "discovered_at": "2025-11-07T01:48:05.366097"
+        },
+        {
+          "index": 283,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/anadolu-mutfaginin-sade-tarifi-zeytinyagli-taze-fasulye-tarifi-2449970",
+          "discovered_at": "2025-11-07T01:48:05.366101"
+        },
+        {
+          "index": 284,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/turk-mutfaginin-enfes-lezzeti-lebeniye-corbasi-tarifi-2449875",
+          "discovered_at": "2025-11-07T01:48:05.366104"
+        },
+        {
+          "index": 285,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/turk-mutfaginin-klasik-tarifi-etli-nohut-tarifi-2449846",
+          "discovered_at": "2025-11-07T01:48:05.366108"
+        },
+        {
+          "index": 286,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/hafif-ve-lezzetli-bir-atistirmalik-havuclu-tarcinli-kek-tarifi-2449776",
+          "discovered_at": "2025-11-07T01:48:05.366111"
+        },
+        {
+          "index": 287,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/pastaneleri-aratmayan-lezzet-serbetiyle-agizda-dagilan-revani-tarifi-2449775",
+          "discovered_at": "2025-11-07T01:48:05.366118"
+        },
+        {
+          "index": 288,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/balkanlarin-en-sevilen-lezzeti-kosova-mantisi-tarifi-2449710",
+          "discovered_at": "2025-11-07T01:48:05.366121"
+        },
+        {
+          "index": 289,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/yumusacik-hamuruyla-damak-catlatan-enfes-lezzet-metez-tarifi-2449708",
+          "discovered_at": "2025-11-07T01:48:05.366125"
+        },
+        {
+          "index": 290,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/kis-sofralarinin-yildizi-zeytinyagli-ayva-tarifi-2449640",
+          "discovered_at": "2025-11-07T01:48:05.366129"
+        },
+        {
+          "index": 291,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/kahvaltiya-tatli-bir-dokunus-yumusacik-kakaolu-pankek-tarifi-2449594",
+          "discovered_at": "2025-11-07T01:48:05.366133"
+        },
+        {
+          "index": 292,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/gurme/disi-citir-ici-yumusacik-lezzet-hollanda-usulu-patates-tarifi-2449588",
+          "discovered_at": "2025-11-07T01:48:05.366136"
+        },
+        {
+          "index": 293,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/trafik-sorunu-2026-da-cozuluyor-2-tesla-fiyatina-ucan-araba-iste-tum-ayrintilar-2450452",
+          "discovered_at": "2025-11-07T01:48:05.366140"
+        },
+        {
+          "index": 294,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/ford-trucks-in-yeni-f-max-tanitim-turu-gaziantep-te-surecek-2448879",
+          "discovered_at": "2025-11-07T01:48:05.366143"
+        },
+        {
+          "index": 295,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/stellantis-te-ust-duzey-atama-2447990",
+          "discovered_at": "2025-11-07T01:48:05.366147"
+        },
+        {
+          "index": 296,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/byd-3-yeni-hibrit-modelini-satisa-sundu-547-bin-tl-den-basliyor-iste-qin-l-dm-i-song-l-dm-i-ve-song-pro-dm-i-ozellikleri-2447781",
+          "discovered_at": "2025-11-07T01:48:05.366150"
+        },
+        {
+          "index": 297,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/porsche-son-ceyrekteki-zararini-acikladi-1-milyar-dolar-esigi-asildi-2447463",
+          "discovered_at": "2025-11-07T01:48:05.366154"
+        },
+        {
+          "index": 298,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/volkswagen-den-cip-tedariki-aciklamasi-cozume-ihtiyacimiz-var-2447436",
+          "discovered_at": "2025-11-07T01:48:05.366158"
+        },
+        {
+          "index": 299,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/toyota-seriye-bagladi-4-ay-ust-uste-uretim-artti-eylulde-918-bini-asti-2447419",
+          "discovered_at": "2025-11-07T01:48:05.366161"
+        },
+        {
+          "index": 300,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/byd-rekora-doymuyor-elektrikli-yangwang-u9-nurburgring-de-nefes-kesti-2447282",
+          "discovered_at": "2025-11-07T01:48:05.366165"
+        },
+        {
+          "index": 301,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/renault-group-2025-yili-gelirini-acikladi-2446900",
+          "discovered_at": "2025-11-07T01:48:05.366170"
+        },
+        {
+          "index": 302,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/stellantis-ten-13-milyar-dolarlik-yatirim-plani-2446898",
+          "discovered_at": "2025-11-07T01:48:05.366173"
+        },
+        {
+          "index": 303,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/fiat-grande-panda-satisa-sunuldu-fiyati-ve-teknik-ozellikleri-aciklandi-2446326",
+          "discovered_at": "2025-11-07T01:48:05.366177"
+        },
+        {
+          "index": 304,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/ikinci-el-arac-ilanlarina-iliskin-eylul-verileri-yayimlandi-fiyatlar-dususe-gecti-2446313",
+          "discovered_at": "2025-11-07T01:48:05.366181"
+        },
+        {
+          "index": 305,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/byd-nin-luks-markasindan-iki-yeni-model-bao-8-ve-bao-5-in-ozellikleri-ve-fiyatlari-belli-oldu-2446030",
+          "discovered_at": "2025-11-07T01:48:05.366185"
+        },
+        {
+          "index": 306,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/toyota-dan-bir-ilk-sagdan-direksiyonlu-elektrikli-bz3x-1-milyon-237-bin-tl-ye-satisa-sunuldu-2445952",
+          "discovered_at": "2025-11-07T01:48:05.366188"
+        },
+        {
+          "index": 307,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/ford-avrupa-nin-yeni-baskani-aciklandi-2445933",
+          "discovered_at": "2025-11-07T01:48:05.366192"
+        },
+        {
+          "index": 308,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/chery-yuksek-menzilli-bataryada-gaza-basti-hedef-tam-1300-kilometre-2445930",
+          "discovered_at": "2025-11-07T01:48:05.366195"
+        },
+        {
+          "index": 309,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/elektrikli-otomobilde-batarya-degisim-istasyonlari-artiyor-100-saniyede-yuzde-100-sarj-iste-maliyeti-ve-tum-detaylar-2445910",
+          "discovered_at": "2025-11-07T01:48:05.366199"
+        },
+        {
+          "index": 310,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/kazali-araci-yaptirmak-istedi-parca-fiyatina-inanamadi-iki-fari-lamborghini-den-pahali-2445717",
+          "discovered_at": "2025-11-07T01:48:05.366203"
+        },
+        {
+          "index": 311,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/chery-nin-en-uygun-fiyatli-modeli-omoda-4-tanitildi-benzinli-ve-elektrikli-motorlarla-geliyor-2445651",
+          "discovered_at": "2025-11-07T01:48:05.366207"
+        },
+        {
+          "index": 312,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/sifir-otomobilde-kritik-esik-1-milyon-tl-nin-altinda-tek-o-arac-kaldi-2445303",
+          "discovered_at": "2025-11-07T01:48:05.366210"
+        },
+        {
+          "index": 313,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/otomotiv-devlerine-toplu-dava-ingiltere-de-emisyon-skandali-gundemde-2443297",
+          "discovered_at": "2025-11-07T01:48:05.366214"
+        },
+        {
+          "index": 314,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/ikinci-el-arac-ilanlarinda-en-cok-hangi-marka-ve-modeller-one-cikti-2443170",
+          "discovered_at": "2025-11-07T01:48:05.366218"
+        },
+        {
+          "index": 315,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/tuketiciler-birligi-nden-elektrikli-arac-uyarisi-uzun-menzil-diye-satiliyor-ama-2442719",
+          "discovered_at": "2025-11-07T01:48:05.366222"
+        },
+        {
+          "index": 316,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/efsane-model-geri-dondu-renault-twingo-479-bin-tl-ye-satisa-sunuldu-iste-renault-twingo-e-tech-e-dair-tum-ayrintilar-2442552",
+          "discovered_at": "2025-11-07T01:48:05.366226"
+        },
+        {
+          "index": 317,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/borusan-next-ten-ilk-isbirligi-izmir-de-start-verildi-2442513",
+          "discovered_at": "2025-11-07T01:48:05.366229"
+        },
+        {
+          "index": 318,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/otomotiv/tesla-sorusturma-altinda-surucusuz-otomobiller-kirmizida-durmuyor-ters-yone-giriyor-2442496",
+          "discovered_at": "2025-11-07T01:48:05.366233"
+        },
+        {
+          "index": 319,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/gelecegi-korumak-icin-kucuk-adimlar-dunya-tasarruf-gunu-2448430",
+          "discovered_at": "2025-11-07T01:48:05.366236"
+        },
+        {
+          "index": 320,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/doga-bilim-ve-zarafet-arasinda-surdurulebilir-denge-cenevre-2448427",
+          "discovered_at": "2025-11-07T01:48:05.366239"
+        },
+        {
+          "index": 321,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/gunes-enerjisi-turkiye-nin-en-ucuz-elektrik-kaynagi-oldu-2448425",
+          "discovered_at": "2025-11-07T01:48:05.366243"
+        },
+        {
+          "index": 322,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/sustainable-retail-summit-2025-surdurulebilir-perakendenin-gelecegi-istanbul-da-masaya-yatirildi-2444210",
+          "discovered_at": "2025-11-07T01:48:05.366247"
+        },
+        {
+          "index": 323,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/turkiye-den-ve-dunyadan-cevre-gundemi-2439375",
+          "discovered_at": "2025-11-07T01:48:05.366250"
+        },
+        {
+          "index": 324,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-den-ve-dunyadan-cevre-gundemi-2439374",
+          "discovered_at": "2025-11-07T01:48:05.366254"
+        },
+        {
+          "index": 325,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/boya-ile-iklim-dostu-donusum-2439371",
+          "discovered_at": "2025-11-07T01:48:05.366258"
+        },
+        {
+          "index": 326,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/cevre/surdurulebilirlik-trend-degil-yasam-bicimi-2439370",
+          "discovered_at": "2025-11-07T01:48:05.366261"
+        },
+        {
+          "index": 327,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/cevre/abd-de-temiz-enerji-istihdami-3-5-milyonu-asti-2439372",
+          "discovered_at": "2025-11-07T01:48:05.366265"
+        },
+        {
+          "index": 328,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iyi-haber-kopenhag-dunyanin-ilk-sunger-kenti-oluyor-2431767",
+          "discovered_at": "2025-11-07T01:48:05.366269"
+        },
+        {
+          "index": 329,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iklim-sozlugu-esg-cevresel-sosyal-ve-yonetisim-2431765",
+          "discovered_at": "2025-11-07T01:48:05.366421"
+        },
+        {
+          "index": 330,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/cevre/sirketler-icin-yeni-gerceklik-iklim-finansmani-ve-risk-analizi-2431769",
+          "discovered_at": "2025-11-07T01:48:05.366427"
+        },
+        {
+          "index": 331,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-den-ve-dunyadan-cevre-gundemi-2431768",
+          "discovered_at": "2025-11-07T01:48:05.366430"
+        },
+        {
+          "index": 332,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/kolonyalizmin-yeni-adi-atik-somurgeciligi-2431766",
+          "discovered_at": "2025-11-07T01:48:05.366433"
+        },
+        {
+          "index": 333,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-nin-ilk-ve-tek-surdurulebilir-perakende-zirvesi-ekim-de-istanbul-da-2426415",
+          "discovered_at": "2025-11-07T01:48:05.366437"
+        },
+        {
+          "index": 334,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iklim-sozlugu-karbon-ayak-izi-2422404",
+          "discovered_at": "2025-11-07T01:48:05.366441"
+        },
+        {
+          "index": 335,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iyi-haber-yenilenebilir-enerji-artik-daha-ucuz-2422407",
+          "discovered_at": "2025-11-07T01:48:05.366444"
+        },
+        {
+          "index": 336,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-den-ve-dunyadan-cevre-gundemi-2422406",
+          "discovered_at": "2025-11-07T01:48:05.366447"
+        },
+        {
+          "index": 337,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/su-azsa-gelecek-de-az-2422405",
+          "discovered_at": "2025-11-07T01:48:05.366483"
+        },
+        {
+          "index": 338,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/kokten-ilhama-surdurulebilirlik-surdurulebilirlik-bir-karar-degil-varolussal-bir-mesele-2422402",
+          "discovered_at": "2025-11-07T01:48:05.366490"
+        },
+        {
+          "index": 339,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iyi-haber-coldplay-den-muzikte-surdurulebilir-donusum-2413720",
+          "discovered_at": "2025-11-07T01:48:05.366494"
+        },
+        {
+          "index": 340,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iklim-sozlugu-temiz-icerik-2413721",
+          "discovered_at": "2025-11-07T01:48:05.366499"
+        },
+        {
+          "index": 341,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-den-ve-dunyadan-cevre-gundemi-2413723",
+          "discovered_at": "2025-11-07T01:48:05.366503"
+        },
+        {
+          "index": 342,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/dunya-icin-esin-kaynagi-oykuler-moda-endustrisi-donusumun-neresinde-2413719",
+          "discovered_at": "2025-11-07T01:48:05.366506"
+        },
+        {
+          "index": 343,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/surdurulebilir-turzim-2404601",
+          "discovered_at": "2025-11-07T01:48:05.366510"
+        },
+        {
+          "index": 344,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/iyi-haber-nesli-tehlike-altindaki-kuslarin-sesi-albume-donustu-2404598",
+          "discovered_at": "2025-11-07T01:48:05.366514"
+        },
+        {
+          "index": 345,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/surdurulebilirlik/turkiye-den-ve-dunyadan-cevre-gundemi-2404602",
+          "discovered_at": "2025-11-07T01:48:05.366518"
+        },
+        {
+          "index": 346,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/urgup-te-girisimcilik-destek-merkezi-icin-uclu-protokol-imzalandi-temel-girisimcilik-ve-muhasebe-egitimi-verilecek-2450352",
+          "discovered_at": "2025-11-07T01:48:05.366522"
+        },
+        {
+          "index": 347,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/ortahisar-belediyesi-dmd-ve-ms-hastalariyla-kermes-ve-kahvalti-etkinligi-duzenledi-2450348",
+          "discovered_at": "2025-11-07T01:48:05.366526"
+        },
+        {
+          "index": 348,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/ceyhan-belediyesi-nden-dorduncu-kent-meydani-projesi-basliyor-2450347",
+          "discovered_at": "2025-11-07T01:48:05.366559"
+        },
+        {
+          "index": 349,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/mezitli-den-gelecege-dokunan-proje-zeytin-agaclari-egitime-can-veriyor-2450320",
+          "discovered_at": "2025-11-07T01:48:05.366562"
+        },
+        {
+          "index": 350,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/yenisehir-avrupa-nin-6-pilot-sehrinden-biri-olarak-secildi-2450131",
+          "discovered_at": "2025-11-07T01:48:05.366565"
+        },
+        {
+          "index": 351,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/urgup-isi-albostan-ata-tohumu-bugdayi-raflarda-yerini-aldi-2450125",
+          "discovered_at": "2025-11-07T01:48:05.366575"
+        },
+        {
+          "index": 352,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/toroslar-da-okuma-salonu-sayisi-6-ya-cikti-2450122",
+          "discovered_at": "2025-11-07T01:48:05.366578"
+        },
+        {
+          "index": 353,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/baskan-turgut-tan-kardes-sehir-bergkamen-e-ziyaret-2450118",
+          "discovered_at": "2025-11-07T01:48:05.366581"
+        },
+        {
+          "index": 354,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/kasik-2025-sempozyumu-safranbolu-da-basliyor-2450116",
+          "discovered_at": "2025-11-07T01:48:05.366587"
+        },
+        {
+          "index": 355,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/berlin-ile-mezitli-arasinda-kardeslik-baglari-gucleniyor-2450113",
+          "discovered_at": "2025-11-07T01:48:05.366590"
+        },
+        {
+          "index": 356,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/manavgat-ta-zeytin-ve-zeytinyagi-festivali-nin-ikincisi-basliyor-2450109",
+          "discovered_at": "2025-11-07T01:48:05.366593"
+        },
+        {
+          "index": 357,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/defne-de-ebeveyn-cocuk-oyun-atolyesi-acilisi-yaklasiyor-2450106",
+          "discovered_at": "2025-11-07T01:48:05.366595"
+        },
+        {
+          "index": 358,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/5-caycuma-yol-kosusu-16-kasim-da-gerceklestirilecek-2450103",
+          "discovered_at": "2025-11-07T01:48:05.366598"
+        },
+        {
+          "index": 359,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/20-uluslarasi-alanya-tas-heykel-sempozyumu-basladi-2450102",
+          "discovered_at": "2025-11-07T01:48:05.366601"
+        },
+        {
+          "index": 360,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/baskan-yasar-ogrenci-ve-velilerle-bir-araya-geldi-2449774",
+          "discovered_at": "2025-11-07T01:48:05.366604"
+        },
+        {
+          "index": 361,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/kahramankazan-belediyesi-nden-cocuklara-kis-destegi-2449772",
+          "discovered_at": "2025-11-07T01:48:05.366607"
+        },
+        {
+          "index": 362,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/tbb-ve-japonya-baskonsoloslugu-ndan-giresun-belediyesi-ne-arac-destegi-2449771",
+          "discovered_at": "2025-11-07T01:48:05.366609"
+        },
+        {
+          "index": 363,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/etimesgut-belediyesi-dalis-etkinliklerini-surduruyor-2449766",
+          "discovered_at": "2025-11-07T01:48:05.366612"
+        },
+        {
+          "index": 364,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/artvin-de-minikler-kuklalarla-bulustu-2449764",
+          "discovered_at": "2025-11-07T01:48:05.366615"
+        },
+        {
+          "index": 365,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/golbasi-na-yeni-asfalt-dokuldu-2449464",
+          "discovered_at": "2025-11-07T01:48:05.366618"
+        },
+        {
+          "index": 366,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/tarsus-belediye-baskani-ali-boltac-esnafla-bulustu-2449458",
+          "discovered_at": "2025-11-07T01:48:05.366621"
+        },
+        {
+          "index": 367,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/cimhan-manavgat-belediyespor-super-finallere-farkli-basladi-2449443",
+          "discovered_at": "2025-11-07T01:48:05.366623"
+        },
+        {
+          "index": 368,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/manavgat-belediyespor-dan-net-galibiyet-2449439",
+          "discovered_at": "2025-11-07T01:48:05.366626"
+        },
+        {
+          "index": 369,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/bulancak-ta-numarataj-calismalari-devam-ediyor-2449431",
+          "discovered_at": "2025-11-07T01:48:05.366629"
+        },
+        {
+          "index": 370,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/tasova-belediye-baskani-ozalp-gelecek-icin-birlikte-calisacagiz-2448885",
+          "discovered_at": "2025-11-07T01:48:05.366707"
+        },
+        {
+          "index": 371,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/sofya-da-safranbolu-ruzgarlari-2448884",
+          "discovered_at": "2025-11-07T01:48:05.366713"
+        },
+        {
+          "index": 372,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/belediye-sirketi-vergi-rekortmeni-oldu-2448883",
+          "discovered_at": "2025-11-07T01:48:05.366717"
+        },
+        {
+          "index": 373,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/bartin-da-kitap-fuari-2448882",
+          "discovered_at": "2025-11-07T01:48:05.366720"
+        },
+        {
+          "index": 374,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/anamur-tropikal-urunler-fuari-geride-kaldi-2448881",
+          "discovered_at": "2025-11-07T01:48:05.366724"
+        },
+        {
+          "index": 375,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/yerel-gundem/plaj-futbolu-super-finalleri-basladi-2448880",
+          "discovered_at": "2025-11-07T01:48:05.366727"
+        },
+        {
+          "index": 376,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/sivasspor-da-istifa-karari-2450486",
+          "discovered_at": "2025-11-07T01:48:05.366731"
+        },
+        {
+          "index": 377,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/ajax-macinda-hat-trick-yapmisti-uefa-dan-victor-osimhen-e-buyuk-onur-2450470",
+          "discovered_at": "2025-11-07T01:48:05.366735"
+        },
+        {
+          "index": 378,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/filenin-sultanlari-iran-i-devirdi-2-de-2-yapti-2450451",
+          "discovered_at": "2025-11-07T01:48:05.366739"
+        },
+        {
+          "index": 379,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-opet-lige-5-te-5-ile-basladi-2450447",
+          "discovered_at": "2025-11-07T01:48:05.366743"
+        },
+        {
+          "index": 380,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/ilk-kez-milli-takima-davet-edilmisti-trabzonspor-da-batagov-un-buyuk-talihsizligi-2450438",
+          "discovered_at": "2025-11-07T01:48:05.366835"
+        },
+        {
+          "index": 381,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/4-eleme-turu-kura-cekimi-yapildi-trabzonspor-un-ziraat-turkiye-kupasi-ndaki-rakibi-belli-oldu-2450406",
+          "discovered_at": "2025-11-07T01:48:05.366839"
+        },
+        {
+          "index": 382,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/nagelsmann-kararini-verdi-sane-ye-buyuk-mujde-2450382",
+          "discovered_at": "2025-11-07T01:48:05.366842"
+        },
+        {
+          "index": 383,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/adi-da-yasi-da-sahte-cikti-super-lig-de-de-forma-giyen-carlos-ponck-gozaltina-alindi-2450376",
+          "discovered_at": "2025-11-07T01:48:05.366846"
+        },
+        {
+          "index": 384,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/super-lig-de-12-haftanin-hakemleri-aciklandi-2450368",
+          "discovered_at": "2025-11-07T01:48:05.366850"
+        },
+        {
+          "index": 385,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/cristiano-ronaldo-satin-aldigi-en-pahali-seyi-acikladi-2450367",
+          "discovered_at": "2025-11-07T01:48:05.366854"
+        },
+        {
+          "index": 386,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/haftanin-ilk-kupasi-2450353",
+          "discovered_at": "2025-11-07T01:48:05.366859"
+        },
+        {
+          "index": 387,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/ajax-galibiyetinin-ardindan-iste-galatasaray-in-sampiyonlar-ligi-ni-ilk-8-de-bitirme-ihtimali-2450349",
+          "discovered_at": "2025-11-07T01:48:05.366862"
+        },
+        {
+          "index": 388,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-yenilgisi-sonrasi-ajax-taraftarindan-buyuk-tepki-2450329",
+          "discovered_at": "2025-11-07T01:48:05.366874"
+        },
+        {
+          "index": 389,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/turkiye-milli-paralimpik-komitesi-ile-ulker-den-is-birligi-2450323",
+          "discovered_at": "2025-11-07T01:48:05.366878"
+        },
+        {
+          "index": 390,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-in-gundemine-gelmisti-ademola-lookman-ile-teknik-direktoru-arasinda-flas-gerginlik-2450303",
+          "discovered_at": "2025-11-07T01:48:05.366881"
+        },
+        {
+          "index": 391,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/eypio-son-duzluk-icin-ozel-bir-sarki-hazirladi-2450294",
+          "discovered_at": "2025-11-07T01:48:05.366885"
+        },
+        {
+          "index": 392,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/alperen-sengun-double-double-yapti-rockets-serisini-5-maca-cikardi-2450288",
+          "discovered_at": "2025-11-07T01:48:05.366889"
+        },
+        {
+          "index": 393,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/victor-osimhen-dunya-basininda-mansetleri-susledi-mbappe-ve-haaland-i-devirdi-2450282",
+          "discovered_at": "2025-11-07T01:48:05.366893"
+        },
+        {
+          "index": 394,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/moda/moda-sozlugu-2436658",
+          "discovered_at": "2025-11-07T01:48:05.366896"
+        },
+        {
+          "index": 395,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/kuyumculara-yeni-duzenleme-altin-satiminda-o-bozdurma-yontemi-yasaklaniyor-2450414",
+          "discovered_at": "2025-11-07T01:48:05.366900"
+        },
+        {
+          "index": 396,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/trump-in-gumruk-vergilerine-yuksek-mahkeme-den-darbe-iptal-karari-gundemde-2450409",
+          "discovered_at": "2025-11-07T01:48:05.366904"
+        },
+        {
+          "index": 397,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/yaptirmayan-trafige-cikamayacak-zorunlu-trafik-sigortasinda-yeni-tarife-belli-oldu-2450377",
+          "discovered_at": "2025-11-07T01:48:05.366919"
+        },
+        {
+          "index": 398,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/maas-ve-tazminat-hesaplari-degisiyor-1-ocak-ta-o-odemeler-zamlanacak-2450373",
+          "discovered_at": "2025-11-07T01:48:05.366923"
+        },
+        {
+          "index": 399,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/tusiad-baskani-orhan-turan-dan-enflasyon-mesaji-sadece-para-politikasina-bel-baglayamayiz-2450370",
+          "discovered_at": "2025-11-07T01:48:05.366927"
+        },
+        {
+          "index": 400,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/dogalgaz-sayaclarina-emniyet-kilidi-uygulamasi-yolda-maliyet-yurttasa-yuklenecek-2450345",
+          "discovered_at": "2025-11-07T01:48:05.366931"
+        },
+        {
+          "index": 401,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/istanbul-da-yasam-maliyeti-rekor-seviyede-dort-kisilik-ailenin-gideri-105-bin-tl-2450340",
+          "discovered_at": "2025-11-07T01:48:05.366938"
+        },
+        {
+          "index": 402,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/hazine-ve-maliye-bakani-mehmet-simsek-ten-butce-ve-vergi-aciklamasi-vatandaslarin-yukunu-azalttik-2450338",
+          "discovered_at": "2025-11-07T01:48:05.366946"
+        },
+        {
+          "index": 403,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/mahfi-egilmez-den-enflasyon-ve-faiz-karari-aciklamasi-ben-olsam-2450313",
+          "discovered_at": "2025-11-07T01:48:05.367138"
+        },
+        {
+          "index": 404,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/sgk-uzmani-acikladi-asgari-ucret-neden-turkiye-nin-ortalama-maasi-haline-geldi-2450308",
+          "discovered_at": "2025-11-07T01:48:05.367146"
+        },
+        {
+          "index": 405,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/dev-holding-borc-bataginda-baskani-firari-1-milyar-tl-lik-kacakcilik-krizi-2450299",
+          "discovered_at": "2025-11-07T01:48:05.367149"
+        },
+        {
+          "index": 406,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-gune-yukselisle-basladi-6-kasim-2025-persembe-borsa-istanbul-da-son-durum-2450268",
+          "discovered_at": "2025-11-07T01:48:05.367152"
+        },
+        {
+          "index": 407,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/mahmut-arslan-dan-asgari-ucret-aciklamasi-eger-duzenleme-yapilmazsa-telafisi-cok-zorlasir-2450123",
+          "discovered_at": "2025-11-07T01:48:05.367155"
+        },
+        {
+          "index": 408,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/hak-is-baskani-arslan-dan-asgari-ucret-aciklamasi-saglikli-bir-ucret-cikarmak-mumkun-degil-2450107",
+          "discovered_at": "2025-11-07T01:48:05.367158"
+        },
+        {
+          "index": 409,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/gazprom-botas-dogalgaz-anlasmasi-yenileniyor-abd-baskisi-rus-gazinin-tedarikini-degistirmedi-2450036",
+          "discovered_at": "2025-11-07T01:48:05.367161"
+        },
+        {
+          "index": 410,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/sikayetler-simdiden-basladi-kasim-indirimleri-icin-uyari-2450017",
+          "discovered_at": "2025-11-07T01:48:05.367164"
+        },
+        {
+          "index": 411,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucret-enflasyon-karsisinda-pul-oldu-11-ayda-rekor-seviye-eridi-2449758",
+          "discovered_at": "2025-11-07T01:48:05.367166"
+        },
+        {
+          "index": 412,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/faiz-oranlari-guncellendi-100-bin-tl-ihtiyac-kredisi-icin-en-uygun-banka-hangisi-2449976",
+          "discovered_at": "2025-11-07T01:48:05.367169"
+        },
+        {
+          "index": 413,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-rekor-seviyeye-yakin-gozler-bakan-simsek-ve-merkez-bankasi-nda-2449968",
+          "discovered_at": "2025-11-07T01:48:05.367172"
+        },
+        {
+          "index": 414,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/bakan-duyurdu-odemeler-hesaplara-yatirilmaya-baslandi-2449955",
+          "discovered_at": "2025-11-07T01:48:05.367175"
+        },
+        {
+          "index": 415,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-gune-yukselisle-basladi-5-kasim-2025-carsamba-borsa-istanbul-da-son-durum-2449952",
+          "discovered_at": "2025-11-07T01:48:05.367178"
+        },
+        {
+          "index": 416,
+          "source": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/suruculer-dikkat-motorlu-tasit-vergisine-zam-geliyor-2449948",
+          "discovered_at": "2025-11-07T01:48:05.367181"
+        }
+      ]
+    }
+  },
+  "total_articles_discovered": 635
+}

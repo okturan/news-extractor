@@ -1,0 +1,110 @@
+{
+  "test_date": "2025-11-07T02:52:27.984771",
+  "total": 6,
+  "successful": 3,
+  "success_rate": 50.0,
+  "results": [
+    {
+      "name": "bianet_1",
+      "url": "https://bianet.org/haber/erdogan-ozele-tazminat-davasi-acti-313281",
+      "success": true,
+      "markdown_length": 44682,
+      "title": "Erdoğan, Özel’e tazminat davası açtı",
+      "metadata": {
+        "title": "Erdoğan, Özel’e tazminat davası açtı",
+        "description": "Avukat Aydın, ayrıca “Cumhurbaşkanına hakaret” suçlamasıyla Ankara Cumhuriyet Başsavcılığı’na suç duyurusunda bulunduklarını belirtti.",
+        "keywords": "CHP,özgür özel,cumhurbaşkanı,cumhurbaşkanı hakaret davası",
+        "author": null,
+        "og:description": "Avukat Aydın, ayrıca “Cumhurbaşkanına hakaret” suçlamasıyla Ankara Cumhuriyet Başsavcılığı’na suç duyurusunda bulunduklarını belirtti.",
+        "og:title": "Erdoğan, Özel’e tazminat davası açtı",
+        "og:url": "https://bianet.org/haber/erdogan-ozele-tazminat-davasi-acti-313281",
+        "og:image": "https://static.bianet.org/big-haber/2025/11/06/erdogan-ozele-tazminat-davasi-acti.jpg",
+        "og:type": "article",
+        "twitter:url": "https://bianet.org/haber/erdogan-ozele-tazminat-davasi-acti-313281",
+        "twitter:title": "Erdoğan, Özel’e tazminat davası açtı",
+        "twitter:description": "Avukat Aydın, ayrıca “Cumhurbaşkanına hakaret” suçlamasıyla Ankara Cumhuriyet Başsavcılığı’na suç duyurusunda bulunduklarını belirtti.",
+        "twitter:image": "https://static.bianet.org/big-haber/2025/11/06/erdogan-ozele-tazminat-davasi-acti.jpg",
+        "twitter:card": "summary_large_image",
+        "twitter:widgets:new-embed-design": "on",
+        "twitter:widgets:csp": "on",
+        "article:published": "2025-11-06T16:31:00+03:00"
+      },
+      "markdown_preview": "[![Facebook'ta Bianet](https://static.bianet.org/icons/icon-facebook.svg)](https://www.facebook.com/bagimsiziletisimagi) [![Twitter'da Bianet](https://static.bianet.org/icons/icon-twitter.svg)](https://twitter.com/bianet_org) [![Instagram'da Bianet](https://static.bianet.org/icons/icon-instagram.svg)](https://www.instagram.com/bianetorg) [![Bluesky'da Bianet](https://static.bianet.org/icons/icon-bluesky.svg)](https://bsky.app/profile/bianet.org) [![Youtube'da Bianet](https://static.bianet.org/ic"
+    },
+    {
+      "name": "bianet_2",
+      "url": "https://bianet.org/haber/iklim-agindan-turkiyeye-emisyonlari-azaltmadan-iklim-kriziyle-mucadele-edilemez-313275",
+      "success": true,
+      "markdown_length": 42374,
+      "title": "İklim Ağı’ndan Türkiye’ye: Emisyonları azaltmadan iklim kriziyle mücadele edilemez",
+      "metadata": {
+        "title": "İklim Ağı’ndan Türkiye’ye: Emisyonları azaltmadan iklim kriziyle mücadele edilemez",
+        "description": "Ağ, COP30 öncesi yaptığı açıklamada, Türkiye’ye kömürden çıkış ve adil geçiş politikalarını acilen hayata geçirme çağrısı yaptı.",
+        "keywords": "COP30,iklim krizi,iklim ağı",
+        "author": null,
+        "og:description": "Ağ, COP30 öncesi yaptığı açıklamada, Türkiye’ye kömürden çıkış ve adil geçiş politikalarını acilen hayata geçirme çağrısı yaptı.",
+        "og:title": "İklim Ağı’ndan Türkiye’ye: Emisyonları azaltmadan iklim kriziyle mücadele edilemez",
+        "og:url": "https://bianet.org/haber/iklim-agindan-turkiyeye-emisyonlari-azaltmadan-iklim-kriziyle-mucadele-edilemez-313275",
+        "og:image": "https://static.bianet.org/big-haber/2025/11/06/iklim-agindan-turkiyeye-emisyonlari-azaltmadan-iklim-kriziyle-mucadele-edilemez.jpg",
+        "og:type": "article",
+        "twitter:url": "https://bianet.org/haber/iklim-agindan-turkiyeye-emisyonlari-azaltmadan-iklim-kriziyle-mucadele-edilemez-313275",
+        "twitter:title": "İklim Ağı’ndan Türkiye’ye: Emisyonları azaltmadan iklim kriziyle mücadele edilemez",
+        "twitter:description": "Ağ, COP30 öncesi yaptığı açıklamada, Türkiye’ye kömürden çıkış ve adil geçiş politikalarını acilen hayata geçirme çağrısı yaptı.",
+        "twitter:image": "https://static.bianet.org/big-haber/2025/11/06/iklim-agindan-turkiyeye-emisyonlari-azaltmadan-iklim-kriziyle-mucadele-edilemez.jpg",
+        "twitter:card": "summary_large_image",
+        "twitter:widgets:new-embed-design": "on",
+        "twitter:widgets:csp": "on",
+        "article:published": "2025-11-06T15:00:00+03:00"
+      },
+      "markdown_preview": "[![Facebook'ta Bianet](https://static.bianet.org/icons/icon-facebook.svg)](https://www.facebook.com/bagimsiziletisimagi) [![Twitter'da Bianet](https://static.bianet.org/icons/icon-twitter.svg)](https://twitter.com/bianet_org) [![Instagram'da Bianet](https://static.bianet.org/icons/icon-instagram.svg)](https://www.instagram.com/bianetorg) [![Bluesky'da Bianet](https://static.bianet.org/icons/icon-bluesky.svg)](https://bsky.app/profile/bianet.org) [![Youtube'da Bianet](https://static.bianet.org/ic"
+    },
+    {
+      "name": "bianet_3",
+      "url": "https://bianet.org/haber/gazetecilere-operasyon-yalcin-cakir-oghan-sevinc-ve-colak-serbest-313253",
+      "success": true,
+      "markdown_length": 44669,
+      "title": "Gazetecilere operasyon: Yalçın, Çakır, Oğhan, Sevinç ve Çolak serbest",
+      "metadata": {
+        "title": "Gazetecilere operasyon: Yalçın, Çakır, Oğhan, Sevinç ve Çolak serbest",
+        "description": "Burhanettin Bulut: \"Bu ‘fiilî gözaltı’, muhalefeti ve özgür basını sindirmeye yönelik açık bir gözdağıdır. Türkiye’de basın üzerindeki bu sistematik baskı artık bir cadı avına dönüşmüştür.”",
+        "keywords": "Yavuz Oğhan,şaban sevinç,CHP,ifade özgürlüğü,gazetecilere gözaltı,ruşen çakır",
+        "author": null,
+        "og:description": "Burhanettin Bulut: \"Bu ‘fiilî gözaltı’, muhalefeti ve özgür basını sindirmeye yönelik açık bir gözdağıdır. Türkiye’de basın üzerindeki bu sistematik baskı artık bir cadı avına dönüşmüştür.”",
+        "og:title": "Gazetecilere operasyon: Yalçın, Çakır, Oğhan, Sevinç ve Çolak serbest",
+        "og:url": "https://bianet.org/haber/gazetecilere-operasyon-yalcin-cakir-oghan-sevinc-ve-colak-serbest-313253",
+        "og:image": "https://static.bianet.org/big-haber/2025/11/06/gazetecilere-operasyon-rusen-cakir-da-evinden-alindi.jpg",
+        "og:type": "article",
+        "twitter:url": "https://bianet.org/haber/gazetecilere-operasyon-yalcin-cakir-oghan-sevinc-ve-colak-serbest-313253",
+        "twitter:title": "Gazetecilere operasyon: Yalçın, Çakır, Oğhan, Sevinç ve Çolak serbest",
+        "twitter:description": "Burhanettin Bulut: \"Bu ‘fiilî gözaltı’, muhalefeti ve özgür basını sindirmeye yönelik açık bir gözdağıdır. Türkiye’de basın üzerindeki bu sistematik baskı artık bir cadı avına dönüşmüştür.”",
+        "twitter:image": "https://static.bianet.org/big-haber/2025/11/06/gazetecilere-operasyon-rusen-cakir-da-evinden-alindi.jpg",
+        "twitter:card": "summary_large_image",
+        "twitter:widgets:new-embed-design": "on",
+        "twitter:widgets:csp": "on",
+        "article:published": "2025-11-06T08:16:00+03:00"
+      },
+      "markdown_preview": "[![Facebook'ta Bianet](https://static.bianet.org/icons/icon-facebook.svg)](https://www.facebook.com/bagimsiziletisimagi) [![Twitter'da Bianet](https://static.bianet.org/icons/icon-twitter.svg)](https://twitter.com/bianet_org) [![Instagram'da Bianet](https://static.bianet.org/icons/icon-instagram.svg)](https://www.instagram.com/bianetorg) [![Bluesky'da Bianet](https://static.bianet.org/icons/icon-bluesky.svg)](https://bsky.app/profile/bianet.org) [![Youtube'da Bianet](https://static.bianet.org/ic"
+    },
+    {
+      "name": "t24_edge",
+      "url": "https://t24.com.tr/haber/victor-osimhen-sampiyonlar-ligi-nde-haftanin-11-ine-secildi,1274139",
+      "success": false,
+      "error": "Unexpected error in _crawl_web at line 696 in _crawl_web (../../../../Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://t24.com.tr/haber/victor-osimhen-sampiyonlar-ligi-nde-haftanin-11-ine-secildi,1274139\", waiting until \"networkidle\"\n\n\nCode context:\n 691                               tag=\"GOTO\",\n 692                               params={\"url\": url},\n 693                           )\n 694                           response = None\n 695                       else:\n 696 →                         raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 697   \n 698                   await self.execute_hook(\n 699                       \"after_goto\", page, context=context, url=url, response=response, config=config\n 700                   )\n 701   ",
+      "markdown_length": 0
+    },
+    {
+      "name": "hurriyet",
+      "url": "https://www.hurriyet.com.tr/haberleri/18-30-yas-arasi-toki-basvuru-sartlari",
+      "success": false,
+      "error": "Unexpected error in _crawl_web at line 696 in _crawl_web (../../../../Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hurriyet.com.tr/haberleri/18-30-yas-arasi-toki-basvuru-sartlari\", waiting until \"networkidle\"\n\n\nCode context:\n 691                               tag=\"GOTO\",\n 692                               params={\"url\": url},\n 693                           )\n 694                           response = None\n 695                       else:\n 696 →                         raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 697   \n 698                   await self.execute_hook(\n 699                       \"after_goto\", page, context=context, url=url, response=response, config=config\n 700                   )\n 701   ",
+      "markdown_length": 0
+    },
+    {
+      "name": "odatv",
+      "url": "https://www.odatv.com/guncel/akran-zorbaligi-davasinda-karar-cikti-120122351",
+      "success": false,
+      "error": "Unexpected error in _crawl_web at line 696 in _crawl_web (../../../../Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.odatv.com/guncel/akran-zorbaligi-davasinda-karar-cikti-120122351\", waiting until \"networkidle\"\n\n\nCode context:\n 691                               tag=\"GOTO\",\n 692                               params={\"url\": url},\n 693                           )\n 694                           response = None\n 695                       else:\n 696 →                         raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 697   \n 698                   await self.execute_hook(\n 699                       \"after_goto\", page, context=context, url=url, response=response, config=config\n 700                   )\n 701   ",
+      "markdown_length": 0
+    }
+  ]
+}

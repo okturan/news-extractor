@@ -1,0 +1,17 @@
+# Local virtual environments
+.venv/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Tooling metadata
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml

@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "haberin-dibi"
+version = "0.1.0"
+description = "Two-tier Turkish news article extractor with Newspaper4k primary and Trafilatura fallback."
+authors = ["Haberin Dibi <opensource@haberin-dibi.local>"]
+readme = "README.md"
+keywords = ["news", "scraping", "turkey", "articles", "extraction"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Text Processing :: Linguistic"
+]
+packages = [{ include = "haberin_dibi", from = "src" }]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+newspaper4k = "0.9.3.1"
+trafilatura = "^2.0.0"
+requests = "^2.31.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0"
+
+[tool.poetry.scripts]
+haberin-dibi = "haberin_dibi.cli:main"
+
+[build-system]
+requires = ["poetry-core>=2.2.1"]
+build-backend = "poetry.core.masonry.api"

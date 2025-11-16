@@ -1,0 +1,484 @@
+{
+  "test_date": "2025-11-07T02:06:15.221193",
+  "total_urls": 24,
+  "successful": 24,
+  "failed": 0,
+  "by_outlet": {
+    "Hurriyet": {
+      "tested": 3,
+      "successful": 3,
+      "results": [
+        {
+          "url": "https://www.hurriyet.com.tr/haberleri/18-30-yas-arasi-toki-basvuru-sartlari",
+          "source": "Hurriyet",
+          "success": true,
+          "title": "Sartlari Hakkında Güncel Haber ve Bilgiler",
+          "authors": [],
+          "publish_date": null,
+          "text_length": 1684,
+          "text_preview": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, CNN Türk'te Yüzyılın Konut Projesi ile ilgili açıklamalarda bulundu. \"Başvurular 10 Kasım'da başlayacak\" diyen Bakan Kurum, \"Başvuru yapanlar...",
+          "top_image": "https://image.hurimg.com/i/hurriyet/90/0x0/68fbbc9356617a12eccf5368.jpg",
+          "meta_description": "18-30-Yas-Arasi-Toki-Basvuru-Sartlari haberleri, güncel son dakika gelişmeleri ve bugün yer alan son durum bilgileri için tıklayın!...",
+          "meta_keywords": [
+            "18-30-Yas-Arasi-Toki-Basvuru-Sartlari",
+            "18-30-Yas-Arasi-Toki-Basvuru-Sartlari haberleri",
+            "18-30-Yas-Arasi-Toki-Basvuru-Sartlari gelişmeleri"
+          ]
+        },
+        {
+          "url": "https://www.hurriyet.com.tr/bilgi/galeri-en-yeni-cuma-mesajlari-2025-resimli-kisa-anlamli-cuma-sozleri-tikla-ucretsiz-indir-ekrani-yakinlariniza-hadisli-duali-ayetli-43010548",
+          "source": "Hurriyet",
+          "success": true,
+          "title": "EN YENİ CUMA MESAJLARI 2025 - RESİMLİ, KISA, ANLAMLI CUMA SÖZLERİ (Tıkla ücretsiz indir ekranı) | Yakınlarınıza hadisli, dualı, ayetli, farklı, değişik, yazılı, hareketli, hiç duyulmamış, fotoğraflı, ",
+          "authors": [
+            "hurriyet.com.tr"
+          ],
+          "publish_date": "2025-11-07 01:46:17+03:00",
+          "text_length": 11241,
+          "text_preview": "Cuma mesajları ile Hayırlı Cumalar... Cuma mesajları ve cuma günü tebrik sözleri Müslüman aleminde dua ve güzel dileklere vesile oluyor. Müminlerin manevi huzur ve heyecanla beklediği büyük bir öneme ...",
+          "top_image": "https://image.hurimg.com/i/hurriyet/90/0x0/690ced5a0d616c03a2b038de.jpg",
+          "meta_description": "En güzel, resimli cuma mesajları ve cuma günü sözleri 7 Kasım 2025 sabahı, müminlerin cuma paylaşımlarını taçlandırarak günün anlamını vurgulayacak. 'Hayırlı Cumalar' ve 'Cumanız Mübarek Olsun' dileklerinin içerisinde yer aldığı görsel, fotoğraflı, yazılı ve hareketli cuma mesajları, bu hafta da en çok tercih...",
+          "meta_keywords": [
+            "En güzel cuma mesajları 2025",
+            "cuma akşamı mesajları",
+            "dualı ve ayetli cuma mesajı",
+            "cuma günü sözleri",
+            "2025 resimli cuma mesajları"
+          ]
+        },
+        {
+          "url": "https://www.hurriyet.com.tr/mahmure/astroloji/",
+          "source": "Hurriyet",
+          "success": true,
+          "title": "Astroloji",
+          "authors": [],
+          "publish_date": "2019-05-27 15:21:34+03:00",
+          "text_length": 1646,
+          "text_preview": "KOÇ BURCU BUGÜN\n\nBugün, en büyük sevginizin, en sorumlu eyleminiz olduğunu göreceksiniz.Devamı\n\nBOĞA BURCU BUGÜN\n\nArkadaşlarınızla yaptığınız bir sohbette ortaya atılan büyük bir fikir veya ortak bir ...",
+          "top_image": "https://static.hurriyet.com.tr/static/images/hurriyet/share-img-new.png",
+          "meta_description": "Astroloji sayfasında öncelikle tüm burçlar ile ilgili günlük burç yorumları yer aldığı gibi, haftalık, aylık, yıllık (2025) yorumlar da yer almaktadır. Aynı zamanda burçların kişisel özellikleri ve tarihleri ile ilgili tüm detaylar için Mahmure'nin burçlar sayfasına girebilirsiniz.",
+          "meta_keywords": [
+            ""
+          ]
+        }
+      ]
+    },
+    "OdaTV": {
+      "tested": 3,
+      "successful": 3,
+      "results": [
+        {
+          "url": "https://www.odatv.com/guncel/akran-zorbaligi-davasinda-karar-cikti-120122351",
+          "source": "OdaTV",
+          "success": true,
+          "title": "Akran zorbalığı davasında karar çıktı",
+          "authors": [
+            "Odatv"
+          ],
+          "publish_date": "2025-11-06 18:40:19+03:00",
+          "text_length": 2092,
+          "text_preview": "Kocaeli'nin İzmit ilçesinde lise öğrencisinin darbedildikten sonra ölümüne ilişkin, Yargıtay'ın bozma ilamının ardından 4 sanığın yeniden yargılandığı davada karar verildi.\n\nKocaeli 7. Ağır Ceza Mahke...",
+          "top_image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/11/06/akran-zorbaligi-davasinda-karar-cikti-gg4f.jpg",
+          "meta_description": "Kocaeli'de Kıvanç Uman isimli lise öğrencisinin ölümüne ilişkin yeniden görülen davada karar çıktı.",
+          "meta_keywords": [
+            "Kocaeli",
+            "akran zorbalığı",
+            "Kıvanç Uman"
+          ]
+        },
+        {
+          "url": "https://www.odatv.com/dunya/belcika-milli-guvenlik-konseyi-dronelar-sebebiyle-acil-toplanma-karari-aldi-120122297",
+          "source": "OdaTV",
+          "success": true,
+          "title": "Belçika millî güvenlik konseyi acil toplanma kararı aldı",
+          "authors": [
+            "Odatv"
+          ],
+          "publish_date": "2025-11-06 12:34:12+03:00",
+          "text_length": 792,
+          "text_preview": "Belçika'nın millî güvenlik konseyi, ülkenin en işlek havalimanı Brüksel Havalimanı'nda droneların görülmesinin ardından acil olarak toplanma kararı aldı.\n\nBrüksel Havalimanı'nda salı akşamı iniş ve ka...",
+          "top_image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/11/06/belcika-milli-guvenlik-konseyi-dronelar-sebebiyle-acil-toplanma-karari-aldi-mlfn.jpg",
+          "meta_description": "Askerî üslerin ve Belçika Havalimanı'nın yakınlarında droneların görülmesinin ardından Belçika'nın millî güvenlik konseyi acil toplanma kararı aldı.",
+          "meta_keywords": [
+            "belçika",
+            "drone",
+            "milli güvenlik konseyi"
+          ]
+        },
+        {
+          "url": "https://www.odatv.com/guncel/ogrencisi-tarafindan-vurulan-ogretmen-davayi-kazandi-120122371",
+          "source": "OdaTV",
+          "success": true,
+          "title": "Öğrencisi tarafından vurulan öğretmen davayı kazandı",
+          "authors": [
+            "Odatv"
+          ],
+          "publish_date": "2025-11-07 00:23:54+03:00",
+          "text_length": 1501,
+          "text_preview": "ABD’nin Virginia eyaletine bağlı Newport News kentinde, 2023 yılının Ocak ayında 6 yaşındaki öğrencisi tarafından sınıfta vurulan öğretmen Abigail Zwerner, görev yaptığı ilkokulun eski müdür yardımcıs...",
+          "top_image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2025/11/07/ogrencisi-tarafindan-vurulan-ogretmen-davayi-kazandi-20q0.jpg",
+          "meta_description": "ABD’de 6 yaşındaki öğrencisi tarafından sınıfta vurulan öğretmen Abigail Zwerner, ihmalle suçladığı okulun eski müdür yardımcısına açtığı davayı kazandı. Jüri, Zwerner’e 10 milyon dolar tazminat ödenmesine hükmetti.",
+          "meta_keywords": [
+            "ABD",
+            "silah",
+            "Öğretmen",
+            "öğrenci",
+            "virginia"
+          ]
+        }
+      ]
+    },
+    "Bianet": {
+      "tested": 3,
+      "successful": 3,
+      "results": [
+        {
+          "url": "https://bianet.org/haber/erdogan-ozele-tazminat-davasi-acti-313281",
+          "source": "Bianet",
+          "success": true,
+          "title": "Erdoğan, Özel’e tazminat davası açtı",
+          "authors": [
+            "Bianet"
+          ],
+          "publish_date": "2025-11-06 16:31:00+03:00",
+          "text_length": 1027,
+          "text_preview": "AKP Genel Başkanı ve Cumhurbaşkanı Recep Tayyip Erdoğan, CHP Genel Başkanı Özgür Özel hakkında tazminat davası açtı.\n\nDavanın gerekçesi olarak, Özel’in 5 Kasım 2025’te Ümraniye’de düzenlenen mitingde ...",
+          "top_image": "https://static.bianet.org/big-haber/2025/11/06/erdogan-ozele-tazminat-davasi-acti.jpg",
+          "meta_description": "Avukat Aydın, ayrıca “Cumhurbaşkanına hakaret” suçlamasıyla Ankara Cumhuriyet Başsavcılığı’na suç duyurusunda bulunduklarını belirtti.",
+          "meta_keywords": [
+            "CHP",
+            "özgür özel",
+            "cumhurbaşkanı",
+            "cumhurbaşkanı hakaret davası"
+          ]
+        },
+        {
+          "url": "https://bianet.org/page/gizlilik-sozlesmesi-285338",
+          "source": "Bianet",
+          "success": true,
+          "title": "Gizlilik Sözleşmesi",
+          "authors": [],
+          "publish_date": null,
+          "text_length": 11220,
+          "text_preview": "WEB SİTESİ GİZLİLİK POLİTİKASI\n\nIPS İletişim Vakfı (\"Şirket\"), internet sitesini ziyaret eden kişilerin paylaşmış olduğu bilgilerin gizliliğini sağlamayı ilke olarak kabul etmiştir. Bu nedenle işbu \"G...",
+          "top_image": "",
+          "meta_description": "",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://bianet.org/haber/iklim-agindan-turkiyeye-emisyonlari-azaltmadan-iklim-kriziyle-mucadele-edilemez-313275",
+          "source": "Bianet",
+          "success": true,
+          "title": "İklim Ağı’ndan Türkiye’ye: Emisyonları azaltmadan iklim kriziyle mücadele edilemez",
+          "authors": [
+            "Bianet"
+          ],
+          "publish_date": "2025-11-06 15:00:00+03:00",
+          "text_length": 2926,
+          "text_preview": "İklim krizi alanında faaliyet gösteren 15 sivil toplum kuruluşunun oluşturduğu İklim Ağı, 10-21 Kasım tarihleri arasında Brezilya’nın Belém kentinde düzenlenecek BM İklim Değişikliği 30. Taraflar Konf...",
+          "top_image": "https://static.bianet.org/big-haber/2025/11/06/iklim-agindan-turkiyeye-emisyonlari-azaltmadan-iklim-kriziyle-mucadele-edilemez.jpg",
+          "meta_description": "Ağ, COP30 öncesi yaptığı açıklamada, Türkiye’ye kömürden çıkış ve adil geçiş politikalarını acilen hayata geçirme çağrısı yaptı.",
+          "meta_keywords": [
+            "COP30",
+            "iklim krizi",
+            "iklim ağı"
+          ]
+        }
+      ]
+    },
+    "Sozcu": {
+      "tested": 3,
+      "successful": 3,
+      "results": [
+        {
+          "url": "https://www.sozcu.com.tr/trafigi-tehlikeye-dusuren-drifte-ceza-p256461",
+          "source": "Sozcu",
+          "success": true,
+          "title": "Trafiği tehlikeye düşüren drifte gözaltı",
+          "authors": [
+            "AA"
+          ],
+          "publish_date": "2025-11-06 19:12:00+03:00",
+          "text_length": 266,
+          "text_preview": "www.sozcu.com.tr internet sitesinde yayınlanan yazı, haber ve fotoğrafların her türlü telif hakkı Mega Ajans ve Rek. Tic. A.Ş'ye aittir. İzin alınmadan, kaynak gösterilerek dahi iktibas edilemez.\n\nCop...",
+          "top_image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/11/driftjpg-lAq1e6cWBEabzFn2HYXt4A.jpg?w=1270&h=675&mode=crop&scale=both",
+          "meta_description": "İstanbul Sancaktepe'de otomobiliyle drift attığı görüntüleri sosyal medya hesabından paylaşan sürücü gözaltına alındı.",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://www.sozcu.com.tr/baskan-5-ay-sonra-gorevi-birakti-p256459",
+          "source": "Sozcu",
+          "success": true,
+          "title": "Başkan 5 ay sonra görevi bıraktı",
+          "authors": [
+            "DHA"
+          ],
+          "publish_date": "2025-11-06 19:00:36+03:00",
+          "text_length": 1467,
+          "text_preview": "Sivasspor'da 28 Haziran'da yapılan olağan genel kurul sonrası kulübün 20'nci başkanı olarak seçilen Gökhan Karagöl, 5 ay sonra başkanlık görevinden ayrıldı.\n\nBaşkan Karagöl Sivasspor'un resmi internet...",
+          "top_image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/11/1307512sivassporkulupbaskanikaragolgorevind297461media1jpg-xpBxnt8SUkGVG10exfusTQ.jpg?w=1270&h=675&mode=crop&scale=both",
+          "meta_description": "1'inci Lig ekiplerinden Sivasspor'un kulüp başkanı Gökhan Karagöl görevinden ayrıldığını açıkladı.",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://www.sozcu.com.tr/firtina-degil-depremdir-gelen-p256151",
+          "source": "Sozcu",
+          "success": true,
+          "title": "Fırtına değil depremdir gelen",
+          "authors": [
+            "Naim Babüroğlu"
+          ],
+          "publish_date": "2025-11-06 05:00:00+03:00",
+          "text_length": 4938,
+          "text_preview": "Mustafa Kemal, 19 Mayıs 1919’da Millî Mücadele Yolculuğu’na başlar.\n\nBu süreçte, Kürt ayaklanmalarında büyük bir artış görülür.\n\nZamanlama, isyanların bir merkezden yönetildiğini gösteriyordu.\n\nABD, İ...",
+          "top_image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2024/10/naimbaburoglujpg-Q2bdZAJzrUCzCZp6x8_tdg.jpg?w=1200&h=675&mode=crop&scale=both",
+          "meta_description": "Mustafa Kemal, 19 Mayıs 1919’da Millî Mücadele Yolculuğu’na başlar. Bu süreçte, Kürt ayaklanmalarında büyük bir artış görülür. Zamanlama, isyanların bir merkezden yönetildiğini gösteriyordu. ABD, İngiltere, Fransa ve Almanya’nın gizli belgelerinde bu gerçek açıkça görülür. ★★★ Padişah Vahdettin ve",
+          "meta_keywords": [
+            ""
+          ]
+        }
+      ]
+    },
+    "Cumhuriyet": {
+      "tested": 3,
+      "successful": 3,
+      "results": [
+        {
+          "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-manifest-uyelerinin-imza-zorunlulugu-kaldirildi-yurtdisi-cikis-yasagi-devam-edecek-2450429",
+          "source": "Cumhuriyet",
+          "success": true,
+          "title": "Son Dakika... Manifest üyelerinin imza zorunluluğu kaldırıldı, yurtdışı çıkış yasağı devam edecek",
+          "authors": [
+            "Batuhan Serim"
+          ],
+          "publish_date": "2025-11-06 16:40:00+03:00",
+          "text_length": 1418,
+          "text_preview": "İstanbul Cumhuriyet Başsavcılığı'nın, Manifest müzik grubu üyeleri ile sahnede dans ve gösteri yapan kişiler hakkında, \"hayasızca hareketler\" kapsamında \"teşhircilik\" suçundan başlattığı soruşturma ta...",
+          "top_image": "https://media.cumhuriyet.com.tr/Archive//93fab68e-7280-4625-85fb-2888aa07959c.jpg",
+          "meta_description": "Haklarında",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/altin-yeniden-yukseliste-fiyatlar-o-rakama-yaklasti-gram-ceyrek-cumhuriyet-altini-bugun-ne-kadar-oldu-6-kasim-2025-persembe-altin-fiyatlari-2450245",
+          "source": "Cumhuriyet",
+          "success": true,
+          "title": "Altın yeniden yükselişte: Fiyatlar o rakama yaklaştı! Gram, çeyrek, Cumhuriyet altını bugün ne kadar oldu? 6 Kasım 2025 Perşembe altın fiyatları…",
+          "authors": [
+            "Cumhuriyet/Ekonomi Servisi"
+          ],
+          "publish_date": "2025-11-06 09:38:00+03:00",
+          "text_length": 2139,
+          "text_preview": "Altın fiyatlarında önceki iki haftada görülen sert düşüşlerin ardından bu hafta daha yatay bir seyir öne çıkıyor. Haftanın ilk üç işlem gününde en düşük 3 bin 928 doları test eden ons altın, bugünkü i...",
+          "top_image": "https://media.cumhuriyet.com.tr/Archive/e0967da9-008d-498f-aed4-e45f57f4fba1.jpeg",
+          "meta_description": "6 Kasım 2025 Perşembe altın fiyatları belli oldu. Yurttaşlar altının ne kadar olduğunu merak etti. Peki, gram, çeyrek, Cumhuriyet altını bugün ne kadar oldu? İşte 6 Kasım 2025 Perşembe altın fiyatları...",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://www.cumhuriyet.com.tr/ekonomi/kasim-ayi-emekli-promosyonlari-guncellendi-en-yuksek-odemeyi-hangi-banka-yapiyor-2450284",
+          "source": "Cumhuriyet",
+          "success": true,
+          "title": "Kasım ayı emekli promosyonları güncellendi: En yüksek ödemeyi hangi banka yapıyor?",
+          "authors": [
+            "Cumhuriyet/Ekonomi Servisi"
+          ],
+          "publish_date": "2025-11-06 10:57:00+03:00",
+          "text_length": 2062,
+          "text_preview": "Milyonlarca emekli, ocak ayında yapılacak maaş artışını beklerken bankalar yeni müşteri kazanmak için promosyon kampanyalarını güncelledi. Bazı bankalarda 3 yıl taahhüt veren emeklilere yapılan ödemel...",
+          "top_image": "https://media.cumhuriyet.com.tr/Archive/07818dcf-7731-4585-a387-9c6f99485099.jpg",
+          "meta_description": "Kasım ayında bankalar arasındaki promosyon rekabeti hız kesmiyor. Uzmanlar, teklifler değerlendirilirken koşullara dikkat edilmesi gerektiğini vurguluyor. Hangi banka emeklilere ne kadar promosyon veriyor? Bankaların yeni teklifleri neler? Uzmanlar promosyon seçiminde nelere dikkat edilmesini öneriyor? İşte banka banka emekli promosyonu listesi...",
+          "meta_keywords": [
+            ""
+          ]
+        }
+      ]
+    },
+    "Milliyet": {
+      "tested": 3,
+      "successful": 3,
+      "results": [
+        {
+          "url": "https://www.milliyet.com.tr/milliyet-tv/son-sansiydi-listeye-kayit-oldu-45-dakika-sonra-telefonu-caldi-video-7478234",
+          "source": "Milliyet",
+          "success": true,
+          "title": "Son şansıydı! Listeye kayıt oldu, 45 dakika sonra telefonu çaldı",
+          "authors": [
+            "Milliyet.com.tr"
+          ],
+          "publish_date": "2025-11-06 15:26:00+03:00",
+          "text_length": 2228,
+          "text_preview": "Kumluca ilçesinde yaşayan Ayşe İnce, 1996'da erken doğum sırasında bebeğini kaybederek, yoğun bakıma alındı.\n\nYaklaşık iki ay yoğun bakımda kalan İnce, böbrek rahatsızlıkları sonucu diyalize girmeye b...",
+          "top_image": "https://image.milimaj.com/i/milliyet/75/0x0/690c94603b681ccda51384e3.jpg",
+          "meta_description": "Antalya'da 'şans sans' diyerek listeye adını yazdıran 61 yaşındaki Ayşe İnce'nin hayatı 45 dakikada gelen telefonla değişti.",
+          "meta_keywords": [
+            "organ nakli",
+            "antalya",
+            "arif aslaner"
+          ]
+        },
+        {
+          "url": "https://www.milliyet.com.tr/ramazan/imsakiye/istanbul-iftar-vakti/",
+          "source": "Milliyet",
+          "success": true,
+          "title": "İstanbul İftar Vakti 2025 İstanbul İmsakiye ⭐️ Sahur Saati Ne Kadar Kaldı Geri Sayım",
+          "authors": [],
+          "publish_date": null,
+          "text_length": 306,
+          "text_preview": "Türkiye'den ve Dünya’dan son dakika haberler, köşe yazıları, magazinden siyasete, spordan seyahate bütün konuların tek adresi milliyet.com.tr; Milliyet.com.tr haber içerikleri izin alınmadan, kaynak g...",
+          "top_image": "https://image.milimaj.com/i/milliyet/75/600x600/5c5c174fcb145171243deea1.jpg",
+          "meta_description": "2025 İstanbul İmsakiye sayfasından İstanbul İftar Vakti, Sahur Vakti ve İmsak Saati verilerini İftara Ne Kadar Kaldı geri sayım alanı üzerinden saat dakika saniye olarak takip edebilirsiniz.",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://www.milliyet.com.tr/dunya/bmden-suriye-karari-saraya-yonelik-yaptirimlar-kaldirildi-7478392",
+          "source": "Milliyet",
+          "success": true,
+          "title": "SON DAKİKA HABERİ: BM'den Suriye kararı: Şara'ya yönelik yaptırımlar kaldırıldı",
+          "authors": [
+            "Milliyet.com.tr"
+          ],
+          "publish_date": "2025-11-06 23:24:00+03:00",
+          "text_length": 2772,
+          "text_preview": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), ABD'nin, Suriye Cumhurbaşkanı Ahmed Şara'nın pazartesi günü Beyaz Saray'a yapacağı ziyareti öncesi, Şara ve İçişleri Bakanı Enes Hattab'a yönelik yaptırıml...",
+          "top_image": "https://image.milimaj.com/i/milliyet/75/0x0/690d03fbb825a93f9900fc7e.jpg",
+          "meta_description": "Birleşmiş Milletler Güvenlik Konseyi (BMGK) Suriye Cumhurbaşkanı Şara'ya yönelik yaptırımları kaldırdı.",
+          "meta_keywords": [
+            "abd",
+            "sara",
+            "bmgk",
+            "suriye",
+            "yaptirimlar",
+            "enes hattab",
+            "uluslararasi iliskiler",
+            "son dakika haberler"
+          ]
+        }
+      ]
+    },
+    "T24": {
+      "tested": 3,
+      "successful": 3,
+      "results": [
+        {
+          "url": "https://t24.com.tr/haber/victor-osimhen-sampiyonlar-ligi-nde-haftanin-11-ine-secildi,1274139",
+          "source": "T24",
+          "success": true,
+          "title": "Victor Osimhen, Şampiyonlar Ligi'nde haftanın 11'ine seçildi",
+          "authors": [
+            "T24"
+          ],
+          "publish_date": "2025-11-06 19:45:00+03:00",
+          "text_length": 0,
+          "text_preview": "",
+          "top_image": "https://media-cdn.t24.com.tr/media/library/2025/11/1762414786798-321132.jpg",
+          "meta_description": "Victor Osimhen, Şampiyonlar Ligi'nde haftanın 11'ine seçildi",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://t24.com.tr/haber/merkez-bankasi-rezervleri-gecen-hafta-geriledi,1274090",
+          "source": "T24",
+          "success": true,
+          "title": "Merkez Bankası rezervleri geçen hafta geriledi",
+          "authors": [
+            "T24"
+          ],
+          "publish_date": "2025-11-06 16:16:00+03:00",
+          "text_length": 863,
+          "text_preview": "Merkez Bankası'nın toplam brüt rezervi 31 Ekim haftasında 183,6 milyar dolara geriledi.\n\nTürkiye Cumhuriyet Merkez Bankasının (TCMB) toplam rezervleri, 31 Ekim haftasında bir önceki haftaya göre 1 mil...",
+          "top_image": "https://media-cdn.t24.com.tr/media/library/2025/01/1737283704812-thumbs-b-c-9-dfd-8-f-9-c-048-ab-96-a-81518-b-7-d-45728-bcd.jpg",
+          "meta_description": "Merkez Bankası rezervleri geçen hafta geriledi",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://t24.com.tr/haber/isa-karakas-yazdi-hangi-maas-ve-haklardan-faydalanmak-icin-evli-olmak-gerekiyor,1256020",
+          "source": "T24",
+          "success": true,
+          "title": "İsa Karakaş yazdı: Hangi maaş ve haklardan faydalanmak için evli olmak gerekiyor?",
+          "authors": [
+            "T24"
+          ],
+          "publish_date": "2025-08-18 09:23:00+03:00",
+          "text_length": 2306,
+          "text_preview": "Türkiye gazetesi yazarı İsa Karakaş, SGK'nın hangi şartlarda evli insanların faydalanabileceği haklar sunduğunu anlattı.\n\nKarakaş'ın yazısı şöyle:\n\n\"Halk arasında “Çeyiz yardımı” olarak bilinen evlenm...",
+          "top_image": "",
+          "meta_description": "İsa Karakaş yazdı: Hangi maaş ve haklardan faydalanmak için evli olmak gerekiyor?",
+          "meta_keywords": [
+            ""
+          ]
+        }
+      ]
+    },
+    "Diken": {
+      "tested": 3,
+      "successful": 3,
+      "results": [
+        {
+          "url": "https://www.diken.com.tr/evrenin-ilk-donemlerinde-olusmus-super-kutleli-bir-kara-delik-kesfedildi/",
+          "source": "Diken",
+          "success": true,
+          "title": "Evrenin ilk dönemlerinde oluşmuş süper kütleli bir kara delik keşfedildi",
+          "authors": [
+            "Fazlı Gök"
+          ],
+          "publish_date": "2025-11-05 13:32:45+03:00",
+          "text_length": 1629,
+          "text_preview": "Gökbilimciler, James Webb Uzay Teleskobu’nu (JWST) kullanarak evrenin ‘kozmik öğle’ döneminde var olan süper kütleli bir kara delik keşfetti.\n\nABD Havacılık ve Uzay Ajansı’na (NASA) ait teleskop, uzay...",
+          "top_image": "https://www.diken.com.tr/wp-content/uploads/2025/11/2025-11-05-kara-delik-BIRD-space.com_.jpg",
+          "meta_description": "05.11.2025 - Gökbilimciler, James Webb Uzay Teleskobu'nu (JWST) kullanarak evrenin 'kozmik öğle' döneminde var olan süper kütleli bir kara delik keşfetti.",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://www.diken.com.tr/fusun-sarp-nebil-mamdani-daha-genc-ve-dijital-odakli-kampanyalarin-yerlesik-siyaseti-yenebilecegini-gosterdi/",
+          "source": "Diken",
+          "success": true,
+          "title": "Füsun Sarp Nebil: Mamdani daha genç ve dijital odaklı kampanyaların yerleşik siyaseti yenebileceğini gösterdi",
+          "authors": [
+            "Diken"
+          ],
+          "publish_date": "2025-11-06 07:20:02+03:00",
+          "text_length": 1465,
+          "text_preview": "Dün yapılan New York Belediye Başkanlığı seçimlerini, Uganda doğumlu ve Müslüman olan Zohran Mamdani kazandı.\n\nInstagram, TikTok, X.com gibi sosyal platformlarda yoğun kampanya içerikleri yayınlandı. ...",
+          "top_image": "https://www.diken.com.tr/wp-content/uploads/2025/10/diken-og-image.jpg",
+          "meta_description": "06.11.2025 - Mamdani, rakibi Cuomo'nun kullandığı yoğun TV reklamları ve e-posta gönderimleri yerine gerçek zamanlı etkileşime ağırlık verdi.",
+          "meta_keywords": [
+            ""
+          ]
+        },
+        {
+          "url": "https://www.diken.com.tr/brand-week-istanbula-son-bir-hafta-2/",
+          "source": "Diken",
+          "success": true,
+          "title": "Brand Week Istanbul'a Son Bir Hafta!",
+          "authors": [
+            "Cihan Tekin"
+          ],
+          "publish_date": "2025-11-06 11:40:00+03:00",
+          "text_length": 3604,
+          "text_preview": "Advertorial\n\nYılın en ilham verici haftası; yaratıcılığı, iletişimi, teknolojiyi, marka dünyasının gündemini belirlemek üzere bir hafta sonra izleyicisi ile buluşacak.\n\nEMEA bölgesinin en büyük yaratı...",
+          "top_image": "https://www.diken.com.tr/wp-content/uploads/2025/11/BWI25-6-1.jpg",
+          "meta_description": "06.11.2025 - “Brand New World” temasıyla bir araya gelecek Brand Week Istanbul; başarının kurallarının yeniden yazıldığı bir döneme odaklanıyor.",
+          "meta_keywords": [
+            ""
+          ]
+        }
+      ]
+    }
+  }
+}

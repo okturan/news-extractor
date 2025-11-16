@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>News Backlog Viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+    body {
+      margin: 2rem auto;
+      max-width: 960px;
+      padding: 0 1rem 4rem;
+      line-height: 1.4;
+      background: var(--bg, #111);
+    }
+    h1 {
+      margin-bottom: .4rem;
+    }
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .8rem;
+      margin-bottom: 1rem;
+    }
+    .controls label {
+      display: flex;
+      flex-direction: column;
+      font-size: .9rem;
+      font-weight: 600;
+      gap: .2rem;
+    }
+    input[type="search"],
+    select {
+      padding: .4rem .6rem;
+      font-size: 1rem;
+      border-radius: 4px;
+      border: 1px solid #777;
+      min-width: 220px;
+    }
+    #cards {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .card {
+      border: 1px solid #7c7c7c;
+      border-radius: 8px;
+      padding: 1rem;
+      background: rgba(255, 255, 255, 0.02);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    .card.success {
+      border-color: #2e8b57;
+    }
+    .card.failed {
+      border-color: #b22222;
+    }
+    .card header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: .5rem;
+    }
+    .badge {
+      padding: .15rem .6rem;
+      border-radius: 999px;
+      font-size: .8rem;
+      text-transform: uppercase;
+      font-weight: 700;
+      letter-spacing: .05em;
+    }
+    .badge.success {
+      background: #2e8b57;
+      color: #fff;
+    }
+    .badge.failed {
+      background: #b22222;
+      color: #fff;
+    }
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      margin: .6rem 0;
+      font-size: .95rem;
+    }
+    details {
+      margin-top: .6rem;
+      border-top: 1px solid rgba(255, 255, 255, .1);
+      padding-top: .4rem;
+    }
+    details > summary {
+      font-weight: 600;
+      cursor: pointer;
+      list-style: none;
+    }
+    details > summary::marker,
+    details > summary::-webkit-details-marker {
+      display: none;
+    }
+    pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+      background: rgba(255, 255, 255, .03);
+      border-radius: 6px;
+      padding: .8rem;
+      overflow-x: auto;
+    }
+    #statusLine {
+      margin-bottom: 1rem;
+      font-size: .9rem;
+      font-weight: 600;
+    }
+    #errorMessage {
+      color: #ff4d4d;
+      font-weight: 600;
+    }
+    @media (max-width: 600px) {
+      .meta {
+        flex-direction: column;
+        gap: .3rem;
+      }
+      input[type="search"], select {
+        min-width: unset;
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>News Backlog Viewer</h1>
+  <p>
+    Static inspector for <code>backlog.jsonl</code>. Serve the repo (e.g.
+    <code>python -m http.server</code>) and open this file to browse the parsed entries.
+  </p>
+
+  <div class="controls">
+    <label>
+      Search (title/domain/url)
+      <input id="searchInput" type="search" placeholder="Type to filter…" />
+    </label>
+    <label>
+      Status
+      <select id="statusFilter">
+        <option value="all">All</option>
+        <option value="success">Success only</option>
+        <option value="failed">Failed only</option>
+      </select>
+    </label>
+    <label>
+      Method
+      <select id="methodFilter">
+        <option value="all">All</option>
+      </select>
+    </label>
+  </div>
+
+  <div id="statusLine"></div>
+  <div id="errorMessage"></div>
+  <div id="cards"></div>
+
+  <script>
+    const SOURCE = "../backlog.jsonl";
+    const searchInput = document.getElementById("searchInput");
+    const statusFilter = document.getElementById("statusFilter");
+    const methodFilter = document.getElementById("methodFilter");
+    const cardsRoot = document.getElementById("cards");
+    const statusLine = document.getElementById("statusLine");
+    const errorMessage = document.getElementById("errorMessage");
+    let rows = [];
+
+    const escapeHtml = (str) =>
+      str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+
+    async function loadJsonl() {
+      try {
+        const response = await fetch(SOURCE);
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status} (${response.statusText})`);
+        }
+        const text = await response.text();
+        rows = text
+          .split(/\n+/)
+          .map((line) => line.trim())
+          .filter(Boolean)
+          .map((line, idx) => {
+            try {
+              return JSON.parse(line);
+            } catch (err) {
+              console.error("Invalid JSON on line", idx + 1, err);
+              return null;
+            }
+          })
+          .filter(Boolean);
+        populateMethodFilter(rows);
+        render();
+      } catch (error) {
+        errorMessage.textContent = `Unable to load ${SOURCE}: ${error.message}`;
+      }
+    }
+
+    function populateMethodFilter(data) {
+      const methods = Array.from(
+        new Set(
+          data
+            .map((row) => row?.extraction?.method)
+            .filter((method) => !!method && typeof method === "string")
+        )
+      ).sort();
+      methodFilter.innerHTML =
+        `<option value="all">All</option>` +
+        methods.map((method) => `<option value="${method}">${method}</option>`).join("");
+    }
+
+    function filterRows(data) {
+      const query = searchInput.value.trim().toLowerCase();
+      const status = statusFilter.value;
+      const method = methodFilter.value;
+      return data.filter((row) => {
+        const extraction = row.extraction || null;
+        const error = row.error || null;
+        const succeeded = Boolean(extraction) && !error;
+
+        if (status === "success" && !succeeded) return false;
+        if (status === "failed" && succeeded) return false;
+        if (method !== "all" && extraction?.method !== method) return false;
+
+        if (!query) return true;
+        const haystack = [
+          row.article_id,
+          row.title,
+          row.domain,
+          row.source_url,
+          row.canonical_url,
+          extraction?.method,
+        ]
+          .filter(Boolean)
+          .join(" ")
+          .toLowerCase();
+        return haystack.includes(query);
+      });
+    }
+
+    function renderCard(row) {
+      const extraction = row.extraction || null;
+      const error = row.error || null;
+      const succeeded = Boolean(extraction) && !error;
+      const badgeClass = succeeded ? "success" : "failed";
+      const badgeText = succeeded ? "Success" : "Failed";
+      const textLength = extraction?.text_length ?? "—";
+      const method = extraction?.method ?? "n/a";
+      const keywordDisplay = extraction?.keywords?.length
+        ? extraction.keywords.join(", ")
+        : "—";
+      const summaryText = extraction?.text ?? "";
+
+      return `
+        <article class="card ${badgeClass}">
+          <header>
+            <div>
+              <strong>#${row.article_id ?? "?"}</strong>
+              <div>${escapeHtml(row.title ?? "Untitled")}</div>
+              <small>${escapeHtml(row.domain ?? "??")} &middot; ${
+        row.date ?? "n/a"
+      }</small>
+            </div>
+            <span class="badge ${badgeClass}">${badgeText}</span>
+          </header>
+          <div class="meta">
+            <div><strong>Method:</strong> ${escapeHtml(method)}</div>
+            <div><strong>Text length:</strong> ${textLength}</div>
+            <div><strong>URL:</strong> <a href="${escapeHtml(
+              row.source_url ?? "#"
+            )}" target="_blank" rel="noopener">${escapeHtml(
+        row.domain ?? "link"
+      )}</a></div>
+          </div>
+          ${
+            error
+              ? `<p><strong>Error:</strong> ${escapeHtml(String(error))}</p>`
+              : ""
+          }
+          <details>
+            <summary>Keywords & metadata</summary>
+            <p><strong>Keywords:</strong> ${escapeHtml(keywordDisplay)}</p>
+            <p><strong>Canonical:</strong> <a href="${escapeHtml(
+              row.canonical_url ?? "#"
+            )}" target="_blank" rel="noopener">${escapeHtml(
+        row.canonical_url ?? "n/a"
+      )}</a></p>
+          </details>
+          ${
+            summaryText
+              ? `<details open>
+                  <summary>Extraction text</summary>
+                  <pre>${escapeHtml(summaryText)}</pre>
+                </details>`
+              : ""
+          }
+        </article>
+      `;
+    }
+
+    function render() {
+      if (!rows.length) {
+        cardsRoot.innerHTML = "";
+        statusLine.textContent = "";
+        return;
+      }
+      const filtered = filterRows(rows);
+      cardsRoot.innerHTML = filtered.map(renderCard).join("") || "<p>No matches.</p>";
+
+      const successCount = filtered.filter(
+        (row) => row.extraction && !row.error
+      ).length;
+      statusLine.textContent = `Showing ${filtered.length} / ${rows.length} rows (success ${successCount}, failed ${
+        filtered.length - successCount
+      }).`;
+    }
+
+    [searchInput, statusFilter, methodFilter].forEach((el) =>
+      el.addEventListener("input", () => render())
+    );
+
+    loadJsonl();
+  </script>
+</body>
+</html>
