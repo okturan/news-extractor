@@ -1,6 +1,8 @@
-# Turkish News Article Extractor
+# News Extractor (Turkish Article Extractor)
 
 Production-ready article extraction for Turkish news websites with **83%+ success rate** and **sub-second performance**.
+
+> **Note:** This project was previously called `haberin-dibi`. All CLI/package names now use `news-extractor` / `news_extractor`.
 
 ## Quick Start
 
