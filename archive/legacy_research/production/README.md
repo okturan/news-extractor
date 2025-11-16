@@ -64,7 +64,7 @@ After systematic testing of 4 approaches, Trafilatura emerged as the clear winne
 pip install trafilatura
 
 # Or from project root
-pip install -r /Users/okan/code/haberin-dibi/requirements.txt
+pip install -r /Users/okan/code/news-extractor/requirements.txt
 ```
 
 ## Usage
@@ -445,8 +445,8 @@ trafilatura.fetch_url(url, decode=True)  # Show encoding issues
 ## Documentation
 
 For more details, see:
-- `/Users/okan/code/haberin-dibi/docs/COMPARISON_REPORT.md` - Why Trafilatura was chosen
-- `/Users/okan/code/haberin-dibi/docs/SMART_SCRAPING_APPROACHES.md` - Technical overview
+- `/Users/okan/code/news-extractor/docs/COMPARISON_REPORT.md` - Why Trafilatura was chosen
+- `/Users/okan/code/news-extractor/docs/SMART_SCRAPING_APPROACHES.md` - Technical overview
 - [Trafilatura Documentation](https://trafilatura.readthedocs.io/)
 
 ## Version History

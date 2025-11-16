@@ -1,4 +1,4 @@
-"""Top-level package for the Haber-in Dibi article extraction toolkit."""
+"""Top-level package for the News Extractor article extraction toolkit."""
 
 from .article_extractor import ArticleExtractor, extract_article
 

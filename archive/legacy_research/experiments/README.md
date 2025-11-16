@@ -166,13 +166,13 @@ Results from library tests are stored in their respective subdirectories:
 
 ## Next Steps
 
-See `/Users/okan/code/haberin-dibi/docs/NEXT_STEPS.md` for future development plans.
+See `/Users/okan/code/news-extractor/docs/NEXT_STEPS.md` for future development plans.
 
 ## Running the Experiments
 
 ### Prerequisites
 ```bash
-pip install -r /Users/okan/code/haberin-dibi/requirements.txt
+pip install -r /Users/okan/code/news-extractor/requirements.txt
 playwright install chromium
 ```
 
@@ -192,9 +192,9 @@ python extract_article.py
 ## Documentation
 
 For detailed analysis and recommendations, see:
-- `/Users/okan/code/haberin-dibi/docs/COMPARISON_REPORT.md` - Comprehensive comparison
-- `/Users/okan/code/haberin-dibi/docs/ALL_SCRAPING_APPROACHES.md` - All approaches explored
-- `/Users/okan/code/haberin-dibi/docs/SMART_SCRAPING_APPROACHES.md` - Smart scraping techniques
+- `/Users/okan/code/news-extractor/docs/COMPARISON_REPORT.md` - Comprehensive comparison
+- `/Users/okan/code/news-extractor/docs/ALL_SCRAPING_APPROACHES.md` - All approaches explored
+- `/Users/okan/code/news-extractor/docs/SMART_SCRAPING_APPROACHES.md` - Smart scraping techniques
 
 ---
 

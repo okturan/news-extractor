@@ -5,7 +5,7 @@ Production-ready article extraction for Turkish news websites with **83%+ succes
 ## Quick Start
 
 ```python
-from haberin_dibi import extract_article
+from news_extractor import extract_article
 
 # Extract a single article
 article = extract_article('https://bianet.org/haber/...')
@@ -21,7 +21,7 @@ print(article['keywords'])
 poetry install
 ```
 
-Run tools through Poetry so the managed environment stays consistent, e.g. `poetry run haberin-dibi https://...` or `poetry run python tests/validation/test_ultimate_combo.py`.
+Run tools through Poetry so the managed environment stays consistent, e.g. `poetry run news-extractor https://...` or `poetry run python tests/validation/test_ultimate_combo.py`.
 
 ## Features
 
@@ -42,7 +42,7 @@ Run tools through Poetry so the managed environment stays consistent, e.g. `poet
 ### Single Article
 
 ```python
-from haberin_dibi import ArticleExtractor
+from news_extractor import ArticleExtractor
 
 extractor = ArticleExtractor()
 article = extractor.extract('https://bianet.org/...')
@@ -76,9 +76,9 @@ print(f"Methods used: {stats['methods']}")
 
 ```bash
 # from the Poetry environment
-poetry run haberin-dibi 'https://bianet.org/haber/...'
+poetry run news-extractor 'https://bianet.org/haber/...'
 # or
-python -m haberin_dibi.cli 'https://bianet.org/haber/...'
+python -m news_extractor.cli 'https://bianet.org/haber/...'
 ```
 
 ## How It Works
@@ -164,7 +164,7 @@ For Java applications, deploy as a microservice:
 ```python
 # microservice.py (FastAPI)
 from fastapi import FastAPI
-from haberin_dibi import extract_article
+from news_extractor import extract_article
 
 app = FastAPI()
 
@@ -264,14 +264,14 @@ Update if:
 ## Project Structure
 
 ```
-haberin-dibi/
+news-extractor/
 ├── pyproject.toml              # Packaging + CLI entry point
 ├── requirements.txt            # `-e .` for local dev install
 ├── README.md / RESEARCH.md     # Product + research docs
-├── src/haberin_dibi/
+├── src/news_extractor/
 │   ├── __init__.py             # Exposes ArticleExtractor + helpers
 │   ├── article_extractor.py    # Production module ⭐
-│   └── cli.py                  # `haberin-dibi` / `python -m haberin_dibi.cli`
+│   └── cli.py                  # `news-extractor` / `python -m news_extractor.cli`
 ├── tests/
 │   └── validation/
 │       └── test_ultimate_combo.py  # Live validation (83% suite)
@@ -289,7 +289,7 @@ haberin-dibi/
 ## Operational Flow
 
 1. **Bootstrap** – run `poetry install` (Poetry spawns the virtualenv automatically).
-2. **Integrate** – import `ArticleExtractor` or call `poetry run haberin-dibi …` inside your workflow/job.
+2. **Integrate** – import `ArticleExtractor` or call `poetry run news-extractor …` inside your workflow/job.
 3. **Validate before deploys** – run `poetry run python tests/validation/test_ultimate_combo.py`. Galleries are intentionally ignored; all other regressions must be addressed.
 4. **Research reference** – anything under `archive/legacy_research` is frozen context only. Do not import from there in production pipelines.
 

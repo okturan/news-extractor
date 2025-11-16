@@ -128,15 +128,15 @@ def main():
     test_cases = [
         {
             "url": "https://www.hurriyet.com.tr/gundem/arnavutkoyde-feci-kaza-tir-devrildi-surucu-agir-yarali-43010201",
-            "output": "/Users/okan/code/haberin-dibi/trafilatura/hurriyet_result.json"
+            "output": "/Users/okan/code/news-extractor/trafilatura/hurriyet_result.json"
         },
         {
             "url": "https://www.odatv.com/guncel/sucuk-ekmek-kabusa-dondu-80-kisi-hastanelik-120122349",
-            "output": "/Users/okan/code/haberin-dibi/trafilatura/odatv_result.json"
+            "output": "/Users/okan/code/news-extractor/trafilatura/odatv_result.json"
         },
         {
             "url": "https://www.milliyet.com.tr/",
-            "output": "/Users/okan/code/haberin-dibi/trafilatura/milliyet_result.json"
+            "output": "/Users/okan/code/news-extractor/trafilatura/milliyet_result.json"
         }
     ]
 

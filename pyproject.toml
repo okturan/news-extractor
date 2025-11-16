@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "haberin-dibi"
+name = "news-extractor"
 version = "0.1.0"
 description = "Two-tier Turkish news article extractor with Newspaper4k primary and Trafilatura fallback."
-authors = ["Haberin Dibi <opensource@haberin-dibi.local>"]
+authors = ["News Extractor Team <opensource@news-extractor.local>"]
 readme = "README.md"
 keywords = ["news", "scraping", "turkey", "articles", "extraction"]
 classifiers = [
@@ -10,7 +10,7 @@ classifiers = [
     "Topic :: Internet :: WWW/HTTP",
     "Topic :: Text Processing :: Linguistic"
 ]
-packages = [{ include = "haberin_dibi", from = "src" }]
+packages = [{ include = "news_extractor", from = "src" }]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4.0"
@@ -22,7 +22,9 @@ requests = "^2.31.0"
 pytest = "^7.0"
 
 [tool.poetry.scripts]
-haberin-dibi = "haberin_dibi.cli:main"
+news-extractor = "news_extractor.cli:main"
+# Temporary alias so older docs/scripts keep working during the rename window.
+haberin-dibi = "news_extractor.cli:main"
 
 [build-system]
 requires = ["poetry-core>=2.2.1"]

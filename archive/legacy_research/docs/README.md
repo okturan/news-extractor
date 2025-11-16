@@ -298,9 +298,9 @@ If extending this project, maintain documentation quality by:
 ## Related Resources
 
 ### Project Files
-- `/Users/okan/code/haberin-dibi/README.md` - Main project README
-- `/Users/okan/code/haberin-dibi/production/README.md` - Production usage guide
-- `/Users/okan/code/haberin-dibi/experiments/README.md` - Experiments overview
+- `/Users/okan/code/news-extractor/README.md` - Main project README
+- `/Users/okan/code/news-extractor/production/README.md` - Production usage guide
+- `/Users/okan/code/news-extractor/experiments/README.md` - Experiments overview
 
 ### External Documentation
 - [Trafilatura Docs](https://trafilatura.readthedocs.io/)

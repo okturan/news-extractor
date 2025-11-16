@@ -2,9 +2,9 @@
 
 ## Production Surface ⭐
 
-### Source (`src/haberin_dibi/`)
+### Source (`src/news_extractor/`)
 - `article_extractor.py` – Newspaper4k primary + Trafilatura fallback implementation (83% success / 0.55s avg).
-- `cli.py` – Powers the `haberin-dibi` executable and `python -m haberin_dibi.cli` flow.
+- `cli.py` – Powers the `news-extractor` executable and `python -m news_extractor.cli` flow.
 - `__init__.py` – Exposes `ArticleExtractor` and `extract_article` for downstream imports.
 
 ### Packaging & Tooling
@@ -21,7 +21,7 @@
 
 ## Operational Workflow
 1. **Bootstrap** – `poetry install`.
-2. **Integrate** – Import `ArticleExtractor` (Python jobs) or call the `haberin-dibi` CLI inside larger workflows/microservices.
+2. **Integrate** – Import `ArticleExtractor` (Python jobs) or call the `news-extractor` CLI inside larger workflows/microservices.
 3. **Validate** – Run `poetry run python tests/validation/test_ultimate_combo.py` before promoting changes. Investigate any non-gallery failure.
 4. **Monitor** – Track success rate and fallback ratio as documented in `README.md` → drop below 80% triggers action.
 
@@ -42,12 +42,12 @@ These assets are **deprecated**—do not import or execute them inside productio
 ## Repository Map
 
 ```
-haberin-dibi/
+news-extractor/
 ├── README.md / RESEARCH.md
 ├── pyproject.toml
 ├── requirements.txt
 ├── src/
-│   └── haberin_dibi/
+│   └── news_extractor/
 │       ├── __init__.py
 │       ├── article_extractor.py
 │       └── cli.py

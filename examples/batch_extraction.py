@@ -8,7 +8,7 @@ Demonstrates:
 - Handling results
 """
 
-from haberin_dibi import ArticleExtractor
+from news_extractor import ArticleExtractor
 
 # Example Turkish news URLs
 urls = [

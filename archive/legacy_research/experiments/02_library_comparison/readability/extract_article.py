@@ -122,7 +122,7 @@ def main():
         result = extract_article(url)
 
         # Save to JSON file
-        output_path = f"/Users/okan/code/haberin-dibi/readability/{filename}"
+        output_path = f"/Users/okan/code/news-extractor/readability/{filename}"
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Compare the Haber-in Dibi extractor results with Jina Reader (https://r.jina.ai/<url>)
+Compare the News Extractor results with Jina Reader (https://r.jina.ai/<url>)
 for the canonical validation URLs.
 """
 
@@ -12,7 +12,7 @@ from typing import Any, Dict, List, Optional
 
 import requests
 
-from haberin_dibi import ArticleExtractor
+from news_extractor import ArticleExtractor
 
 logger = logging.getLogger(__name__)
 
@@ -96,7 +96,7 @@ def summarize_row(name: str, local: Optional[Dict[str, Any]], jina: Dict[str, An
     print("=" * 80)
     print(name)
     print("-" * 80)
-    print(f"Haber-in Dibi: {local_status} | len={local_len} | method={local_method}")
+    print(f"News Extractor: {local_status} | len={local_len} | method={local_method}")
     if local:
         preview = textwrap.shorten(local["text"], width=160, placeholder="...")
         if looks_like_error(local["text"]):
@@ -131,7 +131,7 @@ def main() -> None:
     print("=" * 80)
     print("SUMMARY")
     print("=" * 80)
-    print(f"Haber-in Dibi success: {local_success}/{total} ({local_success/total*100:.1f}%)")
+    print(f"News Extractor success: {local_success}/{total} ({local_success/total*100:.1f}%)")
     print(f"Jina Reader success : {jina_success}/{total} ({jina_success/total*100:.1f}%)")
 
 

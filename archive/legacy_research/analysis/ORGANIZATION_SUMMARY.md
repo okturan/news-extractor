@@ -1,12 +1,12 @@
 # Project Organization Summary
 
 **Date:** November 7, 2025
-**Project:** haberin-dibi (Turkish News Web Scraping Research)
+**Project:** news-extractor (Turkish News Web Scraping Research)
 **Task:** Repository organization and restructuring
 
 ## Overview
 
-The haberin-dibi directory has been reorganized from a flat structure with mixed experimental and production code into a clean, logical hierarchy that clearly separates concerns and makes the project easy to navigate.
+The news-extractor directory has been reorganized from a flat structure with mixed experimental and production code into a clean, logical hierarchy that clearly separates concerns and makes the project easy to navigate.
 
 ## Before: Flat Structure
 
@@ -29,7 +29,7 @@ Previously, all files were in the root directory:
 ## After: Organized Hierarchy
 
 ```
-haberin-dibi/
+news-extractor/
 ├── README.md                           # Comprehensive project overview
 ├── requirements.txt                    # Python dependencies
 ├── production/                         # Production-ready code
@@ -89,7 +89,7 @@ haberin-dibi/
 ## File Movements
 
 ### Production Code
-**Destination:** `/Users/okan/code/haberin-dibi/production/`
+**Destination:** `/Users/okan/code/news-extractor/production/`
 
 | File | From | To |
 |------|------|-----|
@@ -98,7 +98,7 @@ haberin-dibi/
 **Reasoning:** This is the final, production-ready scraper using Trafilatura. It deserves its own directory for visibility and future production code.
 
 ### Manual Scrapers
-**Destination:** `/Users/okan/code/haberin-dibi/experiments/01_manual_scrapers/`
+**Destination:** `/Users/okan/code/news-extractor/experiments/01_manual_scrapers/`
 
 | File | From | To |
 |------|------|-----|
@@ -112,7 +112,7 @@ haberin-dibi/
 **Reasoning:** These are experimental site-specific scrapers that preceded the discovery of Trafilatura. Numbered prefix (01_) indicates chronological order of experimentation.
 
 ### Library Comparison Tests
-**Destination:** `/Users/okan/code/haberin-dibi/experiments/02_library_comparison/`
+**Destination:** `/Users/okan/code/news-extractor/experiments/02_library_comparison/`
 
 | Files | From | To |
 |-------|------|-----|
@@ -124,7 +124,7 @@ haberin-dibi/
 **Reasoning:** Systematic library comparison tests. Numbered prefix (02_) shows this came after manual scrapers. Kept subdirectory structure intact with all test scripts and results.
 
 ### Test Results
-**Destination:** `/Users/okan/code/haberin-dibi/experiments/results/`
+**Destination:** `/Users/okan/code/news-extractor/experiments/results/`
 
 | File | From | To |
 |------|------|-----|
@@ -139,7 +139,7 @@ haberin-dibi/
 **Reasoning:** All JSON output from scraping tests consolidated in one place. Preserves chronological order in filenames.
 
 ### Documentation
-**Destination:** `/Users/okan/code/haberin-dibi/docs/`
+**Destination:** `/Users/okan/code/news-extractor/docs/`
 
 | File | From | To |
 |------|------|-----|
@@ -163,7 +163,7 @@ haberin-dibi/
 
 ### README Files
 
-1. **`/Users/okan/code/haberin-dibi/README.md`** (Updated)
+1. **`/Users/okan/code/news-extractor/README.md`** (Updated)
    - Comprehensive project overview
    - Quick start guide
    - Directory structure explanation
@@ -172,7 +172,7 @@ haberin-dibi/
    - Technical metrics
    - 330 lines of detailed documentation
 
-2. **`/Users/okan/code/haberin-dibi/production/README.md`** (New)
+2. **`/Users/okan/code/news-extractor/production/README.md`** (New)
    - Production scraper usage guide
    - Why Trafilatura was chosen
    - Installation instructions
@@ -183,7 +183,7 @@ haberin-dibi/
    - Troubleshooting guide
    - 400+ lines of production documentation
 
-3. **`/Users/okan/code/haberin-dibi/experiments/README.md`** (New)
+3. **`/Users/okan/code/news-extractor/experiments/README.md`** (New)
    - Experiments overview
    - Manual scrapers explanation
    - Library comparison summary
@@ -192,7 +192,7 @@ haberin-dibi/
    - Development timeline
    - 250+ lines documenting research process
 
-4. **`/Users/okan/code/haberin-dibi/docs/README.md`** (New)
+4. **`/Users/okan/code/news-extractor/docs/README.md`** (New)
    - Documentation directory guide
    - Document summaries
    - Reading guide for different audiences
@@ -201,7 +201,7 @@ haberin-dibi/
    - Research methodology
    - 300+ lines of meta-documentation
 
-5. **`/Users/okan/code/haberin-dibi/ORGANIZATION_SUMMARY.md`** (This file)
+5. **`/Users/okan/code/news-extractor/ORGANIZATION_SUMMARY.md`** (This file)
    - Complete organization summary
    - File movement tracking
    - Naming convention documentation
@@ -268,34 +268,34 @@ haberin-dibi/
 
 | What | Where | Path |
 |------|-------|------|
-| **Production Scraper** | production/ | `/Users/okan/code/haberin-dibi/production/smart_scraper_demo.py` |
-| **Main README** | Root | `/Users/okan/code/haberin-dibi/README.md` |
-| **Comparison Report** | docs/ | `/Users/okan/code/haberin-dibi/docs/COMPARISON_REPORT.md` |
-| **Production Guide** | production/ | `/Users/okan/code/haberin-dibi/production/README.md` |
+| **Production Scraper** | production/ | `/Users/okan/code/news-extractor/production/smart_scraper_demo.py` |
+| **Main README** | Root | `/Users/okan/code/news-extractor/README.md` |
+| **Comparison Report** | docs/ | `/Users/okan/code/news-extractor/docs/COMPARISON_REPORT.md` |
+| **Production Guide** | production/ | `/Users/okan/code/news-extractor/production/README.md` |
 
 ### For Learning
 
 | What | Where | Path |
 |------|-------|------|
-| **All Scraping Methods** | docs/ | `/Users/okan/code/haberin-dibi/docs/ALL_SCRAPING_APPROACHES.md` |
-| **Library Comparison** | docs/ | `/Users/okan/code/haberin-dibi/docs/COMPARISON_REPORT.md` |
-| **Smart Scraping** | docs/ | `/Users/okan/code/haberin-dibi/docs/SMART_SCRAPING_APPROACHES.md` |
-| **Experiments Overview** | experiments/ | `/Users/okan/code/haberin-dibi/experiments/README.md` |
+| **All Scraping Methods** | docs/ | `/Users/okan/code/news-extractor/docs/ALL_SCRAPING_APPROACHES.md` |
+| **Library Comparison** | docs/ | `/Users/okan/code/news-extractor/docs/COMPARISON_REPORT.md` |
+| **Smart Scraping** | docs/ | `/Users/okan/code/news-extractor/docs/SMART_SCRAPING_APPROACHES.md` |
+| **Experiments Overview** | experiments/ | `/Users/okan/code/news-extractor/experiments/README.md` |
 
 ### For Development
 
 | What | Where | Path |
 |------|-------|------|
-| **Dependencies** | Root | `/Users/okan/code/haberin-dibi/requirements.txt` |
-| **Next Steps** | docs/ | `/Users/okan/code/haberin-dibi/docs/NEXT_STEPS.md` |
-| **Test Results** | experiments/results/ | `/Users/okan/code/haberin-dibi/experiments/results/` |
+| **Dependencies** | Root | `/Users/okan/code/news-extractor/requirements.txt` |
+| **Next Steps** | docs/ | `/Users/okan/code/news-extractor/docs/NEXT_STEPS.md` |
+| **Test Results** | experiments/results/ | `/Users/okan/code/news-extractor/experiments/results/` |
 
 ### For Site-Specific Info
 
 | What | Where | Path |
 |------|-------|------|
-| **Turkish News Sites** | docs/ | `/Users/okan/code/haberin-dibi/docs/TURKISH_NEWS_SOURCES.md` |
-| **Manual Scrapers** | experiments/01_manual_scrapers/ | `/Users/okan/code/haberin-dibi/experiments/01_manual_scrapers/` |
+| **Turkish News Sites** | docs/ | `/Users/okan/code/news-extractor/docs/TURKISH_NEWS_SOURCES.md` |
+| **Manual Scrapers** | experiments/01_manual_scrapers/ | `/Users/okan/code/news-extractor/experiments/01_manual_scrapers/` |
 
 ## Benefits of New Structure
 
@@ -375,7 +375,7 @@ haberin-dibi/
 
 ### Directory Structure Check
 ```bash
-tree -L 3 /Users/okan/code/haberin-dibi
+tree -L 3 /Users/okan/code/news-extractor
 ```
 ✓ All directories created
 ✓ All files in correct locations
@@ -440,9 +440,9 @@ mv smart_scraper_demo.py production/
 
 ### For Users
 
-1. **Start with:** `/Users/okan/code/haberin-dibi/README.md`
-2. **For production use:** `/Users/okan/code/haberin-dibi/production/README.md`
-3. **For learning:** `/Users/okan/code/haberin-dibi/docs/COMPARISON_REPORT.md`
+1. **Start with:** `/Users/okan/code/news-extractor/README.md`
+2. **For production use:** `/Users/okan/code/news-extractor/production/README.md`
+3. **For learning:** `/Users/okan/code/news-extractor/docs/COMPARISON_REPORT.md`
 
 ### For Developers
 
@@ -463,7 +463,7 @@ mv smart_scraper_demo.py production/
 ### Possible Additions
 
 ```
-haberin-dibi/
+news-extractor/
 ├── production/
 │   ├── smart_scraper_demo.py
 │   ├── batch_processor.py          # NEW: Batch scraping
@@ -481,7 +481,7 @@ haberin-dibi/
 
 ## Conclusion
 
-The haberin-dibi project has been successfully reorganized from a flat structure into a professional, maintainable hierarchy that:
+The news-extractor project has been successfully reorganized from a flat structure into a professional, maintainable hierarchy that:
 
 ✓ Clearly separates production code from experiments
 ✓ Organizes all test results in one location

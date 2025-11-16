@@ -254,6 +254,6 @@ From previous tests, **Trafilatura** also had 100% success rate. Should compare 
 ---
 
 ## Files
-- Test script: `/Users/okan/code/haberin-dibi/test_newspaper4k_extraction.py`
-- Test results: `/Users/okan/code/haberin-dibi/newspaper4k_extraction_test_20251107_020626.json`
-- This report: `/Users/okan/code/haberin-dibi/newspaper4k_extraction_findings.md`
+- Test script: `/Users/okan/code/news-extractor/test_newspaper4k_extraction.py`
+- Test results: `/Users/okan/code/news-extractor/newspaper4k_extraction_test_20251107_020626.json`
+- This report: `/Users/okan/code/news-extractor/newspaper4k_extraction_findings.md`

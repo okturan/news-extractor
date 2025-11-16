@@ -283,7 +283,7 @@ def extract_article(url: str) -> Optional[Dict[str, Any]]:
         Article dictionary or None
 
     Example:
-        >>> from haberin_dibi import extract_article
+        >>> from news_extractor import extract_article
         >>> article = extract_article('https://bianet.org/...')
         >>> print(article['title'])
     """

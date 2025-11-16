@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Bridge script: reuse the Haber-in Dibi extractor on URLs that already exist
+Bridge script: reuse the News Extractor CLI on URLs that already exist
 inside the News Gatherer SQLite database so we can inspect full-text results.
 
-Usage (from the haberin-dibi project root, after `poetry install`):
+Usage (from the news-extractor project root, after `poetry install`):
 
     poetry run python examples/scrape_news_gatherer_backlog.py \
         --db ../news-gatherer/output/news-gatherer.db \
@@ -25,12 +25,12 @@ SRC_PATH = PROJECT_ROOT / "src"
 if SRC_PATH.exists():
     sys.path.insert(0, str(SRC_PATH))
 
-from haberin_dibi import ArticleExtractor
+from news_extractor import ArticleExtractor
 
 
 def parse_args(argv: Iterable[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Run Haber-in Dibi on the existing News Gatherer URLs."
+        description="Run News Extractor on the existing News Gatherer URLs."
     )
     parser.add_argument(
         "--db",

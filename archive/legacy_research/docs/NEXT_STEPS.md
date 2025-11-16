@@ -9,7 +9,7 @@
 ## Project Structure
 
 ```
-haberin-dibi/
+news-extractor/
 ├── hurriyet_scraper.py              # Manual Playwright scraper for Hurriyet
 ├── hurriyet_article_scraper.py      # Individual article scraper
 ├── hurriyet_full_scraper.py         # Complete scraper (homepage + articles)
