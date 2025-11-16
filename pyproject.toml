@@ -23,8 +23,6 @@ pytest = "^7.0"
 
 [tool.poetry.scripts]
 news-extractor = "news_extractor.cli:main"
-# Temporary alias so older docs/scripts keep working during the rename window.
-haberin-dibi = "news_extractor.cli:main"
 
 [build-system]
 requires = ["poetry-core>=2.2.1"]
