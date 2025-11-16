@@ -293,6 +293,29 @@ news-extractor/
 3. **Validate before deploys** – run `poetry run python tests/validation/test_ultimate_combo.py`. Galleries are intentionally ignored; all other regressions must be addressed.
 4. **Research reference** – anything under `archive/legacy_research` is frozen context only. Do not import from there in production pipelines.
 
+## Backlog Inspection Tools
+
+Coordinate with the Java collector via these helpers:
+
+1. **re-extract backlog rows**
+   ```bash
+   poetry run python examples/scrape_news_gatherer_backlog.py \
+     --db ../news-gatherer/output/news-gatherer.db \
+     --limit 50 --format json > backlog.jsonl
+   ```
+   - Reads from the `articles` table, runs `news_extractor.ArticleExtractor` for each URL, and emits JSON/pretty payloads with error notes.
+
+2. **inspect JSONL output**
+   ```bash
+   poetry run python examples/view_jsonl.py backlog.jsonl --limit 10
+   ```
+   - Provides quick previews (domain, title, method, truncated text). Handy for CLI-based QA.
+
+3. **visualize in browser**
+   - Open `examples/backlog_viewer.html` and load the `backlog.jsonl` file to browse articles interactively (search/filter, expand text, see extraction metadata).
+
+Keep `backlog.jsonl` under version control only when sharing curated samples; otherwise treat it as local output.
+
 ## Contributing
 
 This is a research project. Key decisions documented in `RESEARCH.md`.
