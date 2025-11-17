@@ -15,17 +15,16 @@ from __future__ import annotations
 
 import argparse
 import json
-import sqlite3
 import sys
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional
+from typing import Iterable
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 SRC_PATH = PROJECT_ROOT / "src"
 if SRC_PATH.exists():
     sys.path.insert(0, str(SRC_PATH))
 
-from news_extractor import ArticleExtractor
+from news_extractor.backlog import load_records, print_pretty, reextract, summarize
 
 
 def parse_args(argv: Iterable[str] | None = None) -> argparse.Namespace:
@@ -65,74 +64,6 @@ def parse_args(argv: Iterable[str] | None = None) -> argparse.Namespace:
     return parser.parse_args(argv)
 
 
-def fetch_articles(db_path: Path, limit: int, offset: int) -> List[sqlite3.Row]:
-    conn = sqlite3.connect(db_path)
-    conn.row_factory = sqlite3.Row
-    try:
-        cursor = conn.execute(
-            """
-            SELECT id, url, canonical_url, title, domain, stored_at
-            FROM articles
-            ORDER BY stored_at DESC
-            LIMIT ? OFFSET ?
-            """,
-            (limit, offset),
-        )
-        return cursor.fetchall()
-    finally:
-        conn.close()
-
-
-def run_extractions(rows: List[sqlite3.Row], min_text_length: int) -> List[Dict[str, Any]]:
-    extractor = ArticleExtractor(min_text_length=min_text_length)
-    results: List[Dict[str, Any]] = []
-
-    for row in rows:
-        payload: Dict[str, Any] = {
-            "article_id": row["id"],
-            "canonical_url": row["canonical_url"],
-            "source_url": row["url"],
-            "title": row["title"],
-            "domain": row["domain"],
-            "stored_at": row["stored_at"],
-        }
-
-        article: Optional[Dict[str, Any]] = None
-        error: Optional[str] = None
-        try:
-            article = extractor.extract(row["url"])
-        except Exception as exc:  # Surface unexpected extraction failures
-            error = f"{type(exc).__name__}: {exc}"
-
-        payload["extraction"] = article
-        payload["error"] = error
-        results.append(payload)
-    return results
-
-
-def print_pretty(results: List[Dict[str, Any]]) -> None:
-    for entry in results:
-        print("=" * 100)
-        print(f"[{entry['article_id']}] {entry['title']} ({entry['domain']})")
-        print(f"URL: {entry['source_url']}")
-        print(f"Canonical: {entry['canonical_url']}")
-        extraction = entry["extraction"]
-
-        if extraction:
-            print(f"Method: {extraction['method']}")
-            print(f"Text length: {extraction['text_length']}")
-            keywords = ", ".join(extraction.get("keywords") or []) or "N/A"
-            print(f"Keywords: {keywords}")
-            preview = (extraction.get("text") or "")[:280]
-            print("-" * 100)
-            print(preview + ("..." if len(preview) == 280 else ""))
-        else:
-            print("Extraction: ❌")
-            if entry["error"]:
-                print(f"Error: {entry['error']}")
-        print()
-
-
 def main(argv: Iterable[str] | None = None) -> int:
     args = parse_args(argv)
 
@@ -140,12 +71,12 @@ def main(argv: Iterable[str] | None = None) -> int:
         print(f"Database not found: {args.db}", file=sys.stderr)
         return 2
 
-    rows = fetch_articles(args.db, args.limit, args.offset)
-    if not rows:
+    records = load_records(args.db, args.limit, args.offset)
+    if not records:
         print("No rows returned from the articles table.", file=sys.stderr)
         return 1
 
-    results = run_extractions(rows, args.min_text_length)
+    results = reextract(records, min_text_length=args.min_text_length)
 
     if args.format == "json":
         for entry in results:
@@ -153,10 +84,16 @@ def main(argv: Iterable[str] | None = None) -> int:
     else:
         print_pretty(results)
 
-    successes = sum(1 for entry in results if entry["extraction"])
-    print(f"\nSummary: {successes}/{len(results)} extractions succeeded "
-          f"({successes / len(results) * 100:.1f}% with min_text_length={args.min_text_length}).")
-    return 0 if successes else 3
+    stats = summarize(results)
+    if stats["total"]:
+        print(
+            f"\nSummary: {stats['successes']}/{stats['total']} extractions succeeded "
+            f"({stats['success_rate']:.1f}% with min_text_length={args.min_text_length})."
+        )
+    else:
+        print("\nSummary: no rows processed.")
+
+    return 0 if stats["successes"] else 3
 
 
 if __name__ == "__main__":

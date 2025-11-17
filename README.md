@@ -314,6 +314,8 @@ Coordinate with the Java collector via these helpers:
 3. **visualize in browser**
    - Open `examples/backlog_viewer.html` and load the `backlog.jsonl` file to browse articles interactively (search/filter, expand text, see extraction metadata).
 
+For automation, import `news_extractor.backlog` and call `load_records()` / `reextract()` directly instead of invoking the CLI script.
+
 Keep `backlog.jsonl` under version control only when sharing curated samples; otherwise treat it as local output.
 
 ## Contributing

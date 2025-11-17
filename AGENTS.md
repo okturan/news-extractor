@@ -4,6 +4,7 @@
 - `src/news_extractor/` holds the production package: `article_extractor.py` (core logic), `cli.py` (command-line entry), and `__init__.py` (public exports). Treat this directory as the only source for imports.
 - `tests/validation/` contains live suites: `test_ultimate_combo.py` (canonical 6-URL benchmark) and `compare_with_jina.py` (side-by-side reader comparison). Galleries intentionally fail—log but do not block.
 - `examples/batch_extraction.py` demonstrates batch usage; reuse it when creating new sample code.
+- Backlog helpers now live in the `news_extractor.backlog` module—scripts (`examples/scrape_news_gatherer_backlog.py`, `view_jsonl.py`, `backlog_viewer.html`) are thin wrappers. Keep module API and docs in sync.
 - `examples/scrape_news_gatherer_backlog.py`, `examples/view_jsonl.py`, and `examples/backlog_viewer.html` are now documented in `README.md` under "Backlog Inspection Tools"—update both docs and scripts together.
 - `archive/legacy_research/` preserves deprecated experiments, docs, and legacy scripts. Never depend on it at runtime; cite it only for research context.
 
